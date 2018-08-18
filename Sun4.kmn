@@ -554,7 +554,6 @@ c this is the group for f
 'patience' + ' ' > U+E16F
 'patient' + ' ' > U+E16F
 'peace' + ' ' > U+E123
-'pigeon' + ' ' > U+E0B6
 'pen' + ' ' > U+E29C
 'people' + ' ' > U+E127
 'perceive' + ' ' > U+E06A
@@ -819,7 +818,6 @@ c this is the group for f
 'walk' + ' ' > U+E256
 'wall' + ' ' > U+E288
 'war' + ' ' > U+E283
-'waist' + ' ' > U+E391
 'wait' + ' ' > U+EA11
 'wash' + ' ' > U+E08B
 'watchman' + ' ' > U+E0a8
@@ -963,7 +961,6 @@ c proper Nouns
 'Rufus' + ' ' > U+E36E
 'Salome' + ' ' > U+E379
 'Satan' + ' ' > U+E335
-'Scripture' + ' ' > U+E22C
 'Sea_of_Galilee' + ' ' > U+E350
 'Sheol' + ' ' > U+E0c9
 'Sidon' + ' ' > U+E33C
