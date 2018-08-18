@@ -1,0 +1,20 @@
+#SelectWorthOutputting() 
+Select(0uea35, 0uea41)
+#f = open( 'rosetteMury.txt' ) 
+foreach 
+        nom = GlyphInfo("Unicode") 
+   ##   if( nom >59956 && nom<=59967 ) 
+   ##         ya = Int(GlyphInfo("BBox")[3]) 
+   ##         xa =Int(GlyphInfo("BBox")[2])-Int(GlyphInfo("BBox")[1]) 
+             #   writestringtofile('D:\Documents\WA-SUN\20180803\glyph_svg\'+ nom + ',' + xa + ',' + ya , gi.txt, 1)
+			  WriteStringToFile("line "+nom, "fonts.list", 1)
+   ##   endif 
+
+endloop 
+foreach 
+     
+      ##    validate();
+		  WriteStringToFile(Validate(), "validate.list", 1)
+
+
+endloop 
