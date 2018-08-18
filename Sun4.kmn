@@ -64,10 +64,12 @@ group(main) using keys
 'battle' + ' ' > U+E283
 'bear_with' + ' ' > U+E227
 'beast' + ' ' > U+E103
-'beat' + ' ' > U+E0e4
+'beat' + ' ' > U+E0e4 
+'beauty' + ' ' > U+EA4A
+'beautiful' + ' ' > U+EA4A
 'because' + ' '  > U+E066
 'beckon' + ' ' > U+E040
-'become(person)' + ' ' > U+E83a
+'become(person)' + ' ' > U+E83A
 'become(thing)' + ' ' > U+E839 
 'bed' + ' ' > U+E122
 'before' + ' ' > U+E107
@@ -141,7 +143,8 @@ c these are the c items
 'church' + ' ' > U+E03D
 'circumcise' + ' ' > U+E250
 'circumcision' + ' ' > U+E250
-'clean' + ' ' > U+E248
+'clean' + ' ' > U+E248  
+'cloak' + ' ' > U+EA76
 'closed' + ' ' > U+E23F
 'clothe' + ' ' > U+E147
 'clothing' + ' ' > U+E253
@@ -155,7 +158,8 @@ c these are the c items
 'command' + ' ' > U+E058
 'compassion' + ' ' > U+E01A
 'confidence' + ' ' > U+E070
-'control' + ' ' > U+E332
+'control' + ' ' > U+E332  
+'convert' + ' ' > U+E83A
 'cornerstone' + ' ' > U+E21C
 'correct' + ' ' > U+E09a
 'country' + ' ' > U+E0a2
@@ -180,6 +184,7 @@ c these are the c items
 
 c these are the d items
 
+'condemn' + ' ' > U+EA7F
 'dance' + ' ' > U+E259
 'dark' + ' ' > U+EA17
 'daughter' + ' ' > U+E00C
@@ -222,7 +227,8 @@ c these are the d items
 'doubt' + ' ' > U+E194
 'dough' + ' ' > U+EA36
 'dove' + ' ' > U+E25E
-'down' + ' ' > U+E319
+'down' + ' ' > U+E319  
+'dream' + ' ' > U+EA80
 'drink' + ' ' > U+E274
 'dry' + ' ' > U+E188
 'dust' + ' ' > U+E15D
@@ -273,7 +279,8 @@ c this is the group for f
 'far' + ' ' > U+E197
 'farmer' + ' ' > U+E133
 'fast(no_eat)' + ' ' > U+E18E
-'fast(speed)' + ' ' > U+E21A
+'fast(speed)' + ' ' > U+E21A  
+'fat' + ' ' > U+EA86
 'father' + ' ' > U+E003
 'fear' + ' ' > U+E056
 'feast' + ' ' > U+E054
@@ -295,6 +302,7 @@ c this is the group for f
 'fly' + ' ' > U+E25B
 'follow' + ' ' > U+E13E
 'food' + ' ' > U+E053
+'fool' + ' ' > U+EA7C
 'foot' + ' ' > U+E13D
 'for' + ' ' > U+E086
 'foreigner' + ' ' > U+E158
@@ -325,7 +333,8 @@ c this is the group for f
 'girls' + ' ' > U+E00A
 'give' + ' ' > U+E086
 'glory' + ' ' > U+E217
-'go' + ' ' > U+E381
+'go' + ' ' > U+E381 
+'goat' + ' ' > U+EA7D
 'good' + ' ' > U+E096
 'gospel' + ' ' > U+E22B
 'governor' + ' ' > U+E0a3
@@ -342,6 +351,8 @@ c this is the group for f
 'grow' + ' ' > U+E154
 'growth' + ' ' > U+E154
 'guard' + ' ' > U+E0c1
+'guilt' + ' ' > U+EA84
+'guilty' + ' ' > U+EA84
 'hail' + ' ' > U+EA13
 'hair' + ' ' > U+E208
 'half' + ' ' > U+Ea22
@@ -530,6 +541,8 @@ c this is the group for f
 'out' + ' ' > U+E241
 'outside' + ' ' > U+E241
 'over' + ' ' > U+E110
+'owe' + ' ' > U+EA49  
+'ox' + ' ' > U+EA85
 'pain' + ' ' > U+E24F
 'parable' + ' ' > U+E22D
 'paralyze' + ' ' > U+E131
@@ -631,7 +644,8 @@ c this is the group for f
 'saint' + ' ' > U+E130
 'salt' + ' ' > U+E046
 'same' + ' ' > U+E24B
-'save' + ' ' > U+E214
+'save' + ' ' > U+E214 
+'scatter' + ' ' > U+EA82
 'scribe' + ' ' > U+E12C
 'scripture' + ' ' > U+E22C
 'sea' + ' ' > U+E14D
@@ -648,7 +662,8 @@ c this is the group for f
 'servant' + ' ' > U+E12D
 'serve' + ' ' > U+E08E
 'seven' + ' ' > U+E292
-'sew' + ' ' > U+E077
+'sew' + ' ' > U+E077 
+'sex' + ' ' > U+EA87
 'shade' + ' ' > U+E079
 'shake' + ' ' > U+E27D
 'shame' + ' ' > U+E065 
@@ -689,7 +704,8 @@ c this is the group for f
 'son' + ' ' > U+E004
 'song' + ' ' > U+E0e2
 'sons' + ' ' > U+E005
-'soul' + ' ' > U+E10F
+'soul' + ' ' > U+E10F    
+'south' + ' ' > U+EA74
 'sow' + ' ' > U+E07D
 'sower' + ' ' > U+E133
 'space' + ' ' > U+E153
@@ -746,7 +762,8 @@ c this is the group for f
 'therefore' + ' ' > U+E066
 'they' + ' ' > U+E125
 'thief' + ' ' > U+E0e9
-'thing' + ' ' > U+E105
+'thing' + ' ' > U+E105  
+'think' + ' ' > U+E06C
 'this' + ' ' > U+E226
 'thorn' + ' ' > U+E27B
 'thousand' + ' ' > U+E296
@@ -770,8 +787,10 @@ c this is the group for f
 'transfiguration' + ' ' > U+E31F
 'transfigure' + ' ' > U+E31F
 'tree' + ' ' > U+E244
+'tribe' + ' ' > U+EA81
 'trouble' + ' ' > U+E333
-'true' + ' ' > U+E09C
+'true' + ' ' > U+E09C  
+'trumpet' + ' ' > U+EA79
 'trust' + ' ' > U+E023
 'truth' + ' ' > U+E09C
 'turn' + ' ' > U+E31E
@@ -794,6 +813,7 @@ c this is the group for f
 'very' + ' ' > U+E211
 'village' + ' ' > U+E19A
 'vineyard' + ' ' > U+E27F
+'virgin' + ' ' > U+EA7E
 'voice' + ' ' > U+E042 
 'waist' + ' ' > U+E391
 'walk' + ' ' > U+E256
@@ -833,6 +853,7 @@ c this is the group for f
 'wine' + ' ' > U+E275
 'winter' + ' ' > U+E16B
 'wisdom' + ' ' > U+E064
+'wise' + ' ' > U+E064
 'with' + ' ' > U+E24C
 'woman' + ' ' > U+E008
 'wood' + ' ' > U+E244
@@ -961,11 +982,44 @@ c proper Nouns
 
 c Sun 4 proper noun additions
 
-'Jeremiah' + ' ' > U+ea28
-"Jonah(Simon's_father)" + ' ' > U+ea29
-'Magadan' + ' ' > U+ea30
-'Solomon' + ' ' > U+ea32 
-'Messiah' + ' ' > U+E334
+'Abijah' + ' ' > U+EA5B
+'Amminadab' + ' ' > U+EA51 
+'Asa' + ' ' > U+EA5C
+'Bethlehem' + ' ' > U+EA45
+'Boaz' + ' ' > U+EA54
+'Caiaphas' + ' ' > U+EA77
+'Daniel' + ' ' > U+EA78
+'Egypt' + ' ' > U+EA44  
+'Gomorrah' + ' ' > U+EA7A
+'Hezron' + ' ' > U+EA4F  
+'Jehoshaphat' + ' ' > U+EA5D
+'Jeremiah' + ' ' > U+EA28 
+'Jesse' + ' ' > U+EA58
+"Jonah(Simon's_father)" + ' ' > U+EA29 
+'Joram' + ' ' > U+EA5E
+'Judah' + ' ' > U+EA4B
+'Magadan' + ' ' > U+EA30
+'Messiah' + ' ' > U+E334 
+'Nain' + ' ' > U+EA48 
+'Naphatali' + ' ' > U+EA40 
+'Nahshon' + ' ' > U+EA52 
+'Obed' + ' ' > U+EA56
+'Perez' + ' ' > U+EA4C
+'Rachel' + ' ' > U+EA41
+'Rahab' + ' ' > U+EA55
+'Ram' + ' ' > U+EA50
+'Ramah' + ' ' > U+EA42  
+'Rehoboam' + ' ' > U+EA5A
+'Ruth' + ' ' > U+EA57       
+'Samaria' + ' ' > U+EA83
+'Samaritan' + ' ' > U+EA7B
+'Salmon' + ' ' > U+EA53
+'Simon' + ' ' > U+EA47 
+'Solomon' + ' ' > U+EA32 
+'Tamar' + ' ' > U+EA4E
+'Uriah' + ' ' > U+EA46
+'Zebulun' + ' ' > U+EA3F    
+'Zerah' + ' ' > U+EA4D
  
 c punctuation
 
