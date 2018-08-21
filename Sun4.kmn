@@ -646,7 +646,8 @@ c this is the group for f
 'save' + ' ' > U+E214 
 'scatter' + ' ' > U+EA82
 'scribe' + ' ' > U+E12C
-'scripture' + ' ' > U+E22C
+'scripture' + ' ' > U+E22C    
+'Scripture' + ' ' > U+E22C
 'sea' + ' ' > U+E14D
 'sealed' + ' ' > U+E221
 'search' + ' ' > U+E074
@@ -979,24 +980,41 @@ c proper Nouns
 
 c Sun 4 proper noun additions
 
-'Abijah' + ' ' > U+EA5B
+'Abijah' + ' ' > U+EA5B 
+'Abiud' + ' ' > U+EA6A  
+'Achim' + ' ' > U+EA6E
+'Ahaz' + ' ' > U+EA61
 'Amminadab' + ' ' > U+EA51 
-'Asa' + ' ' > U+EA5C
+'Amon' + ' ' > U+EA64
+'Asa' + ' ' > U+EA5C  
+'Azor' + ' ' > U+EA6C
+'Babylon' + ' ' > U+EA67
 'Bethlehem' + ' ' > U+EA45
 'Boaz' + ' ' > U+EA54
 'Caiaphas' + ' ' > U+EA77
 'Daniel' + ' ' > U+EA78
 'Egypt' + ' ' > U+EA44  
-'Gomorrah' + ' ' > U+EA7A
+'Eleazar' + ' ' > U+EA70
+'Eliakim' + ' ' > U+EA6B
+'Eliud' + ' ' > U+EA6F
+'Gomorrah' + ' ' > U+EA7A 
+'Hezekiah' + ' ' > U+EA62
 'Hezron' + ' ' > U+EA4F  
+'(NT)Jacob' + ' ' > U+EA72 
+'Jechoniah' + ' ' > U+EA66
 'Jehoshaphat' + ' ' > U+EA5D
 'Jeremiah' + ' ' > U+EA28 
 'Jesse' + ' ' > U+EA58
 "Jonah(Simon's_father)" + ' ' > U+EA29 
-'Joram' + ' ' > U+EA5E
+'Joram' + ' ' > U+EA5E 
+'(NT)Joseph' + ' ' > U+EA73
+'Josiah' + ' ' > U+EA65
+'Jothan' + ' ' > U+EA60
 'Judah' + ' ' > U+EA4B
 'Magadan' + ' ' > U+EA30
+'Manasseh' + ' ' > U+EA63
 'Messiah' + ' ' > U+E334 
+'Matthan' + ' ' > U+EA71
 'Nain' + ' ' > U+EA48 
 'Naphatali' + ' ' > U+EA40 
 'Nahshon' + ' ' > U+EA52 
@@ -1010,13 +1028,17 @@ c Sun 4 proper noun additions
 'Ruth' + ' ' > U+EA57       
 'Samaria' + ' ' > U+EA83
 'Samaritan' + ' ' > U+EA7B
-'Salmon' + ' ' > U+EA53
+'Salmon' + ' ' > U+EA53 
+'Shealtiel' + ' ' > U+EA68
 'Simon' + ' ' > U+EA47 
 'Solomon' + ' ' > U+EA32 
 'Tamar' + ' ' > U+EA4E
 'Uriah' + ' ' > U+EA46
+'Uzziah' + ' ' > U+EA5F
+'Zadok' + ' ' > U+EA6D
 'Zebulun' + ' ' > U+EA3F    
-'Zerah' + ' ' > U+EA4D
+'Zerah' + ' ' > U+EA4D  
+'Zerubbabel' + ' ' > U+EA69
  
 c punctuation
 
