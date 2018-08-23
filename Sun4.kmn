@@ -46,7 +46,8 @@ group(main) using keys
 'army' + ' ' > U+E148
 'around' + ' ' > U+E31B
 'arrest' + ' ' > U+E25F
-'ascend' + ' ' > U+E322
+'ascend' + ' ' > U+E322  
+'ash' + ' ' > U+EA90
 'ashamed' + ' ' > U+E05F
 'ask' + ' ' > U+E061
 'assurance' + ' ' > U+E070
@@ -229,7 +230,8 @@ c these are the d items
 'dove' + ' ' > U+E25E
 'down' + ' ' > U+E319  
 'dream' + ' ' > U+EA80
-'drink' + ' ' > U+E274
+'drink' + ' ' > U+E274 
+'drunk' + ' ' > U+EA8D
 'dry' + ' ' > U+E188
 'dust' + ' ' > U+E15D
 'dwell' + ' ' > U+E17B
@@ -255,7 +257,8 @@ c these are e items
 'envy' + ' ' > U+E022
 'equal' + ' ' > U+E24B
 'eternal' + ' ' > U+E252
-'eternity' + ' ' > U+E252
+'eternity' + ' ' > U+E252  
+'eunuch' + ' ' > U+EA91
 'evangelist' + ' ' > U+E13F
 'evening' + ' ' > U+E273
 'everyone' + ' ' > U+E140
@@ -298,7 +301,8 @@ c this is the group for f
 'fix' + ' ' > U+E09D
 'flesh' + ' ' > U+E26B
 'flip' + ' ' > U+E31D
-'flour' + ' ' > U+EA35
+'flour' + ' ' > U+EA35 
+'flute' + ' ' > U+EA8B
 'fly' + ' ' > U+E25B
 'follow' + ' ' > U+E13E
 'food' + ' ' > U+E053
@@ -309,6 +313,7 @@ c this is the group for f
 'forgive' + ' ' > U+E18F                
 'forgiveness' + ' ' > U+E18F
 'forward' + ' ' > U+E318
+'fox' + ' ' > U+EA8A
 'foundation' + ' ' > U+E179
 'four' + ' ' > U+E28F   
 'fragrant' + ' ' > U+E097
@@ -332,7 +337,8 @@ c this is the group for f
 'girl' + ' ' > U+E009 
 'girls' + ' ' > U+E00A
 'give' + ' ' > U+E086
-'glory' + ' ' > U+E217
+'glory' + ' ' > U+E217 
+'gluttony' + ' ' > U+EA8C
 'go' + ' ' > U+E381 
 'goat' + ' ' > U+EA7D
 'good' + ' ' > U+E096
@@ -344,6 +350,7 @@ c this is the group for f
 'grave' + ' ' > U+E178
 'grain' + ' ' > U+E279
 'greeting' + ' ' > U+E051
+'greed' + ' ' > U+EA94
 'grind' + ' ' > U+E83D
 'grieve' + ' ' > U+E207
 'groom' + ' ' > U+E013
@@ -422,14 +429,15 @@ c this is the group for f
 'jewish' + ' ' >  U+E0f9
 'joy' + ' ' > U+E205
 'judge' + ' ' > U+E1a2
-'judgment' + ' ' > U+E1a2
-'keep' + ' ' > U+E099
+'judgment' + ' ' > U+E1a2   
+'keep' + ' ' > U+E099  
+'key' + ' ' > U+EA9D
 'kill' + ' ' > U+E141                
 'kind' + ' ' > U+E01C      
 'kindness' + ' ' > U+E01C
 'king' + ' ' > U+E028
 'kingdom' + ' ' > U+E02F
-'kiss' + ' ' > U+E0e8
+'kiss' + ' ' > U+E0E8
 'kneel' + ' ' > U+E138
 'knife' + ' ' > U+E24E
 'knot' + ' ' > U+E30E
@@ -463,6 +471,7 @@ c this is the group for f
 'life' + ' ' > U+E09F
 'lift' + ' ' > U+E081
 'light' + ' ' > U+E0c2
+'lightning' + ' ' > U+EA88
 'linen' + ' ' > U+EA20      
 'live' + ' ' > U+E09F
 'loaf' + ' ' > U+E05D
@@ -653,7 +662,8 @@ c this is the group for f
 'search' + ' ' > U+E074
 'secret' + ' ' > U+E186
 'see' + ' ' > U+E238
-'seed' + ' ' > U+E27A
+'seed' + ' ' > U+E27A  
+'self' + ' ' > U+EA95
 'sell' + ' ' > U+E32B
 'send' + ' ' > U+E075
 'sensuality' + ' ' > U+E239
@@ -832,6 +842,7 @@ c this is the group for f
 'wedding' + ' ' > U+E011
 'weigh' + ' ' > U+E0e6
 'weight' + ' ' > U+E0e6
+'west' + ' ' > U+EA89
 'wet' + ' ' > U+E247
 'what' + ' ' > U+E109
 'wheat' + ' ' > U+E279
@@ -872,8 +883,7 @@ c this is the group for f
 'year' + ' ' > U+E15E
 'yes' + ' ' > U+E09A
 'you' + ' ' > U+E314
-'young' + ' ' > U+E0f1
-       
+'young' + ' ' > U+E0f1      
 'zero' + ' ' > U+E28B
 
 c sun 4 additions
@@ -980,6 +990,7 @@ c proper Nouns
 
 c Sun 4 proper noun additions
 
+'Abel' + ' ' > U+EA96
 'Abijah' + ' ' > U+EA5B 
 'Abiud' + ' ' > U+EA6A  
 'Achim' + ' ' > U+EA6E
@@ -988,10 +999,12 @@ c Sun 4 proper noun additions
 'Amon' + ' ' > U+EA64
 'Asa' + ' ' > U+EA5C  
 'Azor' + ' ' > U+EA6C
-'Babylon' + ' ' > U+EA67
+'Babylon' + ' ' > U+EA67 
+'Barachiah' + ' ' > U+EA97
 'Bethlehem' + ' ' > U+EA45
 'Boaz' + ' ' > U+EA54
 'Caiaphas' + ' ' > U+EA77
+'Chorazin' + ' ' > U+EA8F
 'Daniel' + ' ' > U+EA78
 'Egypt' + ' ' > U+EA44  
 'Eleazar' + ' ' > U+EA70
@@ -1030,13 +1043,16 @@ c Sun 4 proper noun additions
 'Samaritan' + ' ' > U+EA7B
 'Salmon' + ' ' > U+EA53 
 'Shealtiel' + ' ' > U+EA68
-'Simon' + ' ' > U+EA47 
+'Simon' + ' ' > U+EA47  
+"Simon(Jesus's_brother)" + ' ' > U+EA92
+'Sodom' + ' ' > U+EA8E
 'Solomon' + ' ' > U+EA32 
 'Tamar' + ' ' > U+EA4E
 'Uriah' + ' ' > U+EA46
 'Uzziah' + ' ' > U+EA5F
 'Zadok' + ' ' > U+EA6D
-'Zebulun' + ' ' > U+EA3F    
+'Zebulun' + ' ' > U+EA3F 
+'Zechariah' + ' ' > U+EA98  
 'Zerah' + ' ' > U+EA4D  
 'Zerubbabel' + ' ' > U+EA69
  
