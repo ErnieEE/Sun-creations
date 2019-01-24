@@ -1,8 +1,9 @@
 @echo off
-
-rem imagemagick 
-rem  https://stackoverflow.com/questions/1132601/how-to-convert-a-jpeg-image-into-svg-format-using-imagemagick
-rem  http://potrace.sourceforge.net/potrace.1.html
+rem requirements for this are imagemagick convert function  http://www.imagemagick.org
+rem and potrace  http://potrace.sourceforge.net/potrace.1.html
+rem  example:
+rem rem https://stackoverflow.com/questions/1132601/how-to-convert-a-jpeg-image-into-svg-format-using-imagemagick
+rem
 
 
 IF %1.==. GOTO No1
