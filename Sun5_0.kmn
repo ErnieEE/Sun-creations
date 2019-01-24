@@ -1,7 +1,7 @@
 ﻿
 store(&VERSION) '9.0'
 store(&TARGETS) 'any windows macosx linux web iphone ipad androidphone androidtablet mobile desktop tablet'
-store(&NAME) 'Sun4.5'
+store(&NAME) 'Sun5.0'
 store(&KEYBOARDVERSION) '090022'
 store(&LAYOUTFILE) 'Sun2-layout.js'
 begin Unicode > use(main)
@@ -440,7 +440,7 @@ c this is the group for f
 'island' + ' ' > U+EB05
 'jar' + ' ' > U+E0d5
 'jew' + ' ' > U+E0f9
-'jewish' + ' ' >  U+E0f9
+'jewish' + ' ' > U+E0f9
 'joy' + ' ' > U+E205
 'judge' + ' ' > U+E1a2
 'judgment' + ' ' > U+E1a2   
@@ -970,7 +970,6 @@ c proper Nouns
 'Golgotha' + ' ' > U+E34B
 'Greece' + ' ' > U+E345
 'Hannah' + ' ' > U+Eb02 
-'Harran' + ' ' > U+EB0B
 'Herod' + ' ' > U+E360
 'Herodians' + ' ' > U+Ea05
 'Herodias' + ' ' > U+E355
@@ -1025,6 +1024,7 @@ c proper Nouns
 'Salome' + ' ' > U+E379
 'Satan' + ' ' > U+E335
 'Sea_of_Galilee' + ' ' > U+E350
+'Sea_of_Reeds' + ' ' > U+EB0C
 'Sheol' + ' ' > U+E0c9
 'Sidon' + ' ' > U+E33C
 'Simeon' + ' ' > U+Ea47
@@ -1044,28 +1044,36 @@ c proper Nouns
 
 c Sun 4 proper noun additions
 
+'Aaron' + ' ' > U+EB0D
 'Abel' + ' ' > U+EA96
 'Abijah' + ' ' > U+EA5B 
 'Abiud' + ' ' > U+EA6A  
 'Achim' + ' ' > U+EA6E
 'Ahaz' + ' ' > U+EA61
 'Amminadab' + ' ' > U+EA51 
-'Amon' + ' ' > U+EA64
+'Amon' + ' ' > U+EA64 
+'Aquila' + ' ' > U+EB17
 'Asa' + ' ' > U+EA5C  
+'Athens' + ' ' > U+EB08
 'Azor' + ' ' > U+EA6C
 'Babylon' + ' ' > U+EA67 
 'Barachiah' + ' ' > U+EA97
 'Beelzebul' + ' ' > U+E335
+'Berea' + ' ' > U+EB13
 'Bethlehem' + ' ' > U+EA45
 'Boaz' + ' ' > U+EA54
-'Caiaphas' + ' ' > U+EA77
+'Caiaphas' + ' ' > U+EA77 
+'Chaldean' + ' ' > U+EB0E 
+'Chaldeans' + ' ' > U+EB0E
 'Chorazin' + ' ' > U+EA8F
+'Corinth' + ' ' > U+EA59
 'Daniel' + ' ' > U+EA78
 'Egypt' + ' ' > U+EA44  
 'Eleazar' + ' ' > U+EA70
 'Eliakim' + ' ' > U+EA6B
 'Eliud' + ' ' > U+EA6F
 'Gomorrah' + ' ' > U+EA7A 
+'Haran' + ' ' > U+EB0B
 'Hezekiah' + ' ' > U+EA62
 'Hezron' + ' ' > U+EA4F  
 '(NT)Jacob' + ' ' > U+EA72 
@@ -1084,18 +1092,21 @@ c Sun 4 proper noun additions
 'Manasseh' + ' ' > U+EA63
 'Messiah' + ' ' > U+E334 
 'Matthan' + ' ' > U+EA71
+'Midian' + ' ' > U+EB0F
 'Nain' + ' ' > U+EA48 
 'Naphatali' + ' ' > U+EA40 
 'Nahshon' + ' ' > U+EA52 
 'Noah' + ' ' > U+EA43
 'Obed' + ' ' > U+EA56   
 'Parthians' + ' ' > U+EB0A
-'Perez' + ' ' > U+EA4C
+'Perez' + ' ' > U+EA4C 
+'Priscilla' + ' ' > U+EB18
 'Rachel' + ' ' > U+EA41
 'Rahab' + ' ' > U+EA55
 'Ram' + ' ' > U+EA50
 'Ramah' + ' ' > U+EA42  
-'Rehoboam' + ' ' > U+EA5A
+'Rehoboam' + ' ' > U+EA5A 
+'Rome' + ' ' > U+EB16
 'Ruth' + ' ' > U+EA57       
 'Samaria' + ' ' > U+EA83
 'Samaritan' + ' ' > U+EA7B
@@ -1105,7 +1116,8 @@ c Sun 4 proper noun additions
 "Simon(Jesus's_brother)" + ' ' > U+EA92
 'Sodom' + ' ' > U+EA8E
 'Solomon' + ' ' > U+EA32 
-'Tamar' + ' ' > U+EA4E
+'Tamar' + ' ' > U+EA4E 
+'Thessalonica' + ' ' > U+EB12
 'Uriah' + ' ' > U+EA46
 'Uzziah' + ' ' > U+EA5F
 'Zadok' + ' ' > U+EA6D
