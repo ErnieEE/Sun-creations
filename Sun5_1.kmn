@@ -1,7 +1,7 @@
 ﻿
 store(&VERSION) '9.0'
 store(&TARGETS) 'any windows macosx linux web iphone ipad androidphone androidtablet mobile desktop tablet'
-store(&NAME) 'Sun5.0'
+store(&NAME) 'Sun5.1'
 store(&KEYBOARDVERSION) '090022'
 store(&LAYOUTFILE) 'Sun2-layout.js'
 begin Unicode > use(main)
