@@ -937,6 +937,12 @@ c sun 4 additions
 'justice' + ' ' > U+ea25
 'weak' + ' ' > U+ea24
 'scatter' + ' ' > U+ea34
+c sun 5.0 (Acts) additions  
+
+'cow' + ' ' > U+EB36
+'crooked' + ' ' > U+EB39
+'strangled' + ' ' > U+EB33
+'tent' + ' ' > U+EB32
 
 c proper Nouns
 
@@ -1139,8 +1145,23 @@ c Sun 4 proper noun additions
 'Zerah' + ' ' > U+EA4D  
 'Zerubbabel' + ' ' > U+EA69
  
-c punctuation
-
+ c Sun 5.0Acts) proper noun additions
+ 
+ 'Amphipolis' + ' ' > U+EB2E
+ 'Apollos' + ' ' > U+EB3E
+ 'Apolonia' + ' ' > U+EB30 
+ 'Attalia' + ' ' > U+EB31
+ 'Cenchrea' + ' ' > U+EB3D
+ 'Crispus' + ' ' > U+EB3A
+ 'Damaris' + ' ' > U+EB37
+ 'Gallio' + ' ' > U+EB3B   
+ 'Hermes' + ' ' > U+EB2F
+ 'Sosthenes' + ' ' > U+EB3C
+ 'Titus' + ' ' > U+EB38
+ 'Tyrannus' + ' ' > U+EB3F
+ 'Zeus' + ' ' > U+EB2D
+ 
+ c punctuation
 '.' + ' ' > U+E37E
 'pos' + ' ' > U+E390
 '*' + ' ' > U+E390
