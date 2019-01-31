@@ -940,7 +940,8 @@ c sun 4 additions
 c sun 5.0 (Acts) additions  
 
 'cow' + ' ' > U+EB36
-'crooked' + ' ' > U+EB39
+'crooked' + ' ' > U+EB39 
+'justify' + ' ' > U+EB4F
 'strangled' + ' ' > U+EB33
 'tent' + ' ' > U+EB32
 
@@ -1150,13 +1151,31 @@ c Sun 4 proper noun additions
  'Amphipolis' + ' ' > U+EB2E
  'Apollos' + ' ' > U+EB3E
  'Apolonia' + ' ' > U+EB30 
- 'Attalia' + ' ' > U+EB31
+ 'Attalia' + ' ' > U+EB31  
+ 'Benjamin' + ' ' > U+EB4B
+ 'Bithinia' + ' ' > U+EB48
  'Cenchrea' + ' ' > U+EB3D
  'Crispus' + ' ' > U+EB3A
  'Damaris' + ' ' > U+EB37
+ 'Derbe' + ' ' > U+EB43   
+ 'Galatia' + ' ' > U+EB46
  'Gallio' + ' ' > U+EB3B   
- 'Hermes' + ' ' > U+EB2F
+ 'Hermes' + ' ' > U+EB2F 
+ 'Kish' + ' ' > U+EB49
+ 'Lycaonia' + ' ' > U+EB51 
+ 'Lydia' + ' ' > U+EB50
+ 'Lystra' + ' ' > U+EB44
+ 'Manaen' + ' ' > U+EB40
+ 'Mysia' + ' ' > U+EB4A 
+ 'Neopolis' + ' ' > U+EB4A 
+ 'Paphos' + ' ' > U+EB6C 
+ 'Perga' + ' ' > U+EB47 
+ 'Samothrace' + ' ' > U+EB4C
+ 'Seleucia' + ' ' > U+EB42
+ 'Sergius' + ' ' > U+EB45
  'Sosthenes' + ' ' > U+EB3C
+ 'Silas' + ' ' > U+EB41 
+ 'Thyatira' + ' ' > U+EB52
  'Titus' + ' ' > U+EB38
  'Tyrannus' + ' ' > U+EB3F
  'Zeus' + ' ' > U+EB2D

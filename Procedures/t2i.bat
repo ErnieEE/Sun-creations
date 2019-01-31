@@ -56,7 +56,11 @@ set ffstring=
 echo ffstring  %ffstring%
 echo on
   convert -background white -fill black -font arial -pointsize 144 label:%ffstring%   label.ppm
-  potrace -s --flat --tight --width 1000 --height 270 label.ppm  -o "%ffstring%.svg"
+  
+rem remove trailing and ending characters "%string:~start,end%"
+  set a=%ffstring:~1,-2%
+
+  potrace -s --flat --tight --width 1000 --height 270 label.ppm  -o "%a%.svg"
 
 echo off
   rem inkscape --file=bf.svg  --without-gui --query-height
