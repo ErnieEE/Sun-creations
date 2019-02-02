@@ -54,7 +54,7 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 5
-WinInfo: 5280 20 9
+WinInfo: 2820 20 9
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -74374,7 +74374,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: Noah.2867
+StartChar: Noah
 Encoding: 2867 59971 5098
 Width: 1000
 VWidth: 0
