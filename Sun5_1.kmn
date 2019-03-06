@@ -1,7 +1,7 @@
 ﻿
 store(&VERSION) '9.0'
 store(&TARGETS) 'any windows macosx linux web iphone ipad androidphone androidtablet mobile desktop tablet'
-store(&NAME) 'Sun5.1'
+store(&NAME) 'Sun 5_1'
 store(&KEYBOARDVERSION) '090022'
 store(&LAYOUTFILE) 'Sun2-layout.js'
 begin Unicode > use(main)
@@ -87,8 +87,6 @@ group(main) using keys
 'betrayal' + ' ' > U+E195
 'better' + ' ' > U+E09E
 'between' + ' ' > U+E118
-'Bible' + ' ' > U+E22C
-'bible' + ' ' > U+E22C
 'big' + ' ' > U+E120
 'bird' + ' ' > U+E25C
 'birth' + ' ' > U+E235
@@ -118,7 +116,6 @@ group(main) using keys
 'bride' + ' ' > U+E015
 'bright' + ' ' > U+E21B
 'bring' + ' ' > U+E088
-'bronze' + ' ' > U+EB2C
 'brother' + ' ' > U+E006
 'brothers' + ' ' > U+E007
 'build' + ' ' > U+E17a
@@ -161,6 +158,7 @@ c these are the c items
 'comfort' + ' ' > U+EA3B
 'command' + ' ' > U+E058
 'compassion' + ' ' > U+E01A
+'condemn' + ' ' > U+Ea7f
 'condemnation' + ' ' > U+Ea7f
 'confidence' + ' ' > U+E070
 'control' + ' ' > U+E332  
@@ -190,8 +188,7 @@ c these are the c items
 
 c these are the d items
 
-'condemn' + ' ' > U+EA7F 
-'confuse' + ' ' > U+E06E
+
 'dance' + ' ' > U+E259
 'dark' + ' ' > U+EA17
 'daughter' + ' ' > U+E00C
@@ -266,7 +263,7 @@ c these are e items
 'equal' + ' ' > U+E24B
 'eternal' + ' ' > U+E252
 'eternity' + ' ' > U+E252  
-'eunuch' + ' ' > U+EA91
+'eunuch' + ' ' > U+Eb8f
 'evangelist' + ' ' > U+E13F
 'evening' + ' ' > U+E273
 'everyone' + ' ' > U+E140
@@ -438,11 +435,8 @@ c this is the group for f
 'inheritance' + ' ' > U+E017
 'insect' + ' ' > U+E304
 'inside' + ' ' > U+E240
-'iron' + ' ' > U+EB29
-'island' + ' ' > U+EB05
 'jar' + ' ' > U+E0d5
-'jew' + ' ' > U+E0f9
-'jewish' + ' ' > U+E0f9
+'jewish' + ' ' >  U+E0f9
 'joy' + ' ' > U+E205
 'judge' + ' ' > U+E1a2
 'judgment' + ' ' > U+E1a2   
@@ -514,13 +508,13 @@ c this is the group for f
 'measure' + ' ' > U+E305
 'member' + ' ' > U+E174
 'mercy' + ' ' > U+E01D
-'messenger' + ' ' > U+E136 
-'metal' + ' ' > U+EB28
+'messenger' + ' ' > U+E136
 'mind' + ' ' > U+E06C
 'mine' + ' ' > U+E168
 'miracle' + ' ' > U+E095
 'mock' + ' ' > U+EA12
 'money' + ' ' > U+E029
+'month' + ' ' > U+E34c
 'moon' + ' ' > U+E272
 'more' + ' ' > U+E199
 'morning' + ' ' > U+E163
@@ -578,7 +572,6 @@ c this is the group for f
 'part' + ' ' > U+E29B
 'party' + ' ' > U+E20B
 'pass' + ' ' > U+E10b
-'passover' + ' ' > U+E20D
 'past' + ' ' > U+E16D
 'path' + ' ' > U+E23C
 'patience' + ' ' > U+E16F
@@ -661,7 +654,6 @@ c this is the group for f
 'road' + ' ' > U+E23C
 'robber' + ' ' > U+E0e9
 'rock' + ' ' > U+E26A
-'room' + ' ' > U+Eb06
 'rooster' + ' ' > U+E25D
 'root' + ' ' > U+E15C
 'ruler' + ' ' > U+E028 
@@ -677,9 +669,7 @@ c this is the group for f
 'same' + ' ' > U+E24B
 'sanctuary' + ' ' > U+Eb01
 'save' + ' ' > U+E214 
-'scribe' + ' ' > U+E12C
-'scripture' + ' ' > U+E22C    
-'Scripture' + ' ' > U+E22C
+'scribe' + ' ' > U+E12C    
 'sea' + ' ' > U+E14D
 'sealed' + ' ' > U+E221
 'search' + ' ' > U+E074
@@ -701,7 +691,6 @@ c this is the group for f
 'shake' + ' ' > U+E27D
 'shame' + ' ' > U+E065 
 'share' + ' ' > U+E07A 
-'shave' + ' ' > U+EB27
 'sheep' + ' ' > U+E270                
 'shepherd' + ' ' > U+E271
 'shield' + ' ' > U+E388
@@ -740,7 +729,6 @@ c this is the group for f
 'song' + ' ' > U+E0e2
 'sons' + ' ' > U+E005
 'soul' + ' ' > U+E10F    
-'south' + ' ' > U+EA74
 'sow' + ' ' > U+E07D
 'sower' + ' ' > U+E133
 'space' + ' ' > U+E153
@@ -749,8 +737,6 @@ c this is the group for f
 'spirit' + ' ' > U+E187
 'spit' + ' ' > U+E048
 'split' + ' ' > U+E326
-'squad' + ' ' > U+EB07 
-'squads' + ' ' > U+EB07
 'sponge' + ' ' > U+EA18
 'staff' + ' ' > U+E14C
 'stand' + ' ' > U+E32C
@@ -903,7 +889,6 @@ c this is the group for f
 'witness' + ' ' > U+E22e
 'woman' + ' ' > U+E008
 'wood' + ' ' > U+E244
-'Word_of_God' + ' ' > U+E22C
 'work' + ' ' > U+E08C
 'world' + ' ' > U+E129
 'worm' + ' ' > U+Ea06
@@ -938,17 +923,110 @@ c sun 4 additions
 'weak' + ' ' > U+ea24
 'scatter' + ' ' > U+ea34
 
+c sun 5.0 (Acts) additions
+'ancestor' + ' ' > U+Ec80
+'bronze' + ' ' > U+Eb2c
+'centurion' + ' ' > U+Eb7a
+'chariot' + ' ' > U+Ec82
+'citizen' + ' ' > U+Eb98 
+'confuse' + ' ' > U+Eb08
+'couch' + ' ' > U+Eb5f
+'countryside' + ' ' > U+Eb96
+'cow' + ' ' > U+EB36
+'create' + ' ' > U+E076
+'crooked' + ' ' > U+EB39
+'descendant' + ' ' > U+Eb60
+'elder' + ' ' > U+Eb62
+'farm' + ' ' > U+Eb91
+'field' + ' ' > U+Eb91
+'foreknowledge' + ' ' > U+Eb79
+'forest' + ' ' > U+Ec27
+'idol' + ' ' > U+E35d
+'incense' + ' ' > U+Ec98
+'iron' + ' ' > U+Eb29
+'island' + ' ' > U+Eb05 
+'justify' + ' ' > U+EB4F
+'knock' + ' ' > U+Eb8b
+'metal' + ' ' > U+Eb28
+'north' + ' ' > U+Ea74
+'pentecost' + ' ' > U+Ec81
+'philosopher' + ' ' > U+Ec04
+'porch' + ' ' > U+eb5e
+'religion' + ' ' > U+ec33
+'rough' + ' ' > U+ec99
+'salvation' + ' ' > U+Eb80
+'savior' + ' ' > U+Ec85
+'sect' + ' ' > U+Ec33
+'shave' + ' ' > U+Eb27
+'smoke' + ' ' > U+Ec03
+'smooth' + ' ' > U+Ec9a
+'strangled' + ' ' > U+EB33
+'tent' + ' ' > U+EB32
+'test' + ' ' > U+Ec21
+'throne' + ' ' > U+Ec84
+'try' + ' ' > U+Eb94
+'twin' + ' ' > U+Ec1b
+'vine' + ' ' > U+Ec91
+
+
+
+c regular Sun 5_1 
+  
+'awake' + ' ' > U+Ec54
+'bank' + ' ' > U+Ec55
+'black' + ' ' > U+Eb86
+'breathe' + ' ' > U+e047
+'burden' + ' ' > U+ec86
+'case' + ' ' > U+Ec87
+'corner' + ' ' > U+Eb83
+'ceremony' + ' ' > U+Ec88
+'demon' + ' ' > U+eb87
+'elect' + ' ' > U+Ec9f
+'exalt' + ' ' > U+E04b
+'farewell' + ' ' > U+Ec83
+'gain' + ' ' > U+E1a3
+'good_news' + ' ' > U+E22b 
+'ground_soil' + ' ' > U+E15b
+'humiliate' + ' ' > U+E065
+'journey' + ' ' > U+E381
+'lake' + ' ' > U+Ec65
+'letter' + ' ' > U+Eb84
+'lot' + ' ' > U+Ea16
+'magician' + ' ' > U+Ec8a
+'message' + ' ' > U+E22d
+'news' + ' ' > U+E22d
+'persecute' + ' ' > U+E03e
+'permit' + ' ' > U+E04a
+'plow' + ' ' > U+Ec72  
+'proverb' + ' ' > U+Ec73
+'relative' + ' ' > U+E176 
+'report' + ' ' > U+E22d
+'right_time' + ' ' > U+Ed10
+'scorpion' + ' ' > U+Ec77
+'sky' + ' ' > U+Ec8b
+'sorcery' + ' ' > U+Ec8c
+'storehouse' + ' ' > U+Ec43
+'thought' + ' ' > U+E06c
+'tabernacle' + ' ' > U+Eb32
+'think_opinion' + ' ' > U+E06c
+'think_wonder' + ' ' > U+E06c
+'threshing_floor' + ' ' > U+Ec42
+'trial' + ' ' > U+Ec87
+'tribulation' + ' ' > U+E03e
+'trip' + ' ' > U+E381
+'vision' + ' ' > U+Ea80
+'winnowing_fork' + ' ' > U+Ec41
+'worry' + ' ' > U+E056     
+
+
 c proper Nouns
 
 'Abiathar' + ' ' > U+E35F
 'Abraham' + ' ' > U+E373
 'Alexander' + ' ' > U+EA14
-'Alphaeus' + ' ' > U+E35D
 'Andrew' + ' ' > U+E357
 'Anna' + ' ' > U+Eb02
 'Arimathea' + ' ' > U+E34D
-'Assos' + ' ' > U+EB20
-'Babylon' + ' ' > U+Ea66
 'Barabbas' + ' ' > U+E36D
 'Bartholomew' + ' ' > U+E362
 'Bartimaeus' + ' ' > U+E36B
@@ -956,27 +1034,23 @@ c proper Nouns
 'Bethphage' + ' ' > U+E348
 'Bethsaida' + ' ' > U+E340
 'Caesarea' + ' ' > U+E346
+'Caesar' + ' ' > U+E370
 'Canaan' + ' ' > U+E33D
 'Capernaum' + ' ' > U+E33A
-'Cesar' + ' ' > U+E370  
-'Chios' + ' ' > U+EB22
 'Christ' + ' ' > U+E334
-'Cyrene' + ' ' > U+E37D
 'Dalmanutha' + ' ' > U+E344
 'David' + ' ' > U+E35E
-'Decapolis' + ' ' > U+E33e 
-'Demetrius' + ' ' > U+EB1A
-'Elijah' + ' ' > U+E36A 
-'Eutychus' + ' ' > U+EB1F
+'Decapolis' + ' ' > U+E33e
+'Elijah' + ' ' > U+E36A
+'Gadara' + ' ' > U+E33f
 'Galilee' + ' ' > U+E337
 'Gennesaret' + ' ' > U+E341
-'Gadarenes' + ' ' > U+E33F
 'Gerasenes' + ' ' > U+E33F
 'Gethsemane' + ' ' > U+E34A
 'God' + ' ' > U+E036
 'Golgotha' + ' ' > U+E34B
 'Greece' + ' ' > U+E345
-'Hannah' + ' ' > U+Eb02 
+'Hannah' + ' ' > U+Eb02
 'Herod' + ' ' > U+E360
 'Herodians' + ' ' > U+Ea05
 'Herodias' + ' ' > U+E355
@@ -986,15 +1060,15 @@ c proper Nouns
 'Israel' + ' ' > U+Ea04
 'Jacob' + ' ' > U+E375
 'Jairus' + ' ' > U+E367
-'James' + ' ' > U+E376
-'James(the_Disciple)' + ' ' > U+E358
+'James' + ' ' > U+E358
+'James(the_Disciple)' + ' ' > U+E376
 'Jericho' + ' ' > U+Ea08
 'Jerusalem' + ' ' > U+E338
 'Jesus' + ' ' > U+E037
 'Jesus_not_Christ' + ' ' > U+Eb03
 'John' + ' ' > U+E35a
-'John(the_Disciple)' + ' ' > U+E35A
-'John_the_Baptist' + ' ' > U+E35a
+'John_the_Disciple' + ' ' > U+E35a
+'John_the_Baptist' + ' ' > U+E336
 'Jonah' + ' ' > U+E0c5
 'Jordan_River' + ' ' > U+E34F
 'Joseph' + ' ' > U+EA15
@@ -1007,18 +1081,15 @@ c proper Nouns
 'Jude' + ' ' > U+E368
 'Judea' + ' ' > U+E339
 'Legion' + ' ' > U+E366
-'Levi' + ' ' > U+E35c
+'Levi' + ' ' > U+Eb1b
 'Levi(Matthew)' + ' ' > U+E35C
+'Miriam' + ' ' > U+E385 
 'Mark' + ' ' > U+E371
 'Mary' + ' ' > U+E354
 'Mary(Mother_of_Jesus)' + ' ' > U+E354
 'Mary_Magdalene' + ' ' > U+E353
 'Matthew' + ' ' > U+Eb04
 'Matthias' + ' ' > U+Eb04
-'Miletus' + ' ' > U+EB23
-'Miriam' + ' ' > U+E354 
-'Mitylere' + ' ' > U+EB21
-'Mnason' + ' ' > U+EB26
 'Moses' + ' ' > U+E35B
 'Mount_of_Olives' + ' ' > U+E351
 'Nazareth' + ' ' > U+E34E
@@ -1028,15 +1099,13 @@ c proper Nouns
 'Philippi' + ' ' > U+E347
 'Phoenicia' + ' ' > U+E343
 'Pilate' + ' ' > U+E36f
-'Psalm' + ' ' > U+E0e2  
-'Pyrrhus' + ' ' > U+EB1C
+'Psalm' + ' ' > U+E0e2
 'Rhodes' + ' ' > U+Eb25
 'Rufus' + ' ' > U+E36E
 'Salome' + ' ' > U+E379
 'Satan' + ' ' > U+E335
+'Scripture' + ' ' > U+E22c
 'Sea_of_Galilee' + ' ' > U+E350
-'Sea_of_Reeds' + ' ' > U+EB0C
-'Secundus' + ' ' > U+EB1D
 'Sheol' + ' ' > U+E0c9
 'Sidon' + ' ' > U+E33C
 'Simeon' + ' ' > U+Ea47
@@ -1049,88 +1118,77 @@ c proper Nouns
 'Thaddaeus' + ' ' > U+E37B
 'Thomas' + ' ' > U+E363
 'Timaeus' + ' ' > U+E36C
-'Trophimus' + ' ' > U+EB1E
 'Tyre' + ' ' > U+E33B
+'Word_of_God' + ' ' > U+E22c
 'Yahweh' + ' ' > U+E0c7
 'Zebedee' + ' ' > U+E359 
 
 c Sun 4 proper noun additions
 
-'Aaron' + ' ' > U+EB0D
 'Abel' + ' ' > U+EA96
 'Abijah' + ' ' > U+EA5B 
 'Abiud' + ' ' > U+EA6A  
 'Achim' + ' ' > U+EA6E
 'Ahaz' + ' ' > U+EA61
 'Amminadab' + ' ' > U+EA51 
-'Amon' + ' ' > U+EA64 
-'Aquila' + ' ' > U+EB17
+'Amon' + ' ' > U+EA64
+'Annas' + ' ' > U+Eb63
 'Asa' + ' ' > U+EA5C  
-'Athens' + ' ' > U+EB08
 'Azor' + ' ' > U+EA6C
 'Babylon' + ' ' > U+EA67 
 'Barachiah' + ' ' > U+EA97
 'Beelzebul' + ' ' > U+E335
-'Berea' + ' ' > U+EB13
 'Bethlehem' + ' ' > U+EA45
+'Bible' + ' ' > U+E22c
 'Boaz' + ' ' > U+EA54
-'Caiaphas' + ' ' > U+EA77 
-'Chaldean' + ' ' > U+EB0E 
-'Chaldeans' + ' ' > U+EB0E
+'Caiaphas' + ' ' > U+EA77
 'Chorazin' + ' ' > U+EA8F
-'Corinth' + ' ' > U+EA59
 'Daniel' + ' ' > U+EA78
 'Egypt' + ' ' > U+EA44  
 'Eleazar' + ' ' > U+EA70
 'Eliakim' + ' ' > U+EA6B
 'Eliud' + ' ' > U+EA6F
 'Gomorrah' + ' ' > U+EA7A 
-'Haran' + ' ' > U+EB0B
 'Hezekiah' + ' ' > U+EA62
 'Hezron' + ' ' > U+EA4F  
-'(NT)Jacob' + ' ' > U+EA72 
+'Jacob(NT)' + ' ' > U+EA72 
 'Jechoniah' + ' ' > U+EA66
 'Jehoshaphat' + ' ' > U+EA5D
 'Jeremiah' + ' ' > U+EA28 
 'Jesse' + ' ' > U+EA58
-"Jonah(Simon's_father)" + ' ' > U+EA29 
+'Jonah(Simons_father)' + ' ' > U+EA29 
 'Joram' + ' ' > U+EA5E 
-'(NT)Joseph' + ' ' > U+EA73
+'Joseph(NT)' + ' ' > U+EA73
 'Josiah' + ' ' > U+EA65
-'Jotham' + ' ' > U+EB82
-'Jothan' + ' ' > U+EA60
+'Jothan' + ' ' > U+EA60 
+'Jotham' + ' ' > U+Eb82
 'Judah' + ' ' > U+EA4B
 'Magadan' + ' ' > U+EA30
 'Manasseh' + ' ' > U+EA63
 'Messiah' + ' ' > U+E334 
 'Matthan' + ' ' > U+EA71
-'Midian' + ' ' > U+EB0F
 'Nain' + ' ' > U+EA48 
 'Naphatali' + ' ' > U+EA40 
 'Nahshon' + ' ' > U+EA52 
 'Noah' + ' ' > U+EA43
-'Obed' + ' ' > U+EA56   
-'Parthians' + ' ' > U+EB0A
-'Perez' + ' ' > U+EA4C 
-'Priscilla' + ' ' > U+EB18
+'Obed' + ' ' > U+EA56
+'Perez' + ' ' > U+EA4C
 'Rachel' + ' ' > U+EA41
 'Rahab' + ' ' > U+EA55
 'Ram' + ' ' > U+EA50
 'Ramah' + ' ' > U+EA42  
-'Rehoboam' + ' ' > U+EA5A 
-'Rome' + ' ' > U+EB16
+'Rehoboam' + ' ' > U+EA5A
+'Rhoda' + ' ' > U+Eb92
 'Ruth' + ' ' > U+EA57       
 'Samaria' + ' ' > U+EA83
 'Samaritan' + ' ' > U+EA7B
-'Salmon' + ' ' > U+EA53   
-'Sceva' + ' ' > U+EB19
+'Salmon' + ' ' > U+EA53 
 'Shealtiel' + ' ' > U+EA68
 'Simon' + ' ' > U+EA47  
 "Simon(Jesus's_brother)" + ' ' > U+EA92
 'Sodom' + ' ' > U+EA8E
 'Solomon' + ' ' > U+EA32 
-'Tamar' + ' ' > U+EA4E 
-'Thessalonica' + ' ' > U+EB12
+'Tamar' + ' ' > U+EA4E
 'Uriah' + ' ' > U+EA46
 'Uzziah' + ' ' > U+EA5F
 'Zadok' + ' ' > U+EA6D
@@ -1144,6 +1202,266 @@ c punctuation
 '.' + ' ' > U+E37E
 'pos' + ' ' > U+E390
 '*' + ' ' > U+E390
+'pn' + ' ' > U+Ed11
+
+C Keyboard additions for Luke Acts Sun 5_1 proper
+
+'Abilene' + ' ' > U+Ec4d
+'Abyss' + ' ' > U+Ec4e
+'Adam' + ' ' > U+Ec4f
+'Addi' + ' ' > U+Ec50
+'Admin' + ' ' > U+Ec51
+'Amos' + ' ' > U+Ec47
+'Arni' + ' ' > U+Ec52
+'Arphaxad' + ' ' > U+Ec53
+'Bar_Jesus_not_Christ' + ' ' > U+Ec89
+'Cainan' + ' ' > U+Ec56
+'Chuza' + ' ' > U+Ec57
+'Clauda' + ' ' > U+Ec36
+'Cleopas' + ' ' > U+Ec58
+'Cosam' + ' ' > U+Ec59
+'Crete' + ' ' > U+Ec8d
+'Eber' + ' ' > U+Ec5a
+'Eli' + ' ' > U+Ec44
+'Eliezer' + ' ' > U+Ec5b
+'Elisha' + ' ' > U+Ec5c 
+'Elmadam' + ' ' > U+Ec5d
+'Elizabeth' + ' ' > U+Ec3a
+'Emmaus' + ' ' > U+Ec5e
+'Enoch' + ' ' > U+Ec5f
+'Enos' + ' ' > U+Ec60
+'Er' + ' ' > U+Ec61
+'Esli' + ' ' > U+Ec49
+'Freedman' + ' ' > U+Ec8e
+'Gabriel' + ' ' > U+Ec39
+'Gamaliel' + ' ' > U+Eb4d
+'Hebrew' + ' ' > U+Ec8f
+'Heli' + ' ' > U+Ec44
+'Italy' + ' ' > U+Ec90
+'Ituraea' + ' ' > U+Ec3e
+'Jannai' + ' ' > U+Ec46
+'Jared' + ' ' > U+Ec62
+'Jason' + ' ' > U+Eb03
+'Joel' + ' ' > U+Ec92
+'Joanan' + ' ' > U+Ec4c
+'Joanna' + ' ' > U+Ec63
+'Joda' + ' ' > U+E34b
+'Jonam' + ' ' > U+Ec9b
+'Jorim' + ' ' > U+Ec64
+'Lamech' + ' ' > U+Ec66
+'Lazarus' + ' ' > U+Ec67
+'Lucius' + ' ' > U+Ec93
+'Lysanias' + ' ' > U+Ec40
+'Maath' + ' ' > U+Ec4b
+'Mahalalad' + ' ' > U+Ec68
+'Martha' + ' ' > U+Ec69
+'Matthat' + ' ' > U+Ed12
+'Mattatha' + ' ' > U+Ec9c
+'Mattathias' + ' ' > U+Ec9d
+'Melchi' + ' ' > U+Ec45
+'Melea' + ' ' > U+Ec6a
+'Menna' + ' ' > U+Ec6b
+'Methuselah' + ' ' > U+Ec6c
+'Naaman' + ' ' > U+Ec6d
+'Naggai' + ' ' > U+Ec4a
+'Nahum' + ' ' > U+Ec48
+'Nahor' + ' ' > U+Ec6e
+'Nathan' + ' ' > U+Ec6f
+'Nathanael' + ' ' > U+Ec6f
+'Neri' + ' ' > U+Ec70
+'Passover' + ' ' > U+E20d
+'Peleg' + ' ' > U+Ec71
+'Pentecost' + ' ' > U+Ec81
+'Phanuel' + ' ' > U+Ec3c
+'Quirinius' + ' ' > U+Ec3b
+'Reu' + ' ' > U+Ec74
+'Rhesa' + ' ' > U+Ec75
+'Salathiel' + ' ' > U+Ec76
+'Semien' + ' ' > U+Ec9e
+'Serug' + ' ' > U+Ec78
+'Seth' + ' ' > U+Ec79
+'Shechem' + ' ' > U+Ec95
+'Shelah' + ' ' > U+Ec7a
+'Shem' + ' ' > U+Ec7b
+'Susanna' + ' ' > U+Ec7c
+'Terah' + ' ' > U+Ec7d
+'Tiberius' + ' ' > U+Ec3d
+'Timon' + ' ' > U+Ec96
+'Trachonitus' + ' ' > U+Ec3f
+'Zacchaeus' + ' ' > U+Ec7e
+'Zarephath' + ' ' > U+Ec7f
+
+
+c Sun 5.0(Acts) proper noun additions
+
+ 'Aaron' + ' ' > U+Eb0d
+ 'Achaia' + ' ' > U+Eb7c
+ 'Agabus' + ' ' > U+Eb89
+ 'Adramyttium' + ' ' > U+Eb93
+ 'Adriatic_Sea' + ' ' > U+Ec17
+ 'Aeneas' + ' ' > U+Ec2a
+ 'Agrippa' + ' ' > U+Eb9d
+ 'Alexandria' + ' ' > U+Eb5a
+ 'Alphaeus' + ' ' > U+ec24
+ 'Amphipolis' + ' ' > U+EB2E
+ 'Ananias' + ' ' > U+Eb65
+ 'Antioch' + ' ' > U+Eb58
+ 'Antipatris' + ' ' > U+Eb9a
+ 'Apollos' + ' ' > U+EB3E
+ 'Apolonia' + ' ' > U+EB30
+ 'Arabia' + ' ' > U+Eb77
+ 'Areopagus' + ' ' > U+Ec35
+ 'Aristarchus' + ' ' > U+Ec10
+ 'Artemas' + ' ' > U+Ec34
+ 'Asia' + ' ' > U+Eb6f
+ 'Assos' + ' ' > U+Eb20
+ 'Athens' + ' ' > U+Eb07 
+ 'Attalia' + ' ' > U+EB31
+ 'Aquila' + ' ' > U+Eb17
+ 'Azotus' + ' ' > U+Eb7e
+ 'Barnabas' + ' ' > U+Ec2f
+ 'Barsabbas' + ' ' > U+Eb69
+ 'Believer' + ' ' > U+Eb90  
+ 'Benjamin' + ' ' > U+EB4B
+ 'Berea' + ' ' > U+Eb13
+ 'Bernice' + ' ' > U+Eb9e
+ 'Bithynia' + ' ' > U+EB48
+ 'Blastus' + ' ' > U+Eb8d
+ 'Candace' + ' ' > U+Eb85
+ 'Cappadocia' + ' ' > U+Eb74
+ 'Cauda' + ' ' > U+Ec36
+ 'Chaldea' + ' ' > U+Eb0e
+ 'Cenchrea' + ' ' > U+EB3d
+ 'Chios' + ' ' > U+eb22
+ 'Christian' + ' ' > U+Eb90
+ 'Cilicia' + ' ' > U+Eb5b
+ 'Claudius' + ' ' > U+Eb8a
+ 'Cnidus' + ' ' > U+Ec14
+ 'Corinth' + ' ' > U+Ea59
+ 'Cornelius' + ' ' > U+Eb81
+ 'Creator' + ' ' > U+Ec22
+ 'Crispus' + ' ' > U+EB3A
+ 'Cush' + ' ' > U+Ec32
+ 'Cyprus' + ' ' > U+Eb88
+ 'Cyrene' + ' ' > U+Eb59
+ 'Damascus' + ' ' > U+Ec31
+ 'Damaris' + ' ' > U+EB37
+ 'Demetrius' + ' ' > U+Eb1a
+ 'Derbe' + ' ' > U+EB43
+ 'Dionysius' + ' ' > U+Eb78
+ 'Dorcas' + ' ' > U+Ec2c
+ 'Drusilla' + ' ' > U+Eb9c
+ 'Elam' + ' ' > U+Eb6d
+ 'Emmor' + ' ' > U+eb5d
+ 'Ephesus' + ' ' > U+Ec0c
+ 'Epicurean' + ' ' > U+Ec05
+ 'Erastus' + ' ' > U+Ec0e
+ 'Ethiopia' + ' ' > U+Ec32
+ 'Eutychus' + ' ' > U+Eb1f
+ 'Fair_Haven' + ' ' > U+Ec18
+ 'Felix' + ' ' > U+Eb99
+ 'Gaius' + ' ' > U+Ec0f   
+ 'Galatia' + ' ' > U+EB46
+ 'Gallio' + ' ' > U+Eb3b
+ 'Gaza' + ' ' > U+Eb7f
+ 'Hamor' + ' ' > U+Eb5d
+ 'Haran' + ' ' > U+Eb0b   
+ 'Hermes' + ' ' > U+EB2F
+ 'Iconium' + ' ' > U+ec1f
+ 'Jew' + ' ' > U+e0f9
+ 'Jewish' + ' ' > U+E0f9
+ 'Joppa' + ' ' > U+Ec2d
+ 'Julius' + ' ' > U+Ec07
+ 'Justus' + ' ' > U+Eb6a 
+ 'Kish' + ' ' > U+EB49
+ 'Lasea' + ' ' > U+Ec16
+ 'Levite' + ' ' > U+Eb44
+ 'Libya' + ' ' > U+Eb73
+ 'Luke' + ' ' > U+Eb68
+ 'Lycaonia' + ' ' > U+EB51
+ 'Lycia' + ' ' > U+Ec13
+ 'Lydda' + ' ' > U+Ec2e 
+ 'Lydia' + ' ' > U+EB50 
+ 'Lysias' + ' ' > U+Ec37
+ 'Lystra' + ' ' > U+EB44
+ 'Macedonia' + ' ' > U+Ec0d
+ 'Malta' + ' ' > U+Ec19 
+ 'Manaen' + ' ' > U+EB40
+ 'Media' + ' ' > U+Eb70
+ 'Mesopotamia' + ' ' > U+Eb72
+ 'Midia' + ' ' > U+Eb0f
+ 'Miletus' + ' ' > U+Eb23
+ 'Mitylene' + ' ' > U+Eb21
+ 'Mount_Sinai' + ' ' > U+Eb5c
+ 'Mnason' + ' ' > U+EB26
+ 'Molech' + ' ' > U+Ec26
+ 'Myra' + ' ' > U+Ec28
+ 'Mysia' + ' ' > U+EB4A 
+ 'Neopolis' + ' ' > U+EB4E
+ 'Nicanor' + ' ' > U+Eb55
+ 'Niclaus' + ' ' > U+Eb56
+ 'Pamphylia' + ' ' > U+Eb6e
+ 'Paphos' + ' ' > U+eb9f
+ 'Parmenas' + ' ' > U+Eb57
+ 'Parthia' + ' ' > U+Eb0a
+ 'Patara' + ' ' > U+ec23 
+ 'Perga' + ' ' > U+EB47
+ 'Pharaoh' + ' ' > U+Ec94
+ 'Phoenix' + ' ' > U+Ec29
+ 'Phrygia' + ' ' > U+Eb76
+ 'Pisidia' + ' ' > U+Eb97
+ 'Pontus' + ' ' > U+Eb75
+ 'Porcius' + ' ' > U+Ec38
+ 'Prochorus' + ' ' > U+Eb53
+ 'Priscilla' + ' ' > U+Eb18
+ 'Ptolemais' + ' ' > U+Ec08
+ 'Publius' + ' ' > U+Ec1a
+ 'Put' + ' ' > U+Eb73
+ 'Puteoli' + ' ' > U+Ec1e 
+ 'Pyrrhus' + ' ' > U+Eb1c
+ 'Rhegium' + ' ' > U+Ec1d
+ 'Rome' + ' ' > U+Eb16
+ 'Salmone' + ' ' > U+Ec15
+ 'Samos' + ' ' > U+Ec25 
+ 'Samothrace' + ' ' > U+EB4C
+ 'Samuel' + ' ' > U+Eb8e
+ 'Sapphira' + ' ' > U+Eb66
+ 'Saul' + ' ' > U+Eb54
+ 'Sceva' + ' ' > U+Eb19
+ 'Sea_of_Reeds' + ' ' > U+Eb0c 
+ 'Secundus' + ' ' > U+Eb1d
+ 'Seleucia' + ' ' > U+EB42
+ 'Sergius' + ' ' > U+EB45
+ 'Sharon' + ' ' > U+Ec2b 
+ 'Silas' + ' ' > U+EB41
+ 'Sopater' + ' ' > U+Ec20
+ 'Sosthenes' + ' ' > U+EB3C
+ 'Stephen' + ' ' > U+Eb6b
+ 'Stoic' + ' ' > U+Ec06
+ 'Syracuse' + ' ' > U+Ec1c
+ 'Tarsus' + ' ' > U+Ec30
+ 'Tertullus' + ' ' > U+Eb9b
+ 'Theophilus' + ' ' > U+Eb67
+ 'Thessalonica' + ' ' > U+Eb12
+ 'Theudas' + ' ' > U+Eb71  
+ 'Thyatira' + ' ' > U+EB52
+ 'Timothy' + ' ' > U+Ec02
+ 'Titus' + ' ' > U+EB38
+ 'Trophimus' + ' ' > U+Eb1e
+ 'Troas' + ' ' > U+Ec0b
+ 'Tyrannus' + ' ' > U+EB3F
+ 'Zeus' + ' ' > U+EB2D
+
+
+
+
+
+
+
+
+
+
+
 
 
 
