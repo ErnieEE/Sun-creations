@@ -1,7 +1,7 @@
 ﻿
 store(&VERSION) '9.0'
 store(&TARGETS) 'any windows macosx linux web iphone ipad androidphone androidtablet mobile desktop tablet'
-store(&NAME) 'Sun 5_2'
+store(&NAME) 'Sun 6_0'
 store(&KEYBOARDVERSION) '090022'
 store(&LAYOUTFILE) 'Sun2-layout.js'
 begin Unicode > use(main)
@@ -1083,7 +1083,8 @@ c Proper Nouns-Romans
 'Patrobas' + ' ' > U+Ebcc
 'Persis' + ' ' > U+Ebce
 'Philologus' + ' ' > U+Ebcf
-'Phlegon' + ' ' > U+Ebd2
+'Phlegon' + ' ' > U+Ebd1
+'Phoebe' + ' ' > U+Ebd2
 'Quartus' + ' ' > U+Ebd3
 'Rebekah' + ' ' > U+Ebd4
 'Sarah' + ' ' > U+Ebd5
