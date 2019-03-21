@@ -1055,11 +1055,11 @@ c John proper
 c Romans
 
 'armor' + ' ' > U+Ebbd
-'counted' + ' ' > U+Ebcd
-'credit' + ' ' > U+Ebcd
+'counted' + ' ' > U+Ebc0
+'credit' + ' ' > U+Ebc0
 'creation' + ' ' > U+Ebc3
 'example_pattern' + ' ' > U+Ebcd
-'reckon' + ' ' > U+Ebcd
+'reckon' + ' ' > U+Ebc0
 
 
 c Proper Nouns-Romans
