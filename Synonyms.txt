@@ -1,24 +1,24 @@
 E01A love:compassion
 E01B hate:enmity
 E01C kindness:kind
-E020 want:will:desire:like 
+E020 will:desire:like :want
 E022 envy:covet
 E028 ruler:crown:king:lord
 E029 wealthy:money:wealth
 E02C redemption:redeem
 E03D temple:church
-E03E persecution:persecute:tribulation
+E03E tribulation:persecute:persecution
 E03F speak:mouth:said
 E040 call:beckon
 E047 sigh:breathe
 E049 times:repeat
-E04A permission:permit:allow
+E04A permit:allow:permission
 E04B worship:exalt:praise
 E04C teaching:teach
 E04D preaching:preach
 E04E obey:obedience
 E053 meal:eat:food
-E056 fear:worry:afraid
+E056 worry:afraid:fear
 E059 explanation:explain
 E05C blessing:bless
 E05D loaf:bread
@@ -29,7 +29,7 @@ E063 understanding:understand
 E064 wise:wisdom
 E065 shame:humiliate
 E066 therefore:because:purpose:reason
-E06C think:thought:think_opinion:think_wonder:mind
+E06C thought:mind:think:think_opinion:think_wonder
 E06E ignorant:ignorance
 E06F faith:believe
 E070 confidence:assurance
@@ -49,7 +49,7 @@ E09B worthy:value:worth
 E09C truth:true 
 E09F live:alive:life
 E0A2 nation:country
-E0A3 governor:proconsul
+E0A3 proconsul:governor
 E0D9 stair:level
 E0E2 song:Psalm:sing
 E0E4 hit:beat
@@ -57,7 +57,7 @@ E0E6 weight:weigh
 E0E9 thief:robber
 E0F5 earn:deserve
 E0F9 Jewish:Jew
-E108 together(things):gathered_things
+E108 together_things:gathered_things
 E10B through:pass
 E110 over:above
 E113 on_top_of:on
@@ -65,7 +65,7 @@ E121 sleep:lie_down:rest
 E122 mattress:bed
 E124 power:ability:can
 E125 they:them
-E126 together(people):gathered_people
+E126 together_people:gathered_people
 E128 multitude:crowd
 E12C writer:author :scribe
 E130 saint:godly:righteous_person
@@ -81,18 +81,18 @@ E14B pride:boast
 E14D sea:ocean
 E150 helper:attendant
 E152 hypocrite:deceiver
-E153 space:earth:ground:land:place
+E153 land:earth:ground
 E154 ripen:grow:growth
 E156 wilderness:desert
 E158 sojourner:foreigner:gentile
-E15B soil:ground_soil:dirt
+E15B soil:dirt:ground_soil
 E15F sun:day
 E162 show:appear:reveal
 E166 me:I
 E167 we:us
 E16A when:time
 E16F patient:longsuffering:patience
-E176 family:relative
+E176 relative:family
 E177 adoption:adopt
 E178 tomb:grave
 E17B dwell:abide
@@ -129,7 +129,7 @@ E225 later:late
 E22A read:book:learn
 E22B gospel:good_news
 E22C Word_of_God:Bible:Scripture 
-E22D story:message:news:report:parable
+E22D story:message:news:parable:report
 E22E witness:testimony
 E22F lawful:law
 E231 start:beginning
@@ -183,11 +183,12 @@ E32A spend:buy
 E334 Messiah:Christ
 E335 Satan:Beelzebul
 E33F Gerasenes:Gadara
-E34B Golgotha:Joda
+E34B Joda:Golgotha
 E354 Mary_Mother_of_Jesus:Mary
 E35A John_the_Disciple:John
+E35D idol:Alphaeus
 E368 Jude:Judas:Judas_not_Iscariot
-E381 travel:journey:trip:go 
+E381 trip:go :journey:travel
 E384 dish:bowl
 E386 platter:plate
 E397 smallest:least
@@ -196,7 +197,7 @@ EA16 lots:Lasea:lot
 EA47 Simon:Simeon
 EA4A beauty:beautiful
 EA7F condemnation:condemn
-EA80 dream:vision
+EA80 vision:dream
 EA84 guilty:guilt
 EB02 Hannah:Anna
 EB03 Joshua:Jason:Jesus_not_Christ
@@ -208,13 +209,13 @@ EB73 Put:Libya
 EB7D wings:wing
 EB90 Christian:Believer
 EB91 field:farm
-EBB5 Didymus:Clopas
 EBC0 reckon:counted:credit
-EBCC Persis:Patrobas
+EBCD example_pattern:Apelles
+EBE7 important:priority:order
+EBE9 noise:sound
 EC32 Ethiopia:Cush
 EC33 sect:religion
 EC36 Clauda:Cauda
 EC44 Heli:Eli
 EC6F Nathaniel:Nathan
 EC87 trial:case
-EC9C Matthias:Mattatha
