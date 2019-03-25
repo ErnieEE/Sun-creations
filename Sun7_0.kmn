@@ -2,7 +2,7 @@
 store(&TARGETS) 'any windows macosx linux web iphone ipad androidphone androidtablet mobile desktop tablet'
 store(&KEYBOARDVERSION) '090022'
 store(&LAYOUTFILE) 'Sun2-layout.js'
-store(&NAME) 'Sun6_0'
+store(&NAME) 'Sun7_0'
 begin Unicode > use(main)
 
 group(main) using keys
@@ -1087,9 +1087,25 @@ c Proper Nouns-Romans
 'Tryphosa' + ' ' > U+Ebd9
 'Urbanus' + ' ' > U+Ebda
 
+c 1 2 Corinthians
 
+'cymbal' + ' ' > U+Ebe3
+'drum' + ' ' > U+Ebe3
+'free_no_cost' + ' ' > U+Ebe4
+'gong' + ' ' > U+Ebe5
+'important' + ' ' > U+Ebe7
+'loud' + ' ' > U+Ebe8
+'mirror' + ' ' > U+Ebe6
+'noise' + ' ' > U+Ebe9
+'order' + ' ' > U+Ebe7
+'priority' + ' ' > U+Ebe7
+'sound' + ' ' > U+Ebe9
 
+c proper nouns 1 2 Corinthians
 
+'Chloe' + ' ' > U+ebe2
+'Eve' + ' ' > U+Ebeb
+'Stephanas' + ' ' > U+Ebea
 
 
 c proper Nouns
