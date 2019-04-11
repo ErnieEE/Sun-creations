@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>10.0.1206.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Version URL="">090022</Version>
+    <Name URL="">Sun6_2</Name>
+  </Info>
+  <Files>
+    <File>
+      <Name>1Current fonts\PublishSun6.2on4_10_2019\BackSUN6_2.dfont</Name>
+      <Description>File BackSUN6_2.dfont</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.dfont</FileType>
+    </File>
+    <File>
+      <Name>1Current fonts\PublishSun6.2on4_10_2019\BackSUN6_2.ttf</Name>
+      <Description>Font Backsun6_2</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>1Current fonts\PublishSun6.2on4_10_2019\SUN6.2.dfont</Name>
+      <Description>File SUN6.2.dfont</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.dfont</FileType>
+    </File>
+    <File>
+      <Name>1Current fonts\PublishSun6.2on4_10_2019\SUN6.2.ttf</Name>
+      <Description>Font SUN6.2</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>1Current fonts\PublishSun6.2on4_10_2019\Sun6_2.kmx</Name>
+      <Description>Keyboard Sun6_2</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Sun6_2</Name>
+      <ID>sun6_2</ID>
+      <Version>090022</Version>
+      <Languages/>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>
