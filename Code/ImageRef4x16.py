@@ -15,12 +15,15 @@ import csv
 
 script = sys.argv[0]
 logname = script.split('.')[0]
-sys.stdout = open(logname+".log", "w",encoding="utf-8")
+sys.stdout = open('Log\\'+logname+".log", "w",encoding="utf-8")
 
 IMAGEPOS = 0
-NAMEPOS = 1
+LANGNAMEPOS = 3
 UECPOS = 2
-SYNPOS = 3
+ENNAMEPOS = 1
+
+COLUMNS = 4
+ROWSPERPAGE = 16
 
 
 def convert2csv(filename):
@@ -54,28 +57,9 @@ def xget_nth(haystack, needle, n):
 		return haystack.find(needle)
 	else:
 		return haystack.find(needle, get_nth(haystack, needle, n - 1) + 1)
-COLUMNS = 4
-ROWSPERPAGE = 16
-
-
-
-def xwritexref(ddata, csv_out):
-    name_sort = sorted(ddata, key=lambda x: x[NAMEPOS].lower())
-    with open(csv_out, 'w' , encoding="utf-8") as outfile:
-        count = 0
-        for row in name_sort:
-            name = row[NAMEPOS]
-            uec = row[UECPOS]
-            image = row[IMAGEPOS]
-            #syn = row[SYNPOS]
-            line = image+',"'+name+'\n('+uec+')"'    #,'+syn;
-            outfile.write(line+',')
-            count = count + 1
-            print(count, count %4)
-            if count % 4 == 0:
-                outfile.write('\n')
+       
 def createCell(row):
-    name = row[NAMEPOS]
+    name = row[LANGNAMEPOS]
     uec = row[UECPOS]
     image = row[IMAGEPOS]
     #syn = row[SYNPOS]
@@ -97,7 +81,7 @@ def writexref(ddata, csv_out):
                 else:    
                     line = createCell(d[x])+','+createCell(d[x+16])+','+createCell(d[x+32])+','+createCell(d[x+48])
                 outfile.write(line+',')
-                outfile.write('*\n')
+                outfile.write('\n')
 
 			
 csv_file = ""
@@ -125,16 +109,16 @@ print(x0)
 print('--------')
 print(x1)
 '''
-name_sort = sorted(csv_data, key=lambda x: x[NAMEPOS].lower())
+name_sort = sorted(csv_data, key=lambda x: x[LANGNAMEPOS].lower())
 writexref(name_sort, csv_out)
 convert2ods(csv_out)
 
 
 print("-------- Done ----------")
 print("Create a libreoffice richtext document")
-print("Load", csv_out.ods,"into a libreoffice calc spreadsheet")
+print("Load, csv_out.ods into a libreoffice calc spreadsheet")
 print("Load SUN font.  Resize image columns to 32. ")
 print("Print output should be 4 columns with 16 rows per page.")
 print("Cell format image column width = .65 text column width = 1.15")
-print("margins left and right = .5.")
+print("margins left and right = .5. Set name columns to wrap")
 print("Export as pdf")
