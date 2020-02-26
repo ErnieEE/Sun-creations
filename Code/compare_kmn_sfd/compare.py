@@ -11,8 +11,8 @@ script = sys.argv[0]
 logname = script.split('.')[0]
 sys.stdout = open(logname+".log", "w",encoding="utf-8")
 
-kmnfile = "kmnSUN7_24.csv"
-pwfile = "pw724.csv"
+kmnfile = "kmnSUN7_24.csv"      #contains all words from kmn file
+pwfile = "pw724.csv"            #contains primary words from sfd file
 
 kmnname = ""
 kmnuec = ""
