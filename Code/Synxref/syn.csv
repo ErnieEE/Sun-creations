@@ -1,0 +1,264 @@
+
+e01a, love compassion
+e01b, hate enmity
+e01c, kindness kind_nice
+e020, like desire want will
+e022, envy covet
+e028, lord king ruler master
+e029, wealth money wealthy
+e02c, redemption redeem
+e03e, persecution persecute tribulation
+e03f, mouth confession said speak
+e040, call beckon
+e049, times repeat continue
+e04a, permission allow permit
+e04b, praise exalt worship dignify
+e04c, teaching teach
+e04d, preaching preach
+e04e, obey obedience
+e053, food eat meal
+e055, revile accuse criticize
+e056, fear afraid worry
+e058, insist command
+e059, explanation explain
+e05b, insult blasphemy blaspheme
+e05c, blessing bless
+e05d, loaf bread
+e05e, prayer pray
+e061, questioned ask
+e062, knowledge know
+e063, understanding understand
+e064, wise wisdom
+e065, shame humiliate
+e066, purpose because reason therefore
+e06c, think_opinion mind think_wonder think thought
+e06e, ignorant ignorance
+e06f, faith believe
+e070, confidence assurance
+e076, make create
+e07d, to_plant sow
+e07e, put put_verb
+e07f, need have_to
+e080, lower_verb go_down
+e086, give for
+e088, carry bring take
+e08c, work do
+e08d, useful use
+e08f, sinful sin lawlessness unrighteous unrighteousness
+e090, righteousness righteous
+e097, perfume fragrant
+e09a, yes correct
+e09b, worth value worthy
+e09c, truth true
+e09f, life alive live
+e0a2, nation country
+e0a3, proconsul governor
+e0d9, stair level
+e0dc, Puah Puah_woman
+e0e2, sing Psalm song
+e0e4, hit beat
+e0e6, weight weigh
+e0e9, thief robber
+e0f5, earn deserve
+e0f9, Jewish Jew
+e108, together_things gathered_things gathered
+e10b, through pass
+e110, over above
+e113, on on_top_of
+e121, rest lie_down sleep
+e122, mattress bed
+e124, can ability power
+e125, they them
+e126, together_people gathered_people
+e128, multitude crowd
+e12c, scribe author writer
+e12d, deacon servant
+e130, righteous_person godly saint
+e133, sower farmer
+e137, leader lead manage
+e141, kill destroy destruction
+e144, healer doctor
+e147, to_clothe clothe
+e148, cohort army
+e14a, amazing amazed great
+e14b, pride boast proud
+e14d, sea ocean
+e150, helper attendant
+e152, hypocrite deceiver
+e153, ground earth land space
+e154, growth grow ripen
+e156, wilderness desert
+e158, gentile foreigner sojourner
+e15b, ground_soil dirt soil
+e15f, sun day
+e162, reveal appear show
+e166, me I
+e167, we us
+e16a, when time
+e16f, patience longsuffering patient
+e176, relative family
+e177, adoption adopt
+e178, tomb grave
+e17b, dwell abide
+e17c, not no
+e17f, deception deceive false lead_astray lie
+e181, death dead die
+e183, temptation tempt
+e184, that other
+e185, silence quiet
+e186, whisper secret
+e18f, forgiveness forgive
+e190, useless futile
+e193, disobey disobedience rebellion reject
+e194, unbelief doubt
+e195, betrayal betray
+e196, courage brave
+e198, much many
+e19b, small few
+e19d, humility humble
+e19e, warn careful
+e1a2, judgment judge
+e1a3, receive gain
+e1d0, punishment punish
+e204, angry anger
+e205, joy happy
+e207, sad grieve
+e209, healthy health
+e20a, sick disease
+e20b, party festival
+e20e, gratitude grateful thank
+e214, save rescue
+e215, now immediately
+e217, glorify glory
+e219, faithfulness faithful
+e221, sealed seal
+e222, suffer suffering
+e223, only alone
+e224, laughter laugh
+e225, later late
+e22a, learn book read
+e22b, gospel good_news
+e22c, Scripture Bible Word_of_God
+e22d, news message parable report story
+e22e, witness testimony
+e22f, lawful law commandment
+e231, start beginning
+e232, finish end
+e235, born birth
+e236, ripe mature
+e238, see eye
+e239, sensuality lust sexual_desire
+e23c, road path way
+e240, inside in
+e241, outside out
+e243, depart come_out leave
+e244, tree plant wood
+e247, wet water
+e248, pure clean
+e249, impure dirty
+e24a, baptize baptism
+e24b, same equal
+e24e, knife cut
+e24f, pain hurt
+e250, circumcision circumcise
+e251, whole all
+e252, eternal always eternity
+e253, fabric clothing
+e25a, visit come
+e25f, bound arrest chain imprisoned
+e260, freedom free
+e26c, pillow cushion
+e26d, gentleness gentle
+e272, night moon
+e274, drink cup
+e279, wheat grain
+e283, fight battle war
+e298, sit chair
+e299, hear ear
+e29b, some part
+e29c, write pen
+e300, near close
+e301, heat fire hot
+e309, smell nose
+e30b, stream river
+e30e, tie knot
+e318, to forward
+e31e, turn change
+e31f, transfigure transfiguration
+e320, repentance repent
+e321, depth deep
+e322, ascend arise
+e326, division divide separate split
+e329, resurrection resurrect
+e32a, spend buy
+e330, oppose against
+e334, Messiah Christ
+e335, Satan Beelzebul
+e33f, Gerasenes Gadara
+e342, Aram Syria
+e34b, Joda Golgotha
+e354, Mary Mary_Mother_of_Jesus
+e356, Cephas Simon_Peter
+e35a, John John_the_Disciple
+e368, Judas_not_Iscariot Juda Judas Jude
+e381, journey go travel trip
+e384, dish bowl
+e386, platter plate
+e390, pos *
+e397, smallest least
+e83a, convert become_person
+e83b, remain stay
+ea16, lots lot
+ea47, Simon Simeon
+ea4a, beauty beautiful
+ea67, Babel Babylon
+ea7f, condemnation condemn
+ea80, vision dream
+ea84, guilty guilt
+eb02, Hannah Anna
+eb04, Matthias Matthew
+eb14, triumph prevail victory
+eb32, tent tabernacle
+eb5c, Mount_Horeb Mount_Sinai
+eb5d, Hamor Emmor
+eb72, Aram_Naharaim Mesopotamia
+eb73, Put_land Lybia
+eb7d, wings wing
+eb90, Christian Believer
+eb91, field farm
+ebc0, credit counted reckon
+ebdd, Ashhur Ashhur
+ebe3, drum cymbal
+ebe7, order important priority
+ebe9, sound noise
+ebf2, next another
+ec20, Sosipater Sopater
+ec33, sect religion
+ec36, Clauda Cauda
+ec44, Heli Eli
+ec56, Cain Cainan Kenan
+ec5c, Elishah Elisha
+ec5f, Hanok Enoch
+ec60, Enosh Enos
+ec6f, Nathaniel Nathan
+ec81, Pentecost pentecost
+ec87, trial case
+eca7, stern_words harsh
+ecb8, Onesimus Onesiphorus
+eccf, thirsty thirst
+ecd0, burnt burn
+ecd7, Appolyon Abaddon
+ece4, Epaphras Epaphroditus
+ecec, perfect complete
+ecee, breath breathe
+ecf0, pattern example
+ecfc, harlot prostitute
+ed00, kind_same type
+ed01, blemish spot
+ed0a, jump leap
+ed0c, revenge avenge vengeance
+edca, Cush Cush_man
+eeb9, tar pitch
+eee2, Letush Letush
+eee3, Leummim Leum
+eee4, Machpelah Machpelah

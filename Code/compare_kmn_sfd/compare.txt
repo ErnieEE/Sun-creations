@@ -1,0 +1,6 @@
+Compare names
+e37e    period               not in kmn found --.
+
+Compare unicodes
+
+Extra unicodes
