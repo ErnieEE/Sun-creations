@@ -1,0 +1,15 @@
+,Semien,(Not found),ec9e,changed to Not_found
+,Yahweh,Yahweh_Jeová,e0c7,changed toYahweh_Jeová
+,gathered_things,coisas reunidas,e108,gathered            
+,Bar_Jesus_not_Christ,Bar_Jesus_não_Cristo,ec89,not in pw76
+,Jacob(NT),Jacó (NT),ea72,not in pw76
+,Joseph(NT),José(NT),ea73,not in pw76
+,together_things,coisas_juntas,e108,used gathered_things as primary
+,Matthias,Matias,eb04,was ebo4
+,pattern,padrão,ecf0,was ecfo pattern not in pw76
+,Sea_of_Reeds        ,Mar_de_Vermelho,eb0c,was Sea_of_Red
+,,,,
+,"In addition to above I replaced all spaces in words with _ since keyman uses the space
+I also removed all ‘()’ since fontforge doesn’t like them.",,,
+,character.,,,
+,I also removed all ‘()’  since fontforge doesn’t like them.,,,

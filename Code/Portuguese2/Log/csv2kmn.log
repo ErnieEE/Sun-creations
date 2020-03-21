@@ -1,0 +1,3319 @@
+0 csv2kmn.py
+1 PT.csv
+2 76
+3 PT
+['\ueb0d', 'eb0d', 'Aaron', 'Arão']
+['\uecd7', 'ecd7', 'Abaddon', 'Abadom']
+['\uea96', 'ea96', 'Abel', 'Abel']
+['\ue35f', 'e35f', 'Abiathar', 'Abiatar']
+['\ue17b', 'e17b', 'abide', 'permanecer']
+['\uea5b', 'ea5b', 'Abijah', 'Abías']
+['\uec4d', 'ec4d', 'Abilene', 'Abilene']
+['\ue124', 'e124', 'ability', 'habilidade']
+['\uea6a', 'ea6a', 'Abiud', 'Abiúde']
+['\ue0a4', 'e0a4', 'abomination', 'abominação']
+['\ue11b', 'e11b', 'about', 'cerca_de']
+['\ue110', 'e110', 'above', 'acima_de']
+['\ue373', 'e373', 'Abraham', 'Abraâo']
+['\uec4e', 'ec4e', 'Abyss', 'Abismo']
+['\ue24d', 'e24d', 'according_to', 'de_acordo_com']
+['\ue055', 'e055', 'accuse', 'acusar']
+['\ueb7c', 'eb7c', 'Achaia', 'Acaia']
+['\ueca5', 'eca5', 'Achaicus', 'Acaico']
+['\uea6e', 'ea6e', 'Achim', 'Aquim']
+['\uec4f', 'ec4f', 'Adam', 'Adão']
+['\uec50', 'ec50', 'Addi', 'Adi']
+['\uec51', 'ec51', 'Admin', 'Admin']
+['\ue177', 'e177', 'adopt', 'adotar']
+['\ue177', 'e177', 'adoption', 'adoção']
+['\ueb93', 'eb93', 'Adramyttium', 'Adramitino']
+['\uec17', 'ec17', 'Adriatic_Sea', 'Mar_Adriático']
+['\ue027', 'e027', 'adultery', 'Adultério']
+['\uec2a', 'ec2a', 'Aeneas', 'Eneias']
+['\ueba1', 'eba1', 'Aenon', 'Enom']
+['\ue056', 'e056', 'afraid', 'com_medo']
+['\ue11d', 'e11d', 'after', 'depois_de']
+['\ueb89', 'eb89', 'Agabus', 'Ágabo']
+['\ue330', 'e330', 'against', 'contra']
+['\ueb9d', 'eb9d', 'Agrippa', 'Agripa']
+['\uea61', 'ea61', 'Ahaz', 'Acaz']
+['\ue312', 'e312', 'air', 'ar']
+['\ue0d4', 'e0d4', 'alabaster', 'alabastro']
+['\uea14', 'ea14', 'Alexander', 'Alexander']
+['\ueb5a', 'eb5a', 'Alexandria', 'Alexandria']
+['\ue09f', 'e09f', 'alive', 'vivo']
+['\ue251', 'e251', 'all', 'todos']
+['\ue04a', 'e04a', 'allow', 'permitir']
+['\ue223', 'e223', 'alone', 'sozinho']
+['\uec24', 'ec24', 'Alphaeus', 'Alfeu']
+['\uea3c', 'ea3c', 'altar', 'altar']
+['\ue252', 'e252', 'always', 'sempre']
+['\ue14a', 'e14a', 'amazed', 'pasmados']
+['\ue14a', 'e14a', 'amazing', 'assombroso']
+['\uebfd ', 'ebfd', 'ambassador', 'embaixador']
+['\ue100', 'e100', 'amen', 'Amém']
+['\uea51', 'ea51', 'Amminadab', 'Aminadabe']
+['\uea64', 'ea64', 'Amon', 'Amom']
+['\uec47', 'ec47', 'Amos', 'Amós']
+['\ueb2e', 'eb2e', 'Amphipolis', 'Anfípolis']
+['\uebb9', 'ebb9', 'Ampliatus', 'Ampliatus']
+['\ueb65', 'eb65', 'Ananias', 'Ananias']
+['\uec80', 'ec80', 'ancestor', 'antepassado']
+['\ue11c', 'e11c', 'and', 'e']
+['\ue357', 'e357', 'Andrew', 'André']
+['\uebba', 'ebba', 'Andronicus', 'Andrônico']
+['\ue0a7', 'e0a7', 'angel', 'anjo']
+['\ue204', 'e204', 'anger', 'raiva']
+['\ue204', 'e204', 'angry', 'bravo']
+['\ue102', 'e102', 'animal', 'animal']
+['\ueb02', 'eb02', 'Anna', 'Anás']
+['\ueb63', 'eb63', 'Annas', 'Anás']
+['\ue033', 'e033', 'anointed', 'ungido']
+['\uebf2', 'ebf2', 'another', 'mais_um']
+['\ued0e', 'ed0e', 'Antichrist', 'Anticristo']
+['\ueb58', 'eb58', 'Antioch', 'Antioquia']
+['\uec01', 'ec01', 'Antipas', 'Antipas']
+['\ueb9a', 'eb9a', 'Antipatris', 'Antipátride']
+['\uebbb', 'ebbb', 'Apelles', 'Apeles']
+['\ueb30', 'eb30', 'Apollonia           ', 'Apolonia']
+['\ueb3e', 'eb3e', 'Apollos', 'Apolo']
+['\uebef', 'ebef', 'apostle', 'apóstolo']
+['\ue162', 'e162', 'appear', 'aparecer']
+['\uecf1', 'ecf1', 'Apphia', 'Áfia']
+['\ue041', 'e041', 'appointed', 'nomeado']
+['\uecd7', 'ecd7', 'Appolyon', 'Appolyon']
+['\ueb17', 'eb17', 'Aquila', 'Áquila']
+['\ueb77', 'eb77', 'Arabia', 'Arábia']
+['\uece7', 'ece7', 'Archippus', 'Arquipo']
+['\uec35', 'ec35', 'Areopagus', 'Areopagus']
+['\ueca6', 'eca6', 'Aretas', 'Aretas']
+['\ue057', 'e057', 'argument', 'argumento']
+['\ue34d', 'e34d', 'Arimathea', 'Arimateia']
+['\ue322', 'e322', 'arise', 'Levantar-se']
+['\uec10', 'ec10', 'Aristarchus', 'Aristarco']
+['\uebbc', 'ebbc', 'Aristobulus', 'Aristóbulo']
+['\ue14e', 'e14e', 'arm', 'braço']
+['\uebbd', 'ebbd', 'armor', 'armaduras']
+['\ue148', 'e148', 'army', 'exército']
+['\uec52', 'ec52', 'Arni', 'Arni']
+['\ue31b', 'e31b', 'around', 'ao_redor']
+['\uec53', 'ec53', 'Arphaxad', 'Arfaxade']
+['\ue25f', 'e25f', 'arrest', 'prender']
+['\uecbf', 'ecbf', 'arrow', 'seta']
+['\uec34', 'ec34', 'Artemas', 'Ártemas']
+['\uea5c', 'ea5c', 'Asa', 'Asa']
+['\ue322', 'e322', 'ascend', 'ascender']
+['\uea90', 'ea90', 'ash', 'cinza']
+['\ue05f', 'e05f', 'ashamed', 'envergonhado']
+['\uebde', 'ebde', 'Asher', 'Aser']
+['\uebdd', 'ebdd', 'Ashhur               ', 'Terra_de_Aser']
+['\ueb6f', 'eb6f', 'Asia', 'Ásia']
+['\ue061', 'e061', 'ask', 'pergunta']
+['\ueb20', 'eb20', 'Assos', 'Assôs']
+['\ue070', 'e070', 'assurance', 'certeza']
+['\uebbe', 'ebbe', 'Asyncritius', 'Asyncritius']
+['\ueb07', 'eb07', 'Athens', 'Atenas']
+['\ueb31', 'eb31', 'Attalia', 'Atália']
+['\ue150', 'e150', 'attendant', 'assitente']
+['\ue12c', 'e12c', 'author ', 'autor']
+['\ue034', 'e034', 'authority', 'autoridade']
+['\ued0c', 'ed0c', 'avenge', 'Vingar-se']
+['\uec54', 'ec54', 'awake', 'desperto']
+['\ue11e', 'e11e', 'away', 'longe']
+['\uea6c', 'ea6c', 'Azor', 'Azor']
+['\ueb7e', 'eb7e', 'Azotus', 'Azoto']
+['\uebbf', 'ebbf', 'Baal', 'Baal']
+['\ue0a6', 'e0a6', 'baby', 'bebê']
+['\uea67', 'ea67', 'Babylon', 'Babilônia']
+['\ue325', 'e325', 'backward', 'em_sentido_contrário']
+['\ue17d', 'e17d', 'bad', 'mau']
+['\ue26f', 'e26f', 'bag', 'saco']
+['\ueca1', 'eca1', 'Balaam', 'Balaão']
+['\uebff', 'ebff', 'Balak', 'Balaque']
+['\uec55', 'ec55', 'bank', 'banco']
+['\ue24a', 'e24a', 'baptism', 'batismo']
+['\ue24a', 'e24a', 'baptize', 'batizar']
+['\uec89', 'ec89', 'Bar_Jesus_not_Christ', 'Bar_Jesus_não_Cristo']
+['\ue36d', 'e36d', 'Barabbas', 'Barrabás']
+['\uea97', 'ea97', 'Barachiah', 'Baraquias']
+['\ued02', 'ed02', 'Barak', 'Baraque']
+['\uec2f', 'ec2f', 'Barnabas', 'Barnabé']
+['\ueb69', 'eb69', 'Barsabbas', 'Barsabbas']
+['\ue362', 'e362', 'Bartholomew', 'Bartolomeu']
+['\ue36b', 'e36b', 'Bartimaeus', 'Bartimaeus']
+['\ue19f', 'e19f', 'basket', 'cesta']
+['\ue283', 'e283', 'battle', 'batalha']
+['\uecef', 'ecef', 'bear', 'suportar']
+['\ue227', 'e227', 'bear_with', 'tolerar']
+['\ue103', 'e103', 'beast', 'besta']
+['\ue0e4', 'e0e4', 'beat', 'batimento']
+['\uea4a', 'ea4a', 'beautiful', 'belo']
+['\uea4a', 'ea4a', 'beauty', 'beleza']
+['\ue066 ', 'e066', 'because', 'porque']
+['\ue040', 'e040', 'beckon', 'acenar']
+['\ue83a', 'e83a', 'become_person', 'Tornar-se_pessoa']
+['\ue839', 'e839', 'become_thing', 'Tornar-se_uma_coisa']
+['\ue122', 'e122', 'bed', 'cama']
+['\ue335 ', 'e335', 'Beelzebul', 'Beelzebul']
+['\ue107', 'e107', 'before', 'antes']
+['\ue21e', 'e21e', 'beg', 'implorar']
+['\ue231', 'e231', 'beginning', 'começar']
+['\ue116', 'e116', 'behind', 'atrás']
+['\ue06f', 'e06f', 'believe', 'crer']
+['\ueb90', 'eb90', 'Believer', 'Crente']
+['\ue29d', 'e29d', 'belt', 'cinto']
+['\ueb4b', 'eb4b', 'Benjamin', 'Benjamim']
+['\ueda3', 'eda3', 'Beor', 'Beor']
+['\ueb13', 'eb13', 'Berea', 'Bereia']
+['\ueb9e', 'eb9e', 'Bernice', 'Berenice']
+['\ue117', 'e117', 'beside', 'ao_lado']
+['\ue21f', 'e21f', 'best', 'melhor']
+['\ue349', 'e349', 'Bethany', 'Beânia']
+['\ueba0', 'eba0', 'Bethesda', 'Betesda']
+['\uea45', 'ea45', 'Bethlehem', 'Belém']
+['\ue348', 'e348', 'Bethphage', 'Betfagé']
+['\ue340', 'e340', 'Bethsaida', 'Betsaida']
+['\ue195', 'e195', 'betray', 'trair']
+['\ue195', 'e195', 'betrayal', 'traição']
+['\ue09e', 'e09e', 'better', 'melhor']
+['\ue118', 'e118', 'between ', 'entre']
+['\ue22c', 'e22c', 'Bible', 'Bíblia']
+['\ue120', 'e120', 'big', 'grande']
+['\ue25c', 'e25c', 'bird', 'pássaro']
+['\ue235', 'e235', 'birth', 'nascimento']
+['\ueb48', 'eb48', 'Bithynia', 'Bitínia']
+['\uecd2', 'ecd2', 'bitter', 'amargo']
+['\ueb86', 'eb86', 'black', 'preto']
+['\ue05b', 'e05b', 'blaspheme', 'blasfemar']
+['\ue05b', 'e05b', 'blasphemy', 'blasfêmia']
+['\ueb8d', 'eb8d', 'Blastus', 'Blasto']
+['\ued01', 'ed01', 'blemish', 'defeito']
+['\ue05c', 'e05c', 'bless', 'abençoar']
+['\uea21', 'ea21', 'blessed', 'abençoado']
+['\ue05c', 'e05c', 'blessing', 'bênção']
+['\ue192', 'e192', 'blind', 'cego']
+['\ue087', 'e087', 'blood', 'sangue']
+['\uecda', 'ecda', 'blue', 'azul']
+['\ue14b', 'e14b', 'boast', 'alardear']
+['\ue265', 'e265', 'boat', 'barco']
+['\uea54', 'ea54', 'Boaz', 'Boaz']
+[' \ue143', 'e143', 'body', 'corpo']
+['\ue0b2', 'e0b2', 'bone', 'osso']
+['\ue22a', 'e22a', 'book', 'livro']
+['\ue235', 'e235', 'born', 'nascer']
+['\ue119', 'e119', 'bottom', 'fundo']
+['\ue25f', 'e25f', 'bound', 'limite']
+['\ue210', 'e210', 'bow', 'arco']
+['\uecc8', 'ecc8', 'bow_arrow', 'Arco-flecha']
+['\ue384', 'e384', 'bowl', 'taça']
+['\ue29e', 'e29e', 'box', 'caixa']
+['\ue001', 'e001', 'boy', 'menino']
+['\ue002', 'e002', 'boys', 'meninos']
+['\ue246', 'e246', 'branch', 'ramificar']
+['\ue196', 'e196', 'brave', 'valente']
+['\ue05d', 'e05d', 'bread', 'pão']
+['\ue0e1', 'e0e1', 'break', 'partir']
+['\uecd5', 'ecd5', 'breastplate', 'peitoral']
+['\uecee', 'ecee', 'breath', 'fõlego']
+['\uecee', 'ecee', 'breathe', 'respirar']
+['\uebdb', 'ebdb', 'bribe', 'subornar']
+['\ue015', 'e015', 'bride', 'noiva']
+['\ue21b', 'e21b', 'bright', 'brilhante']
+['\ue088', 'e088', 'bring', 'trazer']
+['\ueb2c', 'eb2c', 'bronze', 'bronze']
+['\ue006', 'e006', 'brother', 'irmão']
+['\ue007', 'e007', 'brothers', 'irmãos']
+['\ue17a', 'e17a', 'build', 'edificar']
+['\ue0a1', 'e0a1', 'building', 'edificando']
+['\uec86', 'ec86', 'burden', 'fardo']
+['\uecd0', 'ecd0', 'burn', 'queimar']
+['\uecd0', 'ecd0', 'burnt', 'queimado']
+['\ue0d7', 'e0d7', 'bury', 'enterrar']
+['\ue11a', 'e11a', 'but', 'porêm']
+['\ue32a', 'e32a', 'buy', 'comprar']
+['\ue370', 'e370', 'Caesar', 'César']
+['\ue346', 'e346', 'Caesarea', 'Cesareia']
+['\uea77', 'ea77', 'Caiaphas', 'Caifás']
+['\uec56', 'ec56', 'Cain', 'Caim']
+['\uec56', 'ec56', 'Cainan', 'Cainã']
+['\ue040', 'e040', 'call', 'ligar']
+['\ue29f', 'e29f', 'camel', 'camelo']
+['\ue124', 'e124', 'can', 'pode']
+['\ueba2', 'eba2', 'Cana', 'Caná']
+['\ue33d', 'e33d', 'Canaan_land', 'Canaã']
+['\ueb85', 'eb85', 'Candace', 'Candace']
+['\ue33a', 'e33a', 'Capernaum', 'Cafarnaum']
+['\ueb74', 'eb74', 'Cappadocia', 'Capadócia']
+['\ue19e', 'e19e', 'careful', 'cuidado']
+['\ue14f', 'e14f', 'carpenter', 'carpintero']
+['\uecad', 'ecad', 'Carpus', 'Carpo']
+['\ue088', 'e088', 'carry', 'carregar']
+['\uec87', 'ec87', 'case', 'caso']
+['\ue115', 'e115', 'catch', 'pegar']
+['\uec36', 'ec36', 'Cauda', 'Cauda']
+['\ueb3d', 'eb3d', 'Cenchrea', 'Cencreia']
+['\ue0b8', 'e0b8', 'census', 'censo']
+['\ueb7a', 'eb7a', 'centurion', 'centurião']
+['\ue356', 'e356', 'Cephas', 'Cefas']
+['\uec88', 'ec88', 'ceremony', 'cermônia']
+['\ue25f', 'e25f', 'chain', 'cadeia']
+['\ue298', 'e298', 'chair', 'cadeira']
+['\ueb0e', 'eb0e', 'Chaldea', 'Caldéia']
+['\ue31e', 'e31e', 'change', 'mundança']
+['\ue230', 'e230', 'chapter', 'capítulo']
+['\uec82', 'ec82', 'chariot', 'carruagem']
+['\ue200', 'e200', 'child', 'criança']
+['\ue201', 'e201', 'children', 'crianças']
+['\ueb22', 'eb22', 'Chios', 'Quios']
+['\uebe2', 'ebe2', 'Chloe', 'Cloé']
+['\ue021', 'e021', 'choose', 'escolher']
+['\uea8f', 'ea8f', 'Chorazin', 'Corazim']
+['\ue334', 'e334', 'Christ', 'Cristo']
+['\ueb90', 'eb90', 'Christian', 'Cristão']
+['\uebfc', 'ebfc', 'church', 'igreja']
+['\uec57', 'ec57', 'Chuza', 'Cuza']
+['\ueb5b', 'eb5b', 'Cilicia', 'Cilícia']
+['\ue250', 'e250', 'circumcise', 'circuncidar']
+['\ue250', 'e250', 'circumcision', 'circuncisão']
+['\ueb98', 'eb98', 'citizen', 'cidadão']
+['\uec36', 'ec36', 'Clauda', 'Cauda']
+['\uecae', 'ecae', 'Claudia', 'Cláudia']
+['\ueb8a', 'eb8a', 'Claudius', 'Cláudio']
+['\uebec', 'ebec', 'clay', 'argila']
+['\ue248', 'e248', 'clean', 'limpo']
+['\uece3', 'ece3', 'Clement', 'Clemente']
+['\uec58', 'ec58', 'Cleopas', 'Cleopas']
+['\uea76', 'ea76', 'cloak', 'capa']
+['\uebb5', 'ebb5', 'Clopas', 'Clopas']
+['\ue300', 'e300', 'close', 'fechar']
+['\ue23f', 'e23f', 'closed', 'fechado']
+['\ue147', 'e147', 'clothe', 'vestir']
+['\ue253', 'e253', 'clothing', 'roupas']
+['\ue26e', 'e26e', 'cloud', 'nuvem']
+['\uec14', 'ec14', 'Cnidus', 'Cnido']
+['\ue148', 'e148', 'cohort', 'Coorte']
+['\ue0f2', 'e0f2', 'cold', 'frio']
+['\ue284', 'e284', 'color', 'Cor']
+['\uece8', 'ece8', 'Colossae', 'Colossa']
+['\ue25a', 'e25a', 'come   ', 'vir']
+['\ue243', 'e243', 'come_out', 'sair']
+['\uea3b', 'ea3b', 'comfort', 'conforto']
+['\ue058', 'e058', 'command', 'comando']
+['\ue22f', 'e22f', 'commandment', 'mandamento']
+['\ue01a', 'e01a', 'compassion', 'compaixão']
+['\uecec', 'ecec', 'complete', 'completo']
+['\uea7f', 'ea7f', 'condemn', 'condenar']
+['\uea7f', 'ea7f', 'condemnation', 'condenação']
+['\ue03f', 'e03f', 'confession', 'confissão']
+['\ue070', 'e070', 'confidence', 'confiança']
+['\ueb08', 'eb08', 'confuse', 'confundir']
+['\ue049', 'e049', 'continue', 'continuar']
+['\ue332', 'e332', 'control', 'controlar']
+['\ue83a', 'e83a', 'convert', 'converter']
+['\uea59', 'ea59', 'Corinth', 'Corinto']
+['\ueb81', 'eb81', 'Cornelius', 'Cornélio']
+['\ueb83', 'eb83', 'corner', 'esquina']
+['\ue21c', 'e21c', 'cornerstone', 'A_pedra_angular']
+['\ue09a', 'e09a', 'correct', 'corrigir']
+[' \uec59 ', 'ec59', 'Cosam', 'Cosã']
+['\ueb5f', 'eb5f', 'couch', 'sofá']
+['\ue0f7', 'e0f7', 'council', 'concílio']
+['\uebc0', 'ebc0', 'counted', 'contado']
+['\ue0a2', 'e0a2', 'country', 'país']
+['\ue157', 'e157', 'countrymen', 'compatriotas']
+['\ueb96', 'eb96', 'countryside', 'região_rural']
+['\ue196', 'e196', 'courage', 'coragem']
+['\ue0f6', 'e0f6', 'courtyard', 'pátio']
+['\ue21d', 'e21d', 'covenant', 'pacto']
+['\ue39a', 'e39a', 'cover', 'cobrir']
+['\ue022', 'e022', 'covet', 'cobiçar']
+['\ueb36', 'eb36', 'cow', 'vaca']
+['\ue076', 'e076', 'create', 'criar']
+['\uebc3', 'ebc3', 'creation', 'criação']
+['\uec22', 'ec22', 'Creator', 'Criador']
+['\uebc0', 'ebc0', 'credit', 'crédito']
+['\uecaf', 'ecaf', 'Crescan', 'Crescan']
+['\uec8d', 'ec8d', 'Crete', 'Creta']
+['\ueb3a', 'eb3a', 'Crispus', 'Crispo']
+['\ue055', 'e055', 'criticize', 'criticar']
+['\ueb39', 'eb39', 'crooked', 'torcido']
+['\ue038', 'e038', 'cross', 'cruz']
+['\ue128', 'e128', 'crowd', 'multidão']
+['\ueda4', 'eda4', 'crown', 'coroa']
+['\ue03c', 'e03c', 'crucify', 'crucificar']
+['\ue146', 'e146', 'crush', 'esmagar']
+['\ue20c', 'e20c', 'cry', 'chorar']
+['\ue274', 'e274', 'cup', 'copo']
+['\ue05a', 'e05a', 'curse', 'maldição']
+['\ue254', 'e254', 'curtain', 'cortina']
+['\uec32', 'ec32', 'Cush', 'Cuxe']
+['\ue26c', 'e26c', 'cushion', 'amortecer']
+['\ueb10', 'eb10', 'custom', 'costume']
+['\ue24e', 'e24e', 'cut', 'cortar']
+['\uebe3', 'ebe3', 'cymbal', 'címbalo']
+['\ueb88', 'eb88', 'Cyprus', 'Chipre']
+['\ueb59', 'eb59', 'Cyrene', 'Cirene']
+['\ue344', 'e344', 'Dalmanutha', 'Dalmanuta']
+['\uecb1', 'ecb1', 'Dalmatia', 'Dalmatía']
+['\ueb37', 'eb37', 'Damaris', 'Dâmaris']
+['\uec31', 'ec31', 'Damascus', 'Damasco']
+['\ue259', 'e259', 'dance', 'danzar']
+['\uea78', 'ea78', 'Daniel', 'Daniel']
+['\uea17', 'ea17', 'dark', 'escuro']
+['\ue00c', 'e00c', 'daughter', 'filha']
+['\ue00d', 'e00d', 'daughters', 'filhas']
+['\ue35e', 'e35e', 'David', 'Davi']
+['\ue15f', 'e15f', 'day', 'dia']
+['\ue12d', 'e120', 'deacon', 'diácono']
+['\ue181', 'e181', 'dead', 'morto']
+['\ue191', 'e191', 'deaf', 'surdo']
+['\ue181', 'e181', 'death', 'morte']
+['\ue33e', 'e33e', 'Decapolis', 'Decápolis']
+['\ue17f', 'e17f', 'deceive', 'enganar']
+['\ue152', 'e152', 'deceiver', 'enganador']
+['\ue17f', 'e17f', 'deception', 'deceição']
+['\ue321', 'e321', 'deep', 'profundo']
+['\uecb2', 'ecb2', 'Demes', 'Demes']
+['\ueb1a', 'eb1a', 'Demetrius', 'Demétrio']
+['\ueb87', 'eb87', 'demon', 'demônio']
+['\ue165', 'e165', 'denarius', 'denário']
+['\ue0e5', 'e0e5', 'deny', 'negar']
+['\ue243', 'e243', 'depart', 'partir']
+['\ue321', 'e321', 'depth', 'profundidade']
+['\ueb43', 'eb43', 'Derbe', 'Derbe']
+['\ue317', 'e317', 'descend', 'descer']
+['\ueb60', 'eb60', 'descendant', 'descendente']
+['\ue156', 'e156', 'desert', 'deserto']
+['\ue0f5', 'e0f5', 'deserve', 'merecer']
+['\ue020', 'e020', 'desire', 'desejo']
+['\ue141', 'e141', 'destroy', 'destruir']
+['\ue141', 'e141', 'destruction', 'destruição']
+['\uebb6', 'ebb6', 'Didymus', 'Dídimo']
+['\ue181', 'e181', 'die', 'morrer']
+['\uecff', 'ecff', 'different', 'diferente']
+['\ue093', 'e093', 'difficult', 'difícil']
+['\ue04b', 'e04b', 'dignify', 'dignificar']
+['\ueb78', 'eb78', 'Dionysius', 'Dionísio']
+[' \uec3c ', 'ece2', 'Diotrephes', 'Diótrefes']
+['\ue323', 'e323', 'direction', 'direção']
+['\ue15b', 'e15b', 'dirt', 'sujeira']
+['\ue249', 'e249', 'dirty', 'sujo']
+['\ue142', 'e142', 'disciple', 'discípulo']
+['\ueda5', 'eda5', 'discipline', 'disciplina']
+['\ue261', 'e261', 'discourage', 'desencorajar']
+['\ue20a', 'e20a', 'disease', 'doença']
+['\ue384 ', 'e384', 'dish', 'prato']
+['\ue193', 'e193', 'disobedience', 'desobediência']
+['\ue193', 'e193', 'disobey', 'desobedecer']
+['\ue326', 'e326', 'divide', 'dividir']
+['\ue326', 'e326', 'division', 'divisão']
+['\uea3d', 'ea3d', 'divorce', 'divórcio']
+['\ue08c', 'e08c', 'do', 'fazer']
+['\ue144', 'e144', 'doctor', 'médico']
+['\ue104', 'e104', 'dog', 'cão']
+['\ue032', 'e032', 'dominion', 'domínio']
+['\uea09', 'ea09', 'donkey', 'asno']
+['\ue23e', 'e23e', 'door', 'porta']
+['\uec2c', 'ec2c', 'Dorcas', 'Dorcas']
+['\ue194', 'e194', 'doubt', 'dúvida']
+['\uea36', 'ea36', 'dough', 'massa']
+['\ue25e', 'e25e', 'dove', 'pomba']
+['\ue319', 'e319', 'down', 'baixo']
+['\uecdf', 'ecdf', 'dragon', 'dragão']
+['\uea80', 'ea80', 'dream', 'sonhar']
+['\ue274', 'e274', 'drink', 'beber']
+['\uebe3', 'ebe3', 'drum', 'tambor']
+['\uea8d', 'ea8d', 'drunk', 'bêbado']
+['\ueb9c', 'eb9c', 'Drusilla', 'Drusila']
+['\ue188', 'e188', 'dry', 'seco']
+['\ue15d', 'e15d', 'dust', 'poeira']
+['\ue17b', 'e17b', 'dwell', 'habitar']
+['\uecc9', 'ecc9', 'eagle', 'águia']
+['\ue299', 'e299', 'ear', 'orelha']
+['\ue0f5', 'e0f5', 'earn', 'ganhar']
+['\ue153', 'e153', 'earth', 'terra']
+['\ue159', 'e159', 'earthquake', 'terremoto']
+['\uea38', 'ea38', 'east', 'leste']
+['\ue092', 'e092', 'easy', 'fácil']
+['\ue053', 'e053', 'eat', 'comer']
+['\uec5a', 'ec5a', 'Eber  ', 'Héber']
+['\uea44', 'ea44', 'Egypt', 'Egito']
+['\ue293', 'e293', 'eight', 'oito']
+['\ueb6d', 'eb6d', 'Elam_land           ', 'Elão']
+['\ueb62', 'eb62', 'elder', 'anciãos']
+['\uea70', 'ea70', 'Eleazar', 'Eleazar']
+['\uec9f', 'ec9f', 'elect', 'eleger']
+[' \uec44 ', 'ec44', 'Eli', 'Eli']
+['\uea6b', 'ea6b', 'Eliakim', 'Eliaquim']
+['\uec5b', 'ec5b', 'Eliezer', 'Eliézer']
+['\ue36a', 'e36a', 'Elijah', 'Elias']
+['\uec5c', 'ec5c', 'Elisha', 'Eliseu']
+['\uea6f', 'ea6f', 'Eliud', 'Eliúde']
+['\uec3a', 'ec3a', 'Elizabeth', 'Isabel']
+['\uec5d', 'ec5d', 'Elmadam', 'Elmadã']
+['\uec5e', 'ec5e', 'Emmaus', 'Emaús']
+['\ueb5d', 'eb5d', 'Emmor', 'Hamor']
+['\ue277', 'e277', 'empty', 'esvaziar']
+['\ue262', 'e262', 'encourage', 'encorajar']
+['\ue232', 'e232', 'end', 'fim']
+['\ue170', 'e170', 'endure', 'durar']
+['\ue025', 'e025', 'enemy', 'inimigo']
+['\ue01b', 'e01b', 'enmity', 'inimizade']
+['\uec5f', 'ec5f', 'Enoch', 'Enoque']
+['\uec60', 'ec60', 'Enos', 'Enos']
+['\ue242', 'e242', 'enter', 'entrar']
+['\ue022', 'e022', 'envy', 'inveja']
+['\uebc1', 'ebc1', 'Epaenetus', 'Epêneto']
+['\uece4', 'ece4', 'Epaphras', 'Epafras']
+['\uece4', 'ece4', 'Epaphroditus', 'Epafrodito']
+['\uec0c', 'ec0c', 'Ephesus', 'Éfeso']
+['\ueba4', 'eba4', 'Ephraim_land        ', 'Cidade_Efraim']
+['\ueba3', 'eba3', 'Ephraim_man         ', 'Efraim']
+['\uec05', 'ec05', 'Epicurean', 'Epicureus']
+['\ue24b', 'e24b', 'equal', 'igual']
+['\uec61', 'ec61', 'Er', 'Er']
+['\uec0e', 'ec0e', 'Erastus', 'Erasto']
+['\uebc2', 'ebc2', 'Esau', 'Esaú']
+['\uec49', 'ec49', 'Esli', 'Esli']
+['\ue252', 'e252', 'eternal', 'eterno']
+['\ue252', 'e252', 'eternity', 'eternidade']
+['\uec32', 'ec32', 'Ethiopia', 'Etiópia']
+['\uecb3', 'ecb3', 'Eubulus', 'Êubulo']
+['\uecb4', 'ecb4', 'Eunice', 'Eunice']
+['\ueb8f', 'eb8f', 'eunuch', 'eunuco']
+[' \uec3c ', 'ece5', 'Euodia', 'Euodia']
+['\uecd8', 'ecd8', 'Euphrates_River', 'Rio_Eufrates']
+['\ueb1f', 'eb1f', 'Eutychus', 'Êutico']
+['\ue13f', 'e13f', 'evangelist', 'evangelista']
+['\uebeb', 'ebeb', 'Eve', 'evangelista']
+['\ue273', 'e273', 'evening', 'noite']
+['\ue140', 'e140', 'everyone', 'todos']
+['\ue114', 'e114', 'everything', 'tudo']
+['\ue155', 'e155', 'everywhere', 'em_toda_parte']
+['\ue04b', 'e04b', 'exalt', 'exaltar']
+['\uecf0', 'ecf0', 'example', 'exemplo']
+['\ue059', 'e059', 'explain', 'explicar']
+['\ue059', 'e059', 'explanation', 'explicação']
+['\ue238', 'e238', 'eye', 'olho']
+['\ue253', 'e253', 'fabric', 'tecido']
+['\ue203', 'e203', 'face', 'face']
+['\uec18', 'ec18', 'Fair_Haven', 'Refúgio_Justo']
+['\ue06f', 'e06f', 'faith', 'fé']
+['\ue219', 'e219', 'faithful', 'fiel']
+['\ue219', 'e219', 'faithfulness', 'fidelidade']
+['\ue218', 'e218', 'fall', 'cair']
+['\ue17f', 'e17f', 'false ', 'FALSE']
+['\ue176', 'e176', 'family', 'família']
+['\ue18d', 'e18d', 'famine', 'fome']
+['\ue197', 'e197', 'far ', 'longe']
+['\uec83', 'ec83', 'farewell', 'despedida']
+['\ueb91', 'eb91', 'farm', 'fazenda']
+['\ue133', 'e133', 'farmer', 'agricultor']
+['\ue18e', 'e18e', 'fast_no_eat', 'jejuar_não_comer']
+['\ue21a', 'e21a', 'fast_speed', 'rápida_velocidade']
+['\uea86', 'ea86', 'fat', 'gordo']
+['\ueb11', 'eb11', 'fat_animal', 'graxa_animal']
+['\ue003', 'e003', 'father', 'pai']
+['\ue056', 'e056', 'fear', 'temor']
+['\ue054', 'e054', 'feast', 'festa']
+['\ueb99', 'eb99', 'Felix', 'Félix']
+['\ue20b', 'e20b', 'festival', 'festival']
+['\ue19b', 'e19b', 'few', 'poucos']
+['\ueb91', 'eb91', 'field', 'campo']
+['\ueda2', 'eda2', 'fig', 'figo']
+['\ue283', 'e283', 'fight', 'luta']
+['\ue278', 'e278', 'fill', 'preencher']
+['\ue101', 'e101', 'find', 'encontrar']
+['\ueba5', 'eba5', 'finger', 'dedo']
+['\ue232', 'e232', 'finish', 'terminar']
+['\ue301', 'e301', 'fire', 'fogo']
+['\ue233', 'e233', 'first', 'primeiro']
+['\ue263', 'e263', 'fish', 'peixe']
+['\ue264', 'e264', 'fisherman', 'pescador']
+['\ue290', 'e290', 'five', 'cinco']
+['\ue09d', 'e09d', 'fix', 'consertar']
+['\ue26b', 'e26b', 'flesh', 'carne']
+['\ue31d', 'e31d', 'flip', 'sacudir']
+['\uece0', 'ece0', 'flood', 'inundar']
+['\uea35', 'ea35', 'flour', 'farinha']
+['\ueb24', 'eb24', 'flower', 'flor']
+['\uea8b', 'ea8b', 'flute', 'flauta']
+['\ue25b', 'e25b', 'fly', 'voar']
+['\ue13e', 'e13e', 'follow', 'seguir']
+['\ue053', 'e053', 'food', 'alimento']
+['\uea7c', 'ea7c', 'fool', 'tolo']
+['\ue13d', 'e13d', 'foot', 'pé']
+['\ue086', 'e086', 'for', 'para']
+['\ue158', 'e158', 'foreigner', 'estrangeiro']
+['\ueb79', 'eb79', 'foreknowledge', 'presciência']
+['\uec27', 'ec27', 'forest', 'floresta']
+['\ue18f', 'e18f', 'forgive', 'perdoar']
+['\ue18f', 'e18f', 'forgiveness', 'perdão']
+['\ueca4', 'eca4', 'Fortunatus', 'Fortunato']
+['\ue318', 'e318', 'forward', 'adiante']
+['\ue179', 'e179', 'foundation', 'fundação']
+['\ue28f', 'e28f', 'four', 'quatro']
+['\uea8a', 'ea8a', 'fox', 'raposa']
+['\ue097', 'e097', 'fragrant', 'perfumado']
+['\ue260', 'e260', 'free', 'livre']
+['\uebe4', 'ebe4', 'free_no_cost', 'livre_sem_costo']
+['\uec8e', 'ec8e', 'Freedmen', 'Libertos']
+['\ue260', 'e260', 'freedom', 'liberdade']
+['\ue024', 'e024', 'friend', 'amigo']
+['\uecf6', 'ecf6', 'frog', 'rã']
+['\ue31a', 'e31a', 'from', 'desde']
+['\ue27e', 'e27e', 'fruit', 'fruta']
+['\ue0d2', 'e0d2', 'fulfill', 'cumprir']
+['\ue276', 'e276', 'full', 'cheio']
+['\ue190', 'e190', 'futile', 'fútil']
+['\ue16e', 'e16e', 'future', 'futuro']
+['\uec39', 'ec39', 'Gabriel', 'Gabriel']
+['\uecbd', 'ecbd', 'Gad', 'Gade']
+['\ue33f', 'e33f', 'Gadara', 'Gadara']
+['\ue1a3', 'e1a3', 'gain', 'ganho']
+['\uec0f', 'ec0f', 'Gaius', 'Gaio']
+['\ueb46', 'eb46', 'Galatia', 'Galácia']
+['\ue337', 'e337', 'Galilee', 'Galileia']
+['\ueb3b', 'eb3b', 'Gallio', 'Gálio']
+['\ueb4d', 'eb4d', 'Gamaliel', 'Gamaliel']
+['\ue289', 'e289', 'gate', 'portão']
+['\ue126', 'e126', 'gathered_people', 'pessoas_reunidas']
+['\ue108', 'e108', 'gathered_things', 'coisas_reunidas']
+['\ueb7f', 'eb7f', 'Gaza', 'Gaza']
+['\ue019', 'e019', 'generation', 'generação']
+['\ue341', 'e341', 'Gennesaret', 'Genesaré']
+['\ue158', 'e158', 'gentile', 'gentios']
+['\ue26d', 'e26d', 'gentle', 'amável']
+['\ue26d', 'e26d', 'gentleness', 'gentileza']
+['\ue33f', 'e33f', 'Gerasenes', 'Gerasenos']
+['\ue34a', 'e34a', 'Gethsemane', 'Getsêmani']
+['\ued03', 'ed03', 'Gideon', 'Gideão']
+['\ue072', 'e072', 'gift', 'presente']
+['\ue009', 'e009', 'girl', 'menina']
+['\ue00a', 'e00a', 'girls', 'meninas']
+['\ue086', 'e086', 'give', 'dar']
+['\uecde', 'ecde', 'glass', 'vidro']
+['\ue217', 'e217', 'glorify', 'glorificar']
+['\ue217', 'e217', 'glory', 'glória']
+['\uea8c', 'ea8c', 'gluttony', 'glutonaria']
+['\ue381', 'e381', 'go ', 'ir']
+['\ue080', 'e080', 'go_down', 'descer']
+['\uea7d', 'ea7d', 'goat', 'bode']
+['\ue036', 'e036', 'God', 'Deus']
+['\ue130', 'e130', 'godly', 'piedoso']
+['\uecf7', 'ecf7', 'Gog', 'Gogue']
+['\ueb2a', 'eb2a', 'gold', 'ouro']
+['\ue34b', 'e34b', 'Golgotha', 'Gólgota']
+['\uea7a', 'ea7a', 'Gomorrah', 'Gomorra']
+['\uebe5', 'ebe5', 'gong', 'gongo']
+['\ue096', 'e096', 'good', 'bom']
+['\ue22b', 'e22b', 'good_news', 'boas_novas']
+['\ue22b', 'e22b', 'gospel', 'evangelho']
+['\ue0a3', 'e0a3', 'governor', 'governador']
+['\ue01f', 'e01f', 'grace', 'graça']
+['\ue279', 'e279', 'grain', 'grão']
+['\uecf4', 'ecf4', 'grape', 'uva']
+['\uea33', 'ea33', 'grass', 'grama']
+['\ue20e', 'e20e', 'grateful', 'grato']
+['\ue20e', 'e20e', 'gratitude', 'gratidão']
+['\ue178', 'e178', 'grave', 'sepultar']
+['\ue14a', 'e14a', 'great', 'grande']
+['\ue345', 'e345', 'Greece', 'Grécia']
+['\uea94', 'ea94', 'greed', 'cobiça']
+['\uecd1', 'ecd1', 'green', 'verde']
+['\ue051', 'e051', 'greeting', 'saudação']
+['\ue207', 'e207', 'grieve', 'entristecer']
+['\ue83d', 'e83d', 'grind', 'moer']
+['\ue013', 'e013', 'groom', 'noivo']
+['\ue153', 'e153', 'ground', 'terreno']
+['\ue15b', 'e15b', 'ground_soil', 'solo_arável']
+['\ue154', 'e154', 'grow', 'crescer']
+['\ue154', 'e154', 'growth', 'crescimento']
+['\ue0c1', 'e0c1', 'guard', 'guarda']
+['\uea84', 'ea84', 'guilt', 'culpa']
+['\uea84', 'ea84', 'guilty', 'culpado']
+['\uecab', 'ecab', 'Hagar', 'Agar']
+['\uea13', 'ea13', 'hail', 'saraiva']
+['\uecdd', 'ecdd', 'hail_storm', 'tormenta_granizo']
+['\ue208', 'e208', 'hair', 'cabelo']
+['\uea22', 'ea22', 'half', 'metade']
+['\ueb5d', 'eb5d', 'Hamor', 'Hamor']
+['\ue071', 'e071', 'hand', 'mão']
+['\ueb02 ', 'eb02', 'Hannah', 'Ana']
+['\ue205', 'e205', 'happy', 'feliz']
+['\ueb0b', 'eb0b', 'Haran_land', 'Harã']
+['\ue269', 'e269', 'hard', 'difícil']
+['\uecfc', 'ecfc', 'harlot', 'prostituta']
+['\uecc6', 'ecc6', 'harp', 'harpa']
+['\ueca7', 'eca7', 'harsh', 'áspero']
+['\ue082', 'e082', 'harvest', 'colheita']
+['\ue139', 'e139', 'harvester', 'segador']
+['\ue01b', 'e01b', 'hate', 'ódio']
+['\ue083', 'e083', 'have', 'ter']
+['\ue07f', 'e07f', 'have_to', 'tem_que']
+['\ue206', 'e206', 'head', 'cabeça']
+['\ue084', 'e084', 'heal', 'curar']
+['\ue144', 'e144', 'healer', 'curador']
+['\ue209', 'e209', 'health', 'cura']
+['\ue209', 'e209', 'healthy', 'saudável']
+['\ue299', 'e299', 'hear ', 'ouvir']
+['\ue29a', 'e29a', 'heart', 'coração']
+['\ue301', 'e301', 'heat', 'calor']
+['\ue380', 'e380', 'heaven', 'céu']
+['\ue0e7', 'e0e7', 'heavy', 'pesado']
+['\uec8f', 'ec8f', 'Hebrew', 'Hebreus']
+['\ue28a', 'e28a', 'hedge', 'cerca']
+['\uecc1', 'ecc1', 'height', 'altura']
+['\ue018', 'e018', 'heir', 'herdeiro']
+[' \uec44 ', 'ec44', 'Heli', 'Eli']
+['\ue0d1', 'e0d1', 'hell', 'inferno']
+['\ue13a', 'e13a', 'help', 'ajudar']
+['\ue150', 'e150', 'helper', 'ajudante']
+['\ue212', 'e212', 'here', 'aqui']
+['\uebc4', 'ebc4', 'Hermas', 'Hermas']
+['\ueb2f', 'eb2f', 'Hermes_idol', 'Hermes_ídolo']
+['\uebed', 'ebed', 'Hermes_man', 'Hermes']
+['\uecb5', 'ecb5', 'Hermogenes', 'Hermógenes']
+['\ue360', 'e360', 'Herod ', 'Herodes']
+['\uea05', 'ea05', 'Herodians', 'Herodianos']
+['\ue355', 'e355', 'Herodias', 'Herodias']
+['\uebf1', 'ebf1', 'Herodion', 'Herodião']
+['\uea62', 'ea62', 'Hezekiah', 'Ezequias']
+['\uea4f', 'ea4f', 'Hezron', 'Hezrom']
+['\ue085', 'e085', 'hide', 'esconder']
+['\uece9', 'ece9', 'Hierapolis', 'Hierápolis']
+['\ue202', 'e202', 'hill', 'monte']
+['\ue13b', 'e13b', 'hire', 'contratar']
+['\ue0e4', 'e0e4', 'hit', 'bater']
+['\ue302', 'e302', 'hole', 'orifício']
+['\ue13c', 'e13c', 'holy', 'santo']
+['\ue052', 'e052', 'honey', 'mel']
+['\ue031', 'e031', 'honor', 'honra']
+['\ue213', 'e213', 'hope', 'esperança']
+['\uecc5', 'ecc5', 'horn', 'chifre']
+['\ue303', 'e303', 'horse', 'cabalo']
+['\ue216', 'e216', 'hosanna', 'Hosana']
+['\uebc5', 'ebc5', 'Hosea', 'Oseias']
+['\ue301', 'e301', 'hot ', 'quente']
+['\ue331', 'e331', 'hour', 'hora']
+['\ue171', 'e171', 'house', 'casa']
+['\ue068', 'e068', 'how', 'como']
+['\ue83c', 'e83c', 'how_long', 'quanto_tempo']
+['\ue23d', 'e23d', 'human_nature', 'natureza_humana']
+['\ue19d', 'e19d', 'humble', 'humilde']
+['\ue065', 'e065', 'humiliate', 'humilhar']
+['\ue19d', 'e19d', 'humility', 'humildade']
+['\ue01e', 'e01e', 'hungry', 'faminto']
+['\ue24f', 'e24f', 'hurt', 'ferir']
+['\ue012', 'e012', 'husband', 'esposo']
+['\uecaa', 'ecaa', 'Hymenaeus', 'Himeneu']
+['\ue0e3', 'e0e3', 'hymn', 'hino']
+['\ue152', 'e152', 'hypocrite', 'hipócrita']
+['\ue166', 'e166', 'I', 'I']
+['\uec1f', 'ec1f', 'Iconium', 'Icônio']
+['\ue35d', 'e35d', 'idol', 'ídolo']
+['\ue378', 'e378', 'Idumea', 'Idumeia']
+['\ue111', 'e111', 'if', 'se']
+['\ue06e', 'e06e', 'ignorance', 'ignorância']
+['\ue06e', 'e06e', 'ignorant', 'ignorante']
+['\uebc6', 'ebc6', 'Illyricum', 'Ilírico']
+['\ue18c', 'e18c', 'immeasurable', 'imensurável']
+['\ue215', 'e215', 'immediately', 'imediatamente']
+['\uebe7', 'ebe7', 'important', 'importante']
+['\ue180', 'e180', 'impossible', 'impossível']
+['\ue25f', 'e25f', 'imprisoned', 'aprisionar']
+['\ue249', 'e249', 'impure', 'impuro']
+['\ue240', 'e240', 'in', 'em']
+['\ue112', 'e112', 'in_front', 'em_frente']
+['\uec98', 'ec98', 'incense', 'incenso']
+['\ue017', 'e017', 'inheritance', 'herança']
+['\ue304', 'e304', 'insect', 'inseto']
+['\ue240', 'e240', 'inside', 'dentro']
+['\ue058', 'e058', 'insist', 'insistir']
+['\ue05b', 'e05b', 'insult', 'insulto']
+['\ueb29', 'eb29', 'iron', 'ferro']
+['\ue374', 'e374', 'Isaac', 'Isaque']
+['\ue372', 'e372', 'Isaiah', 'Isaías']
+['\ueb05', 'eb05', 'island', 'ilha']
+['\uea04', 'ea04', 'Israel', 'Israel']
+['\uecce', 'ecce', 'Issachar', 'Issacar']
+['\uec90', 'ec90', 'Italy', 'Itália']
+['\uec3e', 'ec3e', 'Ituraea', 'Itureia']
+['\ue375', 'e375', 'Jacob', 'Jacó']
+['\uea72', 'ea72', 'Jacob(NT)', 'Jacó_(NT)']
+['\ue367', 'e367', 'Jairus', 'Jairo']
+['\uecbc', 'ecbc', 'Jambres', 'Jambres']
+['\ue376', 'e358', 'James', 'Tiago']
+['\ue358', 'e376', 'James_the_Disciple', 'Tiago_o_Discípulo']
+['\uec46', 'ec46', 'Jannai', 'Janai']
+['\uecbe ', 'ecbe', 'Jannes', 'Janes']
+['\ue0d5', 'e0d5', 'jar', 'jarra']
+['\uec62', 'ec62', 'Jared', 'Jarede']
+['\ueb03', 'eb64', 'Jason', 'Janom']
+['\uea66', 'ea66', 'Jechoniah', 'Jeconias']
+['\uea5d', 'ea5d', 'Jehoshaphat', 'Josafá']
+['\ued04', 'ed04', 'Jephthah', 'Jefté']
+['\uea28 ', 'ea28', 'Jeremiah', 'Jeremias']
+['\uea08', 'ea08', 'Jericho', 'Jericó']
+['\ue338', 'e338', 'Jerusalem', 'Jerusalém']
+['\uea58', 'ea58', 'Jesse', 'Jessé']
+['\ue037', 'e037', 'Jesus', 'Jesus']
+['\ueb03', 'eb03', 'Jesus_not_Christ', 'Jesus_não_Cristo']
+['\ue0f9', 'e0f9', 'Jew', 'Judeus']
+['\ue0f9', 'e0f9', 'Jewish', 'Judaico']
+['\ueca2', 'eca2', 'Jezebel', 'Jezabel']
+['\uec4c', 'ec4c', 'Joanan', 'Joanã']
+['\uec63', 'ec63', 'Joanna', 'Joana']
+['\ued0b', 'ed0b', 'Job', 'Jó']
+['\uea4b', 'e34b', 'Joda', 'Jodá']
+['\uec92', 'ec92', 'Joel', 'Joel']
+['\ue35a', 'e35a', 'John', 'João']
+['\ue336', 'e336', 'John_the_Baptist', 'João_o_Batista']
+['\ue35a', 'e35a', 'John_the_Disciple', 'João_o_Discípulo']
+['\ue0c5', 'e0c5', 'Jonah', 'Jonas']
+['\uea29', 'ea29', 'Jonah_Simons_father', 'Jonas_pai_Simão']
+['\uec9b', 'ec9b', 'Jonam', 'Jonã']
+['\uec2d', 'ec2d', 'Joppa', 'Jope']
+['\uea5e', 'ea5e', 'Joram', 'Jorão']
+['\ue34f', 'e34f', 'Jordan_River', 'Rio_Jordão']
+['\uec64', 'ec64', 'Jorim', 'Jorim']
+['\uea15', 'ea15', 'Joseph', 'José']
+['\uea73', 'ea73', 'Joseph(NT)', 'José(NT)']
+['\ue369', 'e369', 'Joses', 'José']
+['\ueb03', 'eb03', 'Joshua', 'Josué']
+['\uea65', 'ea65', 'Josiah', 'Josias']
+['\ueb82', 'eb82', 'Jotham ', 'Jotão']
+['\uea60', 'ea60', 'Jothan', 'Jothan']
+['\ue381', 'e381', 'journey', 'jornada']
+['\ue205', 'e205', 'joy', 'alegria']
+['\ue368', 'e368', 'Juda ', 'Judas']
+['\uea4b', 'ea4b', 'Judah', 'Judá']
+['\ue368', 'e368', 'Judas', 'Judas']
+['\ue365', 'e365', 'Judas_Iscariot', 'Judas_Iscariotes']
+['\ue368', 'e368', 'Judas_not_Iscariot', 'Judas_não_Iscariotes']
+['\ue368', 'e368', 'Jude', 'Judas']
+['\ue339', 'e339', 'Judea', 'Judeia']
+['\ue1a2', 'e1a2', 'judge', 'juíz']
+['\ue1a2', 'e1a2', 'judgment', 'julgamento']
+['\uebc7', 'ebc7', 'Julia', 'Júlia']
+['\uec07', 'ec07', 'Julius', 'Júlio']
+['\ued0a', 'ed0a', 'jump', 'saltar']
+['\uebc8', 'ebc8', 'Junia', 'Júnias']
+['\uea25', 'ea25', 'justice', 'justiça']
+['\ueb4f', 'eb4f', 'justify', 'justificar']
+['\ueb6a', 'eb6a', 'Justus', 'Justo']
+['\ue099', 'e099', 'keep', 'manter']
+['\uea9d', 'ea9d', 'key', 'chave']
+['\ueba6', 'eba6', 'Kidron_Valley', 'Vale_Cedrom']
+['\ue141', 'e141', 'kill', 'matar']
+['\ue01c', 'e01c', 'kind_nice', 'amável__gentil']
+['\ued00', 'ed00', 'kind_same', 'amável_mesmo']
+['\ue01c', 'e01c', 'kindness', 'amabilidade']
+['\ue028', 'e028', 'king', 'rei']
+['\ue02f', 'e02f', 'kingdom', 'reino']
+['\ueb49', 'eb49', 'Kish', 'Quis']
+['\ue0e8', 'e0e8', 'kiss', 'beijo']
+['\ue138', 'e138', 'kneel', 'ajoelhar']
+['\ue24e', 'e24e', 'knife', 'faca']
+['\ueb8b', 'eb8b', 'knock', 'bater']
+['\ue30e', 'e30e', 'knot', 'atar']
+['\ue062', 'e062', 'know', 'conhecer']
+['\ue062', 'e062', 'knowledge', 'conhecimento']
+['\uecf3', 'ecf3', 'Korah', 'Corá']
+['\uec65 ', 'ec65', 'lake', 'lago']
+['\uec66', 'ec66', 'Lamech', 'Lameque']
+['\ue164', 'e164', 'lamp', 'lámpada']
+['\ue281', 'e281', 'lampstand', 'candelabro']
+['\ue153', 'e153', 'land', 'terra']
+['\uea23', 'ea23', 'language', 'língua']
+['\uebf9', 'ebf9', 'Laodicea', 'Laodiceia']
+['\uec16', 'ec16', 'Lasea', 'Lasea']
+['\ue234', 'e234', 'last', 'última']
+['\ue225', 'e225', 'late ', 'tarde']
+['\ue225', 'e225', 'later', 'mais_tarde']
+['\ueba8', 'eba8', 'Latin', 'Latim']
+['\ue224', 'e224', 'laugh', 'rir']
+['\ue224', 'e224', 'laughter', 'riso']
+['\ue22f', 'e22f', 'law', 'lei']
+['\ue22f', 'e22f', 'lawful', 'legal']
+['\ue08f', 'e08f', 'lawlessness', 'ilegalidade']
+['\uec67', 'ec67', 'Lazarus', 'Lázaro']
+['\ue137', 'e137', 'lead', 'liderança']
+['\ue17f', 'e17f', 'lead_astray', 'desviar']
+['\ue137', 'e137', 'leader', 'líder']
+['\ue0b3', 'e0b3', 'leaf', 'folha']
+['\ued0a', 'ed0a', 'leap', 'saltar']
+['\ue22a', 'e22a', 'learn', 'aprender']
+['\ue175', 'e175', 'lease', 'arrendamento']
+['\ue397', 'e397', 'least', 'mínimo']
+['\ue255', 'e255', 'leather', 'couro']
+['\ue243', 'e243', 'leave', 'deixar']
+['\ue32d', 'e32d', 'leaven', 'fermentar']
+['\ue0f4', 'e0f4', 'left', 'esquerda']
+['\uebe0', 'ebe0', 'leg', 'perna']
+['\ue366', 'e366', 'Legion', 'Legião']
+['\uecc2', 'ecc2', 'length', 'comprimento']
+['\uecf8', 'ecf8', 'leopard', 'leopardo']
+['\ue382', 'e382', 'leprosy', 'lepra']
+['\ueb84', 'eb84', 'letter', 'carta']
+['\ue0d9', 'e0d9', 'level', 'nível']
+['\ue35c', 'eb1b', 'Levi', 'Levi']
+['\ue35c', 'e35c', 'Levi_Matthew', 'Levi_Mateus']
+['\ueb44', 'eb44', 'Levite', 'Levita']
+['\ue17f', 'e17f', 'lie ', 'mentira']
+['\ue121', 'e121', 'lie_down', 'deitar']
+['\ue09f', 'e09f', 'life', 'vida']
+['\ue081', 'e081', 'lift', 'levantar']
+['\ue0c2', 'e0c2', 'light', 'luz']
+['\uea88', 'ea88', 'lightning', 'relâmpago']
+['\ue020', 'e020', 'like ', 'como']
+['\uea20', 'ea20', 'linen', 'linho']
+['\uecb0', 'ecb0', 'Linus', 'Lino']
+['\uecb6', 'ecb6', 'lion', 'leão']
+['\ue09f', 'e09f', 'live', 'viver']
+['\ue05d', 'e05d', 'loaf', 'pão']
+['\uecd4', 'ecd4', 'locust', 'gafanhoto']
+['\uecb7', 'ecb7', 'Lois', 'Loide']
+['\ue16f', 'e16f', 'longsuffering', 'longo_sofrimento']
+['\uebcd', 'ebcd', 'looks_like', 'parece_que']
+['\ue028', 'e028', 'lord', 'senhor']
+['\ue089', 'e089', 'lost', 'perdido']
+['\uea16', 'ea16', 'lot', 'lote']
+['\uebdc', 'ebdc', 'Lot', 'Ló']
+['\uea16', 'ea16', 'lots', 'grande_quantidade']
+['\uebe8', 'ebe8', 'loud', 'em_alta_voz']
+['\ue01a', 'e01a', 'love', 'amor']
+['\ue324', 'e324', 'lower_adj', 'baixo_adj.']
+['\ue080', 'e080', 'lower_verb', 'baixo_verbo']
+['\uec93', 'ec93', 'Lucius', 'Lúcio']
+['\ueb68', 'eb68', 'Luke', 'Lucas']
+['\ue06d', 'e06d', 'lunatic', 'lunático']
+['\ue239', 'e239', 'lust', 'concupiscência']
+['\ueb73', 'eb73', 'Lybia', 'Líbia']
+['\ueb51', 'eb51', 'Lycaonia', 'Licaônia']
+['\uec13', 'ec13', 'Lycia', 'Lícia']
+['\uec2e', 'ec2e', 'Lydda', 'Lida']
+['\ueb50', 'eb50', 'Lydia', 'Lídia']
+['\uec40', 'ec40', 'Lysanias', 'Lisânias']
+['\uec37', 'ec37', 'Lysias', 'Lísias']
+['\ueb44', 'eb44', 'Lystra', 'Listra']
+['\uec4b', 'ec4b', 'Maath', 'Maate']
+['\uec0d', 'ec0d', 'Macedonia', 'Macedônia']
+['\uea30', 'ea30', 'Magadan', 'Magadan']
+['\uec8a', 'ec8a', 'magician', 'mágico']
+['\uecf9', 'ecf9', 'Magog_land          ', 'Magogue']
+['\uec68', 'ec68', 'Mahalalel           ', 'Maalalel']
+['\ue076', 'e076', 'make', 'fazer']
+['\uebb7', 'ebb7', 'Malchus', 'Malco']
+['\uec19', 'ec19', 'Malta', 'Malta']
+['\ue000', 'e000', 'man', 'homem']
+['\ueb40', 'eb40', 'Manaen', 'Manaém']
+['\ue137', 'e137', 'manage', 'gerir']
+['\uea63', 'ea63', 'Manasseh', 'Manassés']
+['\ueba9', 'eba9', 'manna', 'maná']
+['\ue198', 'e198', 'many', 'muitos']
+['\ue371', 'e371', 'Mark', 'Marcos']
+['\ue02e', 'e02e', 'market_place', 'mercado']
+['\ue010', 'e010', 'marriage', 'matrimônio']
+['\uec69', 'ec69', 'Martha', 'Marta']
+['\ue354', 'e354', 'Mary', 'Maria']
+['\ue353', 'e353', 'Mary_Magdalene', 'Maria_Madalena']
+['\ue354', 'e354', 'Mary_Mother_of_Jesus', 'Maria_Mãe_de_Jesus']
+['\ue028', 'e028', 'master', 'mestre']
+['\uec9c', 'ec9c', 'Mattatha', 'Matatá']
+['\uec9d', 'ec9d', 'Mattathias', 'Matatias']
+['\uea71', 'ea71', 'Matthan', 'Matã']
+['\ued12', 'ed12', 'Matthat', 'Matate']
+['\ueb04', 'eb04', 'Matthew', 'Mateus']
+['\ueb04', 'eb04', 'Matthias', 'Matias']
+['\ue122', 'e122', 'mattress', 'colchão']
+['\ue236', 'e236', 'mature', 'maduro']
+['\ue166', 'e166', 'me', 'eu']
+['\ue053', 'e053', 'meal', 'refeição']
+['\uecfa', 'ecfa', 'meaning', 'significado']
+['\ue305', 'e305', 'measure', 'medida']
+['\ueb70', 'eb70', 'Media', 'Média']
+['\uecfb', 'ecfb', 'Megiddo', 'Megido']
+[' \uec45 ', 'ec45', 'Melchi', 'Melqui']
+['\ued05', 'ed05', 'Melchizedek', 'Melquisedeque']
+['\uec6a', 'ec6a', 'Melea', 'Meleá']
+['\ue174', 'e174', 'member', 'membro']
+['\uec6b', 'ec6b', 'Menna', 'Mená']
+['\ue01d', 'e01d', 'mercy', 'misericórdia']
+['\ueb72', 'eb72', 'Mesopotamia', 'Mesopotâmia']
+['\ue22d', 'e22d', 'message', 'mensagem']
+['\ue136', 'e136', 'messenger', 'mensageiro']
+['\ue334', 'e334', 'Messiah', 'Messias']
+['\ueb28', 'eb28', 'metal', 'metal']
+['\uec6c', 'ec6c', 'Methuselah', 'Metusalém']
+['\uece1', 'ece1', 'Michael_angel       ', 'Micael']
+['\ueb0f', 'eb0f', 'Midian_land         ', 'Midiã']
+['\ueb23', 'eb23', 'Miletus', 'Mileto']
+['\ueca3', 'eca3', 'milk', 'leite']
+['\uecd9', 'ecd9', 'million', 'Milhão']
+['\ue06c', 'e06c', 'mind', 'mente']
+['\ue095', 'e095', 'miracle', 'milagre']
+['\ue385', 'e385', 'Miriam', 'Miriã']
+['\uebe6', 'ebe6', 'mirror', 'espelho']
+['\ueb21', 'eb21', 'Mitylene', 'Mitilene']
+['\ueb26', 'eb26', 'Mnason', 'Mnasom']
+['\uea12', 'ea12', 'mock', 'zombar']
+['\uec26', 'ec26', 'Molech', 'Moloque']
+['\ue029', 'e029', 'money', 'dinheiro']
+['\ue34c', 'e34c', 'month', 'mês']
+['\ue272', 'e272', 'moon', 'lua']
+['\ue199', 'e199', 'more', 'mais_tarde']
+['\ue163', 'e163', 'morning', 'manhã']
+['\ue35b', 'e35b', 'Moses', 'Moisés']
+['\ue229', 'e229', 'most', 'o_mais']
+['\ue00b', 'e00b', 'mother', 'mãe']
+['\ue351', 'e351', 'Mount_of_Olives', 'Monte_das_Oliveiras']
+['\ueb5c', 'eb5c', 'Mount_Sinai', 'Monte_Sinai']
+['\uecf5', 'ecf5', 'Mount_Zion', 'Monte_Sião']
+['\ue306', 'e306', 'mountain', 'montanha']
+['\ue03f', 'e03f', 'mouth', 'boca']
+['\ue32f', 'e32f', 'move', 'mover']
+['\ue198', 'e198', 'much', 'muitos']
+['\ue128', 'e128', 'multitude', 'multidão']
+['\uea10', 'ea10', 'murderer', 'assassino']
+['\ue039', 'e039', 'mustard', 'mostarda']
+['\ue050', 'e050', 'mute', 'mudo']
+['\uec28', 'ec28', 'Myra', 'Mirra']
+['\ue245', 'e245', 'myrrh', 'mirra']
+['\ueb4a', 'eb4a', 'Mysia', 'Mísia']
+['\ue18b', 'e18b', 'mystery', 'mistério']
+['\uec6d', 'ec6d', 'Naaman', 'Naamã']
+['\uec4a', 'ec4a', 'Naggai', 'Nagai']
+['\uec6e', 'ec6e', 'Nahor', 'Naor']
+['\uea52', 'ea52', 'Nahshon', 'Naassom']
+['\uec48', 'ec48', 'Nahum', 'Naum']
+['\uebaa', 'ebaa', 'nail', 'unha']
+['\uea48', 'ea48', 'Nain', 'Naim']
+['\ue04f', 'e04f', 'name', 'nome']
+['\uea40', 'ea40', 'Naphtali', 'Naftali']
+['\uebc9', 'ebc9', 'Narcius', 'Narcius']
+['\uec6f', 'ec6f', 'Nathan', 'Natã']
+['\uec6f', 'ec6f', 'Nathanael', 'Natanael']
+['\ue0a2', 'e0a2', 'nation', 'nação']
+['\ue34e', 'e34e', 'Nazareth', 'Nazaré']
+['\ue300', 'e300', 'near', 'perto']
+['\ue0d3', 'e0d3', 'neck', 'pescoço']
+['\ue07f', 'e07f', 'need', 'necessidade']
+[' \ue078', 'e078', 'needle', 'agulha']
+['\ue173', 'e173', 'neighbor', 'vizinho']
+['\ueb4e', 'eb4e', 'Neopolis', 'Neopolis']
+['\uebca', 'ebca', 'Nereus', 'Nereu']
+['\uec70', 'ec70', 'Neri', 'Neri']
+['\ue307', 'e307', 'net', 'rede']
+['\ue308', 'e308', 'new', 'novo']
+['\ue22d', 'e22d', 'news', 'novas']
+['\uebf2', 'ebf2', 'next', 'próximo']
+['\ueb55', 'eb55', 'Nicanor', 'Nicanor']
+['\uebab', 'ebab', 'Nicodemus', 'Nicodemos']
+['\ueb56', 'eb56', 'Nicolaus', 'Nicolaus']
+['\ued08', 'ed08', 'Nicopolis', 'Nicópolis']
+['\ue272', 'e272', 'night', 'noite']
+['\ue294', 'e294', 'nine', 'nove']
+['\ue0c6', 'e0c6', 'Nineveh', 'Nínive']
+['\ue17c', 'e17c', 'no', 'não']
+['\uea43', 'ea43', 'Noah', 'Noé']
+['\uebe9', 'ebe9', 'noise', 'ruído']
+['\uea74', 'ea74', 'north', 'norte']
+['\ue309', 'e309', 'nose', 'nariz']
+['\ue17c', 'e17c', 'not', 'nem']
+['\ue215', 'e215', 'now', 'agora']
+['\ue0b7', 'e0b7', 'number', 'número']
+[' \uec3c ', 'ecea', 'Nympha              ', 'Ninfa']
+['\uea56', 'ea56', 'Obed', 'Obede']
+['\ue04e', 'e04e', 'obedience', 'obediência']
+['\ue04e', 'e04e', 'obey', 'obedecer']
+['\ue14d', 'e14d', 'ocean', 'oceano']
+['\ue03a', 'e03a', 'offering', 'oferta']
+['\ue030', 'e030', 'oil', 'óleo']
+['\ue189', 'e189', 'old', 'velho']
+['\ueda1', 'eda1', 'olive', 'oliva']
+['\uebcb', 'ebcb', 'Olympus', 'Olimpo']
+['\ue113', 'e113', 'on', 'em']
+['\ue113', 'e113', 'on_top_of', 'por_cima']
+['\ue28c', 'e28c', 'one', 'um']
+['\uecb8', 'ecb8', 'Onesimus', 'Onésimo']
+['\uecb8', 'ecb8', 'Onesiphorus', 'Onesíforo']
+['\ue223', 'e223', 'only', 'só']
+['\ue18a', 'e18a', 'open', 'aberto']
+['\ue330', 'e330', 'oppose', 'opor']
+['\ue106', 'e106', 'or', 'ou']
+['\uebe7', 'ebe7', 'order', 'ordem']
+['\ue184', 'e184', 'other', 'outro']
+['\ue241', 'e241', 'out', 'for_a']
+['\ue241', 'e241', 'outside', 'lá_for_a']
+['\ue110', 'e110', 'over', 'sobre']
+['\uea49', 'ea49', 'owe', 'dever']
+['\ueced', 'eced', 'own', 'próprio']
+['\uea85', 'ea85', 'ox', 'boi']
+['\ue24f', 'e24f', 'pain', 'dor']
+['\ueb6e', 'eb6e', 'Pamphylia', 'Panfília']
+['\ueb9f', 'eb9f', 'Paphos', 'Pafos']
+['\ue22d', 'e22d', 'parable', 'parábolas']
+['\ue131', 'e131', 'paralyze', 'paralisar']
+['\ueb57', 'eb57', 'Parmenas', 'Pármenas']
+['\ue29b', 'e29b', 'part ', 'parte']
+['\ueb0a', 'eb0a', 'Parthia             ', 'Partos']
+['\ue20b', 'e20b', 'party', 'festa']
+['\ue10b', 'e10b', 'pass', 'passar']
+['\uebac', 'ebac', 'passion', 'paixão']
+['\ue20d', 'e20d', 'Passover', 'Páscoa']
+['\ue16d', 'e16d', 'past', 'passado']
+['\uecc3', 'ecc3', 'pastor', 'pastor']
+['\uec23', 'ec23', 'Patara', 'Pátara']
+['\ue23c', 'e23c', 'path', 'caminho']
+['\ue16f', 'e16f', 'patience', 'paciência']
+['\ue16f', 'e16f', 'patient', 'paciente']
+['\uebf4', 'ebf4', 'Patmos', 'Patmos']
+['\uebcc', 'ebcc', 'Patrobas', 'Pátrobas']
+['\uecf0', 'ecf0', 'pattern', 'padrão']
+['\ue377', 'e377', 'Paul', 'Paulo']
+['\uebad', 'ebad', 'pavement', 'calçada']
+['\ue123', 'e123', 'peace', 'paz']
+['\uec71', 'ec71', 'Peleg', 'Pelegue']
+['\ue29c', 'e29c', 'pen', 'caneta']
+['\uec81', 'ec81', 'pentecost', 'pentecostes']
+['\uec81', 'ec81', 'Pentecost', 'Pentecostes']
+['\ue127', 'e127', 'people', 'pessoas']
+['\ue06a', 'e06a', 'perceive', 'perceber']
+['\uea4c', 'ea4c', 'Perez', 'Perez']
+['\uecec', 'ecec', 'perfect', 'perfeito']
+['\ue097', 'e097', 'perfume', 'perfume']
+['\ueb47', 'eb47', 'Perga', 'Perge']
+['\uebf6', 'ebf6', 'Pergamum            ', 'Pérgamo']
+['\ue04a', 'e04a', 'permission', 'permissão']
+['\ue04a', 'e04a', 'permit', 'permitir']
+['\ue03e', 'e03e', 'persecute', 'perseguir']
+['\ue03e', 'e03e', 'persecution', 'perseguição']
+['\uebce', 'ebce', 'Persis', 'Pérside']
+['\ue11f', 'e11f', 'person', 'pessoa']
+[' \uec3c ', 'ec3c', 'Phanuel', 'Fanuel']
+['\uec94', 'ec94', 'Pharaoh', 'Faraó']
+['\ue383', 'e383', 'Pharisee', 'Fariseu']
+['\uebf8', 'ebf8', 'Philadelphia', 'Filadélfia']
+['\uecf2', 'ecf2', 'Philemon', 'Filemom']
+['\uecac', 'ecac', 'Philetus', 'Fileto']
+['\ue361', 'e361', 'Philip ', 'Filipe']
+['\ue347', 'e347', 'Philippi', 'Filipos']
+['\uebcf', 'ebcf', 'Philologus', 'Filólogo']
+['\uec04', 'ec04', 'philosopher', 'filósofo']
+['\uebd1', 'ebd1', 'Phlegon', 'Flegonte']
+['\uebd2', 'ebd2', 'Phoebe', 'Febe']
+['\ue343', 'e343', 'Phoenicia', 'Fenícia']
+['\uec29', 'ec29', 'Phoenix', 'Fenice']
+['\ueb76', 'eb76', 'Phrygia', 'Frígia']
+['\uecb9', 'ecb9', 'Phygelus', 'Fígelo']
+['\ue30a', 'e30a', 'pig', 'porco']
+['\ue0b6', 'e0b6', 'pigeon', 'pomba']
+['\ue36f', 'e36f', 'Pilate', 'Pilatos']
+['\ueca8', 'eca8', 'pillar', 'pilar']
+['\ue26c', 'e26c', 'pillow', 'travesseiro']
+['\ueb97', 'eb97', 'Pisidia', 'Písida']
+['\ue06b', 'e06b', 'plan', 'plano']
+['\ue244', 'e244', 'plant', 'plantar']
+['\ue386', 'e386', 'plate', 'prato']
+['\ue386', 'e386', 'platter', 'escudela']
+['\uec72', 'ec72', 'plow', 'arado']
+['\ueb75', 'eb75', 'Pontus', 'Ponto']
+['\uea3a', 'ea3a', 'poor', 'pobre']
+['\ueb5e', 'eb5e', 'porch', 'pórtico']
+['\uec38', 'ec38', 'Porcius', 'Pórcio']
+['\ue098', 'e098', 'possible', 'possível']
+['\ue0d6', 'e0d6', 'pour', 'derramar']
+['\ue124', 'e124', 'power', 'poder']
+['\ue04b', 'e04b', 'praise', 'louvor']
+['\ue05e', 'e05e', 'pray', 'orar']
+['\ue05e', 'e05e', 'prayer', 'oração']
+['\ue04d', 'e04d', 'preach', 'pregar']
+['\ue134', 'e134', 'preacher', 'pregador']
+['\ue04d', 'e04d', 'preaching', 'pegação']
+['\uea37', 'ea37', 'precious', 'precioso']
+['\ue0a5', 'e0a5', 'pregnant', 'grávido']
+['\ue091', 'e091', 'prepare', 'preparar']
+[' \ue228', 'e228', 'press', 'pressão']
+['\ue094', 'e094', 'pretend', 'fingir']
+['\ueb14', 'eb14', 'prevail', 'prevalecer']
+['\ue14b', 'e14b', 'pride', 'orgulho']
+['\ue03b', 'e03b', 'priest', 'sacerdote']
+['\ueb61', 'eb61', 'prince', 'principe']
+['\uebe7', 'ebe7', 'priority', 'prioridade']
+['\ueb18', 'eb18', 'Priscilla', 'Priscila']
+['\ue172', 'e172', 'prison ', 'cárcere']
+['\ue145', 'e145', 'prisoner', 'preso']
+['\ueb53', 'eb53', 'Prochorus', 'Prócoro']
+['\ue0a3', 'e0a3', 'proconsul', 'procônsul']
+['\ue035', 'e035', 'profit', 'lucro']
+['\ue37a', 'e37a', 'promise', 'pormessa']
+['\ue23b', 'e23b', 'prophesy', 'profetizar']
+['\ue135', 'e135', 'prophet', 'profeta']
+['\uecfc', 'ecfc', 'prostitute', 'prostituta']
+['\ue14b', 'e14b', 'proud', 'orgulhoso']
+['\uec73', 'ec73', 'proverb', 'provérbio']
+['\ue0e2', 'e0e2', 'Psalm', 'salmo']
+['\uec08', 'ec08', 'Ptolemais', 'Ptolemaida']
+['\uec1a', 'ec1a', 'Publius', 'Públio']
+['\uecba', 'ecba', 'Pudens', 'Prudente']
+['\ue248', 'e248', 'pure', 'puro']
+['\ue286', 'e286', 'purple', 'púpura']
+['\ue066', 'e066', 'purpose', 'propósito']
+['\ue07e', 'e07e', 'put', 'pôr']
+['\ueb73', 'e07e', 'Put', 'Pôr']
+['\uec1e', 'ec1e', 'Puteoli', 'Putéoli']
+['\ueb1c', 'eb1c', 'Pyrrhus', 'Pirro']
+['\uebd3', 'ebd3', 'Quartus', 'Quarto']
+['\ueb15', 'eb15', 'queen', 'rainha']
+['\ue061', 'e061', 'questioned', 'questionado']
+['\ue185', 'e185', 'quiet', 'quieto']
+['\uec3b', 'ec3b', 'Quirinius', 'Quirino']
+['\uea41', 'ea41', 'Rachel', 'Raquel']
+['\uea55', 'ea55', 'Rahab', 'Raabe']
+['\uea3e', 'ea3e', 'rain', 'chuva']
+['\uecdc', 'ecdc', 'rainbow', 'arco_Iris']
+['\uea50', 'ea50', 'Ram', 'Rão']
+['\uea42', 'ea42', 'Ramah', 'Ramá']
+['\ue22a', 'e22a', 'read', 'ler']
+['\ue066', 'e066', 'reason', 'razão']
+['\uebd4', 'ebd4', 'Rebekah', 'Rebeca']
+['\ue193', 'e193', 'rebellion', 'rebelião']
+['\ue060', 'e060', 'rebuke', 'repreender']
+['\ue1a3', 'e1a3', 'receive', 'receber']
+['\uebc0', 'ebc0', 'reckon', 'calcular']
+['\ue026', 'e026', 'reconcile', 'conciliar']
+['\ue287', 'e287', 'red', 'vermelho']
+['\ue02c', 'e02c', 'redeem', 'redimir']
+['\ue02c', 'e02c', 'redemption', 'rendenção']
+['\uea26', 'ea26', 'reed', 'junco']
+['\uea5a', 'ea5a', 'Rehoboam', 'Roboão']
+['\ue193', 'e193', 'reject', 'rejeitar']
+['\ue176', 'e176', 'relative', 'relativo']
+['\uec33', 'ec33', 'religion', 'religião']
+['\ue83b', 'e83b', 'remain', 'permanecer']
+['\ue0d8', 'e0d8', 'remember', 'lembrar']
+['\ue049', 'e049', 'repeat', 'repetir']
+['\ue320', 'e320', 'repent', 'Arrepender-se']
+['\ue320', 'e320', 'repentance', 'arrependimento']
+['\ue22d', 'e22d', 'report', 'informe']
+['\ue214', 'e214', 'rescue', 'resgatar']
+['\ue121', 'e121', 'rest', 'descansar']
+['\ue237', 'e237', 'result', 'resultado']
+['\ue329', 'e329', 'resurrect', 'ressucitar']
+['\ue329', 'e329', 'resurrection', 'ressurreição']
+['\uec74', 'ec74', 'Reu', 'Reú']
+['\uecc0', 'ecc0', 'Reuben', 'Rúben']
+['\ue162', 'e162', 'reveal', 'revelar']
+['\ued0c', 'ed0c', 'revenge', 'vingança']
+['\ue055', 'e055', 'revile', 'insultar']
+['\ue02d', 'e02d', 'reward', 'recompensa']
+['\uec1d', 'ec1d', 'Rhegium', 'Régio']
+['\uec75', 'ec75', 'Rhesa', 'Resa']
+['\ueb92', 'eb92', 'Rhoda', 'Rode']
+['\ueb25', 'eb25', 'Rhodes', 'Rodes']
+['\ue0f3', 'e0f3', 'right', 'reto']
+['\ued10', 'ed10', 'right_time', 'tempo_certo']
+['\ue090', 'e090', 'righteous ', 'justo']
+['\ue130', 'e130', 'righteous_person', 'pessoa_justa']
+['\ue090', 'e090', 'righteousness', 'justiça']
+['\uebdf', 'ebdf', 'ring', 'anel']
+['\ue236', 'e236', 'ripe ', 'maduro']
+['\ue154', 'e154', 'ripen', 'amadurecer']
+['\ue30b', 'e30b', 'river', 'rio']
+['\ue23c', 'e23c', 'road', 'estrada']
+['\ue0e9', 'e0e9', 'robber', 'ladrão']
+['\ue26a', 'e26a', 'rock', 'rocha']
+['\ueb16', 'eb16', 'Rome', 'Roma']
+['\ueb06', 'eb06', 'room', 'quarto']
+['\ue25d', 'e25d', 'rooster', 'galo']
+['\ue15c', 'e15c', 'root', 'raiz']
+['\uec99', 'ec99', 'rough', 'rude']
+['\ue36e', 'e36e', 'Rufus', 'Rufo']
+['\ue028', 'e028', 'ruler', 'régua']
+['\ue258', 'e258', 'run', 'corre']
+['\uea57', 'ea57', 'Ruth', 'Rute']
+['\ue160', 'e160', 'Sabbath             ', 'sábado']
+['\ue0b5', 'e0b5', 'sacrifice', 'sacrifício']
+['\ue207', 'e207', 'sad', 'triste']
+['\uea03', 'ea03', 'Sadducee', 'Saduceus']
+['\ue03f', 'e03f', 'said', 'disse']
+['\ue267', 'e267', 'sail', 'vela']
+['\ue130', 'e130', 'saint', 'santo']
+['\uebe1', 'ebe1', 'Salamis', 'Salamina']
+['\uec76', 'ec76', 'Salathiel', 'Salatiel']
+['\uebae', 'ebae', 'Salim', 'Salim']
+['\uea53', 'ea53', 'Salmon', 'Salmom']
+['\uec15', 'ec15', 'Salmone', 'Salmona']
+['\ue379', 'e379', 'Salome', 'Salomé']
+['\ue046', 'e046', 'salt', 'sal']
+['\ueb80', 'eb80', 'salvation', 'salvação']
+['\uea83', 'ea83', 'Samaria', 'Samaria']
+['\uea7b', 'ea7b', 'Samaritan', 'Samaritana']
+['\ue24b', 'e24b', 'same', 'mesmo']
+['\uec25', 'ec25', 'Samos', 'Samos']
+['\ueb4c', 'eb4c', 'Samothrace', 'Samotrácia']
+['\ued06', 'ed06', 'Samson', 'Sansão']
+['\ueb8e', 'eb8e', 'Samuel', 'Samuel']
+['\ueb01', 'eb01', 'sanctuary', 'santuário']
+['\uecfd', 'ecfd', 'sand', 'areia']
+['\ueb66', 'eb66', 'Sapphira', 'Safira']
+['\uebd5', 'ebd5', 'Sarah', 'Sara']
+['\uebf7', 'ebf7', 'Sardis', 'Sardes']
+['\ue335', 'e335', 'Satan', 'Satanás']
+['\ueb54', 'eb54', 'Saul', 'Saul']
+['\ue214', 'e214', 'save', 'salvar']
+['\uec85', 'ec85', 'savior', 'salvador']
+['\uea34', 'ea34', 'scatter', 'dispersar']
+['\ueb19', 'eb19', 'Sceva', 'Ceva']
+['\uec77', 'ec77', 'scorpion', 'escorpião']
+['\ue12c', 'e12c', 'scribe', 'escriba']
+['\ue22c', 'e22c', 'Scripture ', 'Escritura']
+['\ueceb', 'eceb', 'Scythia', 'Cita']
+['\ue14d', 'e14d', 'sea', 'mar']
+['\ue350', 'e350', 'Sea_of_Galilee', 'Mar_da_Galileia']
+['\ueb0c', 'eb0c', 'Sea_of_Reeds        ', 'Mar_de_Vermelho']
+['\uebaf', 'ebaf', 'Sea_of_Tiberias', 'Tiberíades']
+['\ue221', 'e221', 'seal', 'selo']
+['\ue221', 'e221', 'sealed', 'selado']
+['\ue074', 'e074', 'search', 'procurar']
+['\ue186', 'e186', 'secret', 'secredo']
+['\uec33', 'ec33', 'sect', 'seita']
+['\ueb1d', 'eb1d', 'Secundus', 'Secundo']
+['\ue238', 'e238', 'see', 'ver']
+['\ue27a', 'e27a', 'seed', 'semear']
+['\ueb42', 'eb42', 'Seleucia', 'Selêucia']
+['\uea95', 'ea95', 'self', 'mesmo']
+['\ue32b', 'e32b', 'sell', 'vender']
+['\uec9e', 'ec9e', 'Semien', 'Not_found']
+['\ue075', 'e075', 'send', 'enviar']
+['\ue239', 'e239', 'sensuality', 'sensualidade']
+['\ue326', 'e326', 'separate', 'separar']
+['\ueb45', 'eb45', 'Sergius', 'Sérgio']
+['\uec78', 'ec78', 'Serug', 'Serugue']
+['\ue12d', 'e12d', 'servant', 'servo']
+['\ue08e', 'e08e', 'serve', 'servir']
+['\uec79', 'ec79', 'Seth', 'Sete']
+['\ue292', 'e292', 'seven', 'sete']
+['\ue077', 'e077', 'sew', 'costurar']
+['\uea87', 'ea87', 'sex', 'sexo']
+['\ue239 ', 'e239', 'sexual_desire', 'desjo_sexual']
+['\ue079', 'e079', 'shade', 'sombra']
+['\ue27d', 'e27d', 'shake', 'agitar']
+['\ue065', 'e065', 'shame', 'vergonha']
+['\ue07a', 'e07a', 'share', 'compartilhar']
+['\uec2b', 'ec2b', 'Sharon', 'Sarom']
+['\uebf3', 'ebf3', 'sharp', 'afiado']
+['\ueb27', 'eb27', 'shave', 'barbear']
+['\uea68', 'ea68', 'Shealtiel', 'Sealtiel']
+['\uec95', 'ec95', 'Shechem_city        ', 'Siquém']
+['\ue270', 'e270', 'sheep', 'ovelha']
+['\uec7a', 'ec7a', 'Shelah', 'Selá']
+['\uec7b', 'ec7b', 'Shem', 'Sem']
+['\ue0c9', 'e0c9', 'Sheol', 'Inferno']
+['\ue271', 'e271', 'shepherd', 'pastor']
+['\ue388', 'e388', 'shield', 'escudo']
+['\ue12e', 'e12e', 'shoe', 'sapato']
+['\ue149', 'e149', 'shout', 'gritar']
+['\ue162', 'e162', 'show', 'mostrar']
+['\ue20a', 'e20a', 'sick', 'doente']
+['\ue10d', 'e10d', 'side', 'lado']
+['\ue33c', 'e33c', 'Sidon_city          ', 'Sidom']
+['\ue047', 'e047', 'sigh', 'suspiro']
+['\ue0a9', 'e0a9', 'sign', 'sinal']
+['\ueb41', 'eb41', 'Silas', 'Silas']
+['\ue185', 'e185', 'silence', 'silêncio']
+['\uebb1', 'ebb1', 'Siloam_city         ', 'Siloé']
+['\ueca9', 'eca9', 'Silvanus', 'Silvano']
+['\ueb2b', 'eb2b', 'silver', 'prata']
+['\uea47', 'ea47', 'Simeon', 'Simeão']
+['\uea47', 'ea47', 'Simon', 'Simão']
+['\uea92', 'ea92', 'Simon_Jesus_Brother ', 'Simão_irmão_de_Jesus']
+['\ue37c', 'e37c', 'Simon_of_Cyrene', 'Simão_de_Cirene']
+['\ue356', 'e356', 'Simon_Peter', 'Simão_Pedro']
+['\ue364', 'e364', 'Simon_the_Canaanite', 'Simão_o_Zelote']
+['\ue0f8', 'e0f8', 'Simon_the_Leper', 'Simão_o_Leproso']
+['\ue08f', 'e08f', 'sin', 'pecado']
+['\ue08f', 'e08f', 'sinful', 'pecaminoso']
+['\ue0e2', 'e0e2', 'sing', 'cantar']
+['\ue151', 'e151', 'sinner', 'pecador']
+['\ue00e', 'e00e', 'sister', 'irmã']
+['\ue00f', 'e00f', 'sisters', 'irmãs']
+['\ue298', 'e298', 'sit', 'sentar']
+['\ue291', 'e291', 'six', 'seis']
+['\ue20f', 'e20f', 'skull', 'crânio']
+['\uec8b', 'ec8b', 'sky', 'céu']
+['\ue10e', 'e10e', 'slave', 'escravo']
+['\ue121', 'e121', 'sleep', 'dormir']
+['\ue19c', 'e19c', 'slow', 'lento']
+['\ue19c', 'e19c', 'slow', 'lento']
+['\ue19b', 'e19b', 'small', 'pequeno']
+['\ue32e', 'e32e', 'smaller', 'menor']
+['\ue397', 'e397', 'smallest', 'diminuto']
+['\ue309', 'e309', 'smell', 'cheiro']
+['\uec03', 'ec03', 'smoke', 'fumaça']
+['\uec9a', 'ec9a', 'smooth', 'suave']
+['\uebf5', 'ebf5', 'Smyrna', 'Esmirna']
+['\ue30c', 'e30c', 'snake', 'serpente']
+['\uebfb', 'ebfb', 'snow', 'neve']
+['\uea8e', 'ea8e', 'Sodom', 'Sodoma']
+['\ue268', 'e268', 'soft', 'suave']
+['\ue15b', 'e15b', 'soil', 'solo']
+['\ue158', 'e158', 'sojourner', 'peregrino']
+['\ue12f', 'e12f', 'soldier', 'soldado']
+['\uea32', 'ea32', 'Solomon', 'Salomão']
+['\ue29b', 'e29b', 'some ', 'alguns']
+['\ue004', 'e004', 'son', 'filho']
+['\ue352', 'e352', 'Son_of_Man', 'Filho_do_Homem']
+['\ue0e2', 'e0e2', 'song', 'canção']
+['\ue005', 'e005', 'sons', 'filhos']
+['\uec20', 'ec20', 'Sopater', 'Sópatro']
+['\uec8c', 'ec8c', 'sorcery', 'feitiçaria']
+['\uec20', 'ec20', 'Sosipater', 'Sosípatro']
+['\ueb3c', 'eb3c', 'Sosthenes', 'Sóstenes']
+['\ue10f', 'e10f', 'soul', 'alma']
+['\uebe9', 'ebe9', 'sound', 'som']
+['\uea31', 'ea31', 'south', 'sul']
+['\ue07d', 'e07d', 'sow', 'semear']
+['\ue133', 'e133', 'sower', 'semeador']
+['\uebd6', 'ebd6', 'Spain', 'Espanha']
+['\ue03f', 'e03f', 'speak', 'falar']
+['\ue32a', 'e32a', 'spend', 'passar']
+['\uecfe', 'ecfe', 'spice', 'apimentar']
+['\ue187', 'e187', 'spirit', 'espírito']
+['\ue048', 'e048', 'spit', 'cuspir']
+['\ue326', 'e326', 'split', 'dividido']
+['\uea18', 'ea18', 'sponge', 'esponja']
+['\ued01', 'ed01', 'spot', 'sitio']
+['\ued07', 'ed07', 'spy', 'espião']
+['\uebd7', 'ebd7', 'Stachys', 'Estáquis']
+['\ue14c', 'e14c', 'staff', 'pessoal']
+['\ue0d9', 'e0d9', 'stair', 'escada']
+['\ue32c', 'e32c', 'stand', 'ficar_de_pé']
+['\ue0c3', 'e0c3', 'star', 'estrela']
+['\ue231', 'e231', 'start', 'começar']
+['\ue83b', 'e83b', 'stay', 'estada']
+['\ue07b', 'e07b', 'steal', 'roubar']
+['\uea01', 'ea01', 'stem', 'haste']
+['\uebea', 'ebea', 'Stephanas', 'Estéfanas']
+['\ueb6b', 'eb6b', 'Stephen', 'Estêvão']
+['\ue266', 'e266', 'stern', 'severo']
+['\ueca7', 'eca7', 'stern_words', 'palavras_severas']
+['\ue07c', 'e07c', 'stewardship', 'mordomia']
+['\ue398', 'e398', 'stick', 'vara']
+['\uec06', 'ec06', 'Stoic', 'estóico']
+[' \ue0c8', 'e0c8', 'stomach', 'estômago']
+['\ue073', 'e073', 'stop', 'parar']
+['\uec43', 'ec43', 'storehouse', 'armazém']
+['\ue27c', 'e27c', 'storm', 'tempestade']
+['\ue22d', 'e22d', 'story', 'história']
+['\ue313', 'e313', 'straight', 'direito']
+['\ue069', 'e069', 'stranger', 'desconhecido']
+['\ueb33', 'eb33', 'strangled', 'estrangulado']
+['\ue30b', 'e30b', 'stream', 'corrente']
+['\ue31c', 'e31c', 'stretch', 'esticar']
+['\uecc7', 'ecc7', 'string', 'corda']
+['\ue08a', 'e08a', 'strong', 'forte']
+['\ue257', 'e257', 'stumble', 'tropeçar']
+['\uea27', 'ea27', 'stumbling_block', 'predra_de_tropeço']
+['\ue222', 'e222', 'suffer', 'sofrer']
+['\ue222', 'e222', 'suffering', 'sofrimento']
+['\ue0c4', 'e0c4', 'summer', 'verão']
+['\ue15f', 'e15f', 'sun', 'sol']
+['\ue161', 'e161', 'sundown', 'pôr_do_sol']
+['\uec7c', 'ec7c', 'Susanna', 'Suzana']
+['\ue30d', 'e30d', 'sweet', 'doce']
+['\ue282', 'e282', 'sword', 'espada']
+['\ue0b9', 'e0b9', 'synagogue', 'sinagoga']
+['\uece6', 'ece6', 'Syntyche', 'Síntique']
+['\uec1c', 'ec1c', 'Syracuse', 'Siracusa']
+['\ue342', 'e342', 'Syria', 'Síria']
+['\ueb32', 'eb32', 'tabernacle', 'tabernáculo']
+['\ue280', 'e280', 'table', 'mesa']
+['\uecd6', 'ecd6', 'tail', 'cauda']
+['\ue088', 'e088', 'take', 'tomar']
+['\uea4e', 'ea4e', 'Tamar', 'Tamar']
+['\uec30', 'ec30', 'Tarsus', 'Tarso']
+['\uea07', 'ea07', 'taste', 'provar']
+['\ue02b', 'e02b', 'tax', 'imposto']
+['\ue12a', 'e12a', 'tax_collector', 'coletor_de_imposto']
+['\ue04c', 'e04c', 'teach', 'ensinar']
+['\ue12b', 'e12b', 'teacher', 'professor']
+['\ue04c', 'e04c', 'teaching', 'ensino']
+['\ue0b1', 'e0b1', 'teeth ', 'dente']
+['\ue03d', 'e03d', 'temple', 'templo']
+['\ue183', 'e183', 'tempt', 'tentado']
+['\ue183', 'e183', 'temptation', 'tentação']
+['\ue295', 'e295', 'ten', 'dez']
+['\ueb32', 'eb32', 'tent', 'tenda']
+['\uec7d', 'ec7d', 'Terah_man           ', 'Tera']
+['\uebee', 'ebee', 'Tertius', 'Tércio']
+['\ueb9b', 'eb9b', 'Tertullus', 'Tértulo']
+['\uec21', 'ec21', 'test', 'teste']
+['\ue22e', 'e22e', 'testimony', 'testemunho']
+['\ue37b', 'e37b', 'Thaddaeus', 'Tadeu']
+['\ue20e', 'e20e', 'thank', 'graças']
+['\ue184', 'e184', 'that', 'aquele']
+['\ue125', 'e125', 'them', 'eles']
+['\ueb67', 'eb67', 'Theophilus', 'Teófilo']
+['\ue066', 'e066', 'therefore', 'portanto']
+['\ueb12', 'eb12', 'Thessalonica', 'Tessalônica']
+['\ueb71', 'eb71', 'Theudas', 'Teudas']
+['\ue125', 'e125', 'they', 'eles']
+['\ue0e9', 'e0e9', 'thief', 'ladrão']
+['\ued0d', 'ed0d', 'thigh', 'coxa']
+['\ue105', 'e105', 'thing', 'coisa']
+['\ue06c', 'e06c', 'think', 'pensar']
+['\ue06c', 'e06c', 'think_opinion', 'pensar_opinião']
+['\ue06c', 'e06c', 'think_wonder', 'pensar_maravilha']
+['\ueccf', 'eccf', 'thirst', 'sede']
+['\ueccf', 'eccf', 'thirsty', 'sedento']
+['\ue226', 'e226', 'this', 'esta']
+['\ue363', 'e363', 'Thomas', 'Tomé']
+['\ue27b', 'e27b', 'thorn', 'espinho']
+['\ue06c', 'e06c', 'thought', 'pensamento']
+['\ue296', 'e296', 'thousand', 'mil']
+['\ue28e', 'e28e', 'three', 'três']
+['\uea39', 'ea39', 'threshing', 'debulha']
+['\uec42', 'ec42', 'threshing_floor', 'eira']
+['\uec84', 'ec84', 'throne', 'trono']
+['\ue10b', 'e10b', 'through', 'através']
+['\ue327', 'e327', 'throw', 'lançar']
+['\ue044', 'e044', 'thunder', 'trovão']
+['\ueb52', 'eb52', 'Thyatira', 'Tiatira']
+['\uebb0', 'ebb0', 'Tiberias_city       ', 'Tiberíades']
+['\uec3d', 'ec3d', 'Tiberius_man        ', 'Tibério']
+['\ue30e', 'e30e', 'tie', 'gravata']
+['\ue36c', 'e36c', 'Timaeus', 'Timeu']
+['\ue16a', 'e16a', 'time', 'tempo']
+['\ue049', 'e049', 'times', 'tempos']
+['\uec96', 'ec96', 'Timon', 'Timão']
+['\uec02', 'ec02', 'Timothy', 'Timóteo']
+['\ued0f', 'ed0f', 'tithe', 'dízimo']
+['\ueb38', 'eb38', 'Titus', 'Tito']
+['\ue318', 'e318', 'to', 'para']
+['\ue147', 'e147', 'to_clothe', 'vestir']
+['\ue07d', 'e07d', 'to_plant', 'plantar']
+['\ue126', 'e126', 'together_people', 'pessoas_juntas']
+['\ue108', 'e108', 'together_things', 'coisas_juntas']
+[' \ue178', 'e178', 'tomb', 'túmulo']
+['\ue045', 'e045', 'tongue', 'língua']
+['\ueb34', 'eb34', 'tool', 'ferramenta']
+['\ue10c', 'e10c', 'touch', 'tocar']
+['\ue30f', 'e30f', 'tower', 'torre']
+['\uec3f', 'ec3f', 'Trachonitis', 'Traconites']
+['\ue31f', 'e31f', 'transfiguration', 'transfiguração']
+['\ue31f', 'e31f', 'transfigure', 'transfigurar']
+['\ue381', 'e381', 'travel', 'viagem']
+['\ue244', 'e244', 'tree', 'árvore']
+['\uec87', 'ec87', 'trial', 'provação']
+['\uea81', 'ea81', 'tribe', 'tribu']
+['\ue03e', 'e03e', 'tribulation', 'tribulação']
+['\ue381', 'e381', 'trip', 'viagem']
+['\ueb14', 'eb14', 'triumph', 'triunfo']
+['\uec0b', 'ec0b', 'Troas', 'Trôade']
+['\ueb1e', 'eb1e', 'Trophimus', 'Trófimo']
+['\ue333', 'e333', 'trouble', 'problema']
+['\ue09c', 'e09c', 'true ', 'verdadeiro']
+['\uea79', 'ea79', 'trumpet', 'trompete']
+['\ue023', 'e023', 'trust', 'confiar_em']
+['\ue09c', 'e09c', 'truth', 'verdade']
+['\ueb94', 'eb94', 'try', 'experimentar']
+['\uebd8', 'ebd8', 'Tryphaena', 'Trifena']
+['\uebd9', 'ebd9', 'Tryphosa', 'Trifosa']
+['\ue31e', 'e31e', 'turn', 'virar']
+['\uec1b', 'ec1b', 'twin', 'gêmeo']
+['\ue28d', 'e28d', 'two', 'dois']
+['\uecbb', 'ecbb', 'Tychicus', 'Tíquico']
+['\ued00', 'ed00', 'type', 'tipo']
+['\ueb3f', 'eb3f', 'Tyrannus', 'Tirano']
+['\ue33b', 'e33b', 'Tyre', 'Tiro']
+['\ue194', 'e194', 'unbelief', 'incredulidade']
+['\ue10a', 'e10a', 'under', 'debaixo']
+['\ue063', 'e063', 'understand', 'entender']
+['\ue063', 'e063', 'understanding', 'entendimento']
+['\ue297', 'e297', 'unity', 'unidade']
+['\ue043', 'e043', 'unleavened', 'não_levedado']
+['\ue08f', 'e08f', 'unrighteous', 'injusto']
+['\ue08f', 'e08f', 'unrighteousness', 'injustiça']
+['\ue37f', 'e37f', 'untie', 'desatar']
+['\ue16c', 'e16c', 'until', 'até']
+['\ue315', 'e315', 'up', 'acima']
+['\uebda', 'ebda', 'Urbanus', 'Urbano']
+['\uea46', 'ea46', 'Uriah', 'Urias']
+['\ue167', 'e167', 'us', 'nos']
+['\ue08d', 'e08d', 'use', 'usar']
+['\ue08d', 'e08d', 'useful', 'útil']
+['\ue190', 'e190', 'useless', 'inútil']
+['\uea5f', 'ea5f', 'Uzziah', 'Uzias']
+['\ueba7', 'eba7', 'valley', 'vale']
+['\ue09b', 'e09b', 'value', 'valor']
+['\ue0b4', 'e0b4', 'vendor', 'vendedor']
+['\ued0c', 'ed0c', 'vengeance', 'vingança']
+['\ue211', 'e211', 'very', 'muito']
+['\ueb14', 'eb14', 'victory', 'vitória']
+['\ue19a', 'e19a', 'village', 'vila']
+['\uec91', 'ec91', 'vine', 'vinho']
+['\ue27f', 'e27f', 'vineyard', 'vinhedo']
+['\uea7e', 'ea7e', 'virgin', 'virgem']
+['\uea80', 'ea80', 'vision', 'visão']
+['\ue25a', 'e25a', 'visit', 'visita']
+['\ue042', 'e042', 'voice', 'voz']
+[' \ue391', 'e391', 'waist', 'cintura']
+['\uea11', 'ea11', 'wait', 'esperar']
+['\ue256', 'e256', 'walk', 'caminhar']
+['\ue288', 'e288', 'wall', 'parede']
+['\ue020', 'e020', 'want', 'quer']
+['\ue283', 'e283', 'war', 'guerra']
+['\ue19e', 'e19e', 'warn', 'advertir']
+['\ue08b', 'e08b', 'wash', 'lavar']
+['\ue0a8', 'e0a8', 'watchman', 'guarda']
+['\ue23a', 'e23a', 'watchtower', 'atalaia']
+['\ue247', 'e247', 'water', 'água']
+['\ue328', 'e328', 'wave', 'onda']
+['\ue23c', 'e23c', 'way', 'caminho']
+['\ue167', 'e167', 'we', 'nós']
+['\uea24', 'ea24', 'weak', 'fraco']
+['\ue029', 'e029', 'wealth', 'riqueza']
+['\ue029', 'e029', 'wealthy', 'rico']
+['\uebfe', 'ebfe', 'weary', 'cansado']
+['\ue011', 'e011', 'wedding', 'casamento']
+['\uebb2', 'ebb2', 'week', 'semana']
+['\ue0e6', 'e0e6', 'weigh', 'pesar']
+['\ue0e6', 'e0e6', 'weight', 'peso']
+['\uebb3', 'ebb3', 'well', 'bem']
+['\uea89', 'ea89', 'west', 'oeste']
+['\ue247', 'e247', 'wet', 'molhado']
+['\ue109', 'e109', 'what', 'o_que']
+['\ue279', 'e279', 'wheat', 'trigo']
+['\ue16a', 'e16a', 'when', 'quando']
+['\ue15a', 'e15a', 'where', 'onde']
+['\ue310', 'e310', 'whip', 'chicote']
+['\ue186', 'e186', 'whisper', 'sussurro']
+['\ue285', 'e285', 'white', 'branco']
+['\ue1a1', 'e1a1', 'who', 'quem']
+['\ue251', 'e251', 'whole', 'completo']
+['\ue067', 'e067', 'why', 'porque']
+['\uecc4', 'ecc4', 'wide', 'amplo']
+['\ue016', 'e016', 'widow', 'viúva']
+['\ue014', 'e014', 'wife', 'esposa']
+['\ue17e', 'e17e', 'wild ', 'selvagem']
+['\ue156', 'e156', 'wilderness', 'selva']
+['\ue020', 'e020', 'will', 'vai']
+['\ue220', 'e220', 'wind', 'vento']
+['\ue311', 'e311', 'window', 'janela']
+['\ue275', 'e275', 'wine', 'vinho']
+['\ueb7d', 'eb7d', 'wing', 'asa']
+['\ueb7d', 'eb7d', 'wings', 'asas']
+['\uec41', 'ec41', 'winnowing_fork', 'garfo_de_tração']
+['\ue16b', 'e16b', 'winter', 'inverno']
+['\ue064', 'e064', 'wisdom', 'sabedoria']
+['\ue064', 'e064', 'wise', 'sábio']
+['\ue24c', 'e24c', 'with', 'com']
+['\ue22e', 'e22e', 'witness', 'testimunha']
+['\ue008', 'e008', 'woman', 'mulher']
+['\ue244', 'e244', 'wood', 'madeira']
+['\uebfa', 'ebfa', 'wool', 'lã']
+['\uebb4', 'ebb4', 'word', 'palavra']
+['\uebb8', 'ebb8', 'Word', 'Palavra']
+['\ue22c', 'e22c', 'Word_of_God', 'Palavra_de_Deus']
+['\ue08c', 'e08c', 'work', 'trabalho']
+['\ue129', 'e129', 'world', 'mundo']
+['\uea06', 'ea06', 'worm', 'minhoca']
+['\uecd3', 'ecd3', 'Wormwood', 'absinto']
+['\ue056', 'e056', 'worry', 'preocupação']
+['\ue182', 'e182', 'worse', 'pior']
+['\ue04b', 'e04b', 'worship', 'adoração']
+['\ue09b', 'e09b', 'worth', 'vale_a_pena']
+['\ue09b', 'e09b', 'worthy', 'digno']
+['\uea19', 'ea19', 'wrap', 'envolver']
+['\ue02a', 'e02a', 'wrath_of_God', 'ira_de_Deus']
+['\ue29c', 'e29c', 'write', 'escrever']
+['\ue12c', 'e12c', 'writer', 'escritor']
+['\uea02', 'ea02', 'wrong', 'errado']
+['\ue0c7', 'e0c7', 'Yahweh', 'Yahweh_Jeová']
+['\ue15e', 'e15e', 'year', 'ano']
+['\uecdb', 'ecdb', 'yellow', 'amarelo']
+['\ue09a', 'e09a', 'yes', 'sim']
+['\ueb09', 'eb09', 'yoke', 'jugo']
+['\ue314', 'e314', 'you', 'você']
+['\ue0f1', 'e0f1', 'young', 'jovem']
+['\uec7e', 'ec7e', 'Zacchaeus', 'Zaqueu']
+['\uea6d', 'ea6d', 'Zadok', 'Zadoque']
+['\uec7f', 'ec7f', 'Zarephath', 'Sarepta']
+['\ue359', 'e359', 'Zebedee', 'Zebedeu']
+['\uea3f', 'ea3f', 'Zebulun', 'Zebulom']
+['\uea98', 'ea98', 'Zechariah', 'Zacarias']
+['\ued09', 'ed09', 'Zenas', 'Zenas']
+['\uea4d', 'ea4d', 'Zerah', 'Zera']
+['\ue28b', 'e28b', 'zero', 'zero']
+['\uea69', 'ea69', 'Zerubbabel', 'Zorobabel']
+['\ueb2d', 'eb2d', 'Zeus', 'Júpiter']
+['\ue37e', 'e37e', 'period', 'period']
+['\ue390', 'e390', 'pos', 'pos']
+['\ue390', 'e390', '*', '*']
+['\ued11', 'ed11', 'pn', 'pn']
+get_header sun76_PT
+store(&VERSION) '9.0' U+0079
+store(&TARGETS) 'any windows macosx linux web iphone ipad androidphone androidtablet mobile desktop tablet'
+store(&KEYBOARDVERSION) '090023'
+store(&LAYOUTFILE) 'Sun2-layout.js'
+store(&NAME) 'sun76_PT'
+begin Unicode > use(main)
+
+group(main) using keys
+
+
+kmn 'Arão' + ' ' > U+eb0d
+kmn 'Abadom' + ' ' > U+ecd7
+kmn 'Abel' + ' ' > U+ea96
+kmn 'Abiatar' + ' ' > U+e35f
+kmn 'permanecer' + ' ' > U+e17b
+kmn 'Abías' + ' ' > U+ea5b
+kmn 'Abilene' + ' ' > U+ec4d
+kmn 'habilidade' + ' ' > U+e124
+kmn 'Abiúde' + ' ' > U+ea6a
+kmn 'abominação' + ' ' > U+e0a4
+kmn 'cerca_de' + ' ' > U+e11b
+kmn 'acima_de' + ' ' > U+e110
+kmn 'Abraâo' + ' ' > U+e373
+kmn 'Abismo' + ' ' > U+ec4e
+kmn 'de_acordo_com' + ' ' > U+e24d
+kmn 'acusar' + ' ' > U+e055
+kmn 'Acaia' + ' ' > U+eb7c
+kmn 'Acaico' + ' ' > U+eca5
+kmn 'Aquim' + ' ' > U+ea6e
+kmn 'Adão' + ' ' > U+ec4f
+kmn 'Adi' + ' ' > U+ec50
+kmn 'Admin' + ' ' > U+ec51
+kmn 'adotar' + ' ' > U+e177
+kmn 'adoção' + ' ' > U+e177
+kmn 'Adramitino' + ' ' > U+eb93
+kmn 'Mar_Adriático' + ' ' > U+ec17
+kmn 'Adultério' + ' ' > U+e027
+kmn 'Eneias' + ' ' > U+ec2a
+kmn 'Enom' + ' ' > U+eba1
+kmn 'com_medo' + ' ' > U+e056
+kmn 'depois_de' + ' ' > U+e11d
+kmn 'Ágabo' + ' ' > U+eb89
+kmn 'contra' + ' ' > U+e330
+kmn 'Agripa' + ' ' > U+eb9d
+kmn 'Acaz' + ' ' > U+ea61
+kmn 'ar' + ' ' > U+e312
+kmn 'alabastro' + ' ' > U+e0d4
+kmn 'Alexander' + ' ' > U+ea14
+kmn 'Alexandria' + ' ' > U+eb5a
+kmn 'vivo' + ' ' > U+e09f
+kmn 'todos' + ' ' > U+e251
+kmn 'permitir' + ' ' > U+e04a
+kmn 'sozinho' + ' ' > U+e223
+kmn 'Alfeu' + ' ' > U+ec24
+kmn 'altar' + ' ' > U+ea3c
+kmn 'sempre' + ' ' > U+e252
+kmn 'pasmados' + ' ' > U+e14a
+kmn 'assombroso' + ' ' > U+e14a
+kmn 'embaixador' + ' ' > U+ebfd
+kmn 'Amém' + ' ' > U+e100
+kmn 'Aminadabe' + ' ' > U+ea51
+kmn 'Amom' + ' ' > U+ea64
+kmn 'Amós' + ' ' > U+ec47
+kmn 'Anfípolis' + ' ' > U+eb2e
+kmn 'Ampliatus' + ' ' > U+ebb9
+kmn 'Ananias' + ' ' > U+eb65
+kmn 'antepassado' + ' ' > U+ec80
+kmn 'e' + ' ' > U+e11c
+kmn 'André' + ' ' > U+e357
+kmn 'Andrônico' + ' ' > U+ebba
+kmn 'anjo' + ' ' > U+e0a7
+kmn 'raiva' + ' ' > U+e204
+kmn 'bravo' + ' ' > U+e204
+kmn 'animal' + ' ' > U+e102
+kmn 'Anás' + ' ' > U+eb02
+kmn 'Anás' + ' ' > U+eb63
+kmn 'ungido' + ' ' > U+e033
+kmn 'mais_um' + ' ' > U+ebf2
+kmn 'Anticristo' + ' ' > U+ed0e
+kmn 'Antioquia' + ' ' > U+eb58
+kmn 'Antipas' + ' ' > U+ec01
+kmn 'Antipátride' + ' ' > U+eb9a
+kmn 'Apeles' + ' ' > U+ebbb
+kmn 'Apolonia' + ' ' > U+eb30
+kmn 'Apolo' + ' ' > U+eb3e
+kmn 'apóstolo' + ' ' > U+ebef
+kmn 'aparecer' + ' ' > U+e162
+kmn 'Áfia' + ' ' > U+ecf1
+kmn 'nomeado' + ' ' > U+e041
+kmn 'Appolyon' + ' ' > U+ecd7
+kmn 'Áquila' + ' ' > U+eb17
+kmn 'Arábia' + ' ' > U+eb77
+kmn 'Arquipo' + ' ' > U+ece7
+kmn 'Areopagus' + ' ' > U+ec35
+kmn 'Aretas' + ' ' > U+eca6
+kmn 'argumento' + ' ' > U+e057
+kmn 'Arimateia' + ' ' > U+e34d
+kmn 'Levantar-se' + ' ' > U+e322
+kmn 'Aristarco' + ' ' > U+ec10
+kmn 'Aristóbulo' + ' ' > U+ebbc
+kmn 'braço' + ' ' > U+e14e
+kmn 'armaduras' + ' ' > U+ebbd
+kmn 'exército' + ' ' > U+e148
+kmn 'Arni' + ' ' > U+ec52
+kmn 'ao_redor' + ' ' > U+e31b
+kmn 'Arfaxade' + ' ' > U+ec53
+kmn 'prender' + ' ' > U+e25f
+kmn 'seta' + ' ' > U+ecbf
+kmn 'Ártemas' + ' ' > U+ec34
+kmn 'Asa' + ' ' > U+ea5c
+kmn 'ascender' + ' ' > U+e322
+kmn 'cinza' + ' ' > U+ea90
+kmn 'envergonhado' + ' ' > U+e05f
+kmn 'Aser' + ' ' > U+ebde
+kmn 'Terra_de_Aser' + ' ' > U+ebdd
+kmn 'Ásia' + ' ' > U+eb6f
+kmn 'pergunta' + ' ' > U+e061
+kmn 'Assôs' + ' ' > U+eb20
+kmn 'certeza' + ' ' > U+e070
+kmn 'Asyncritius' + ' ' > U+ebbe
+kmn 'Atenas' + ' ' > U+eb07
+kmn 'Atália' + ' ' > U+eb31
+kmn 'assitente' + ' ' > U+e150
+kmn 'autor' + ' ' > U+e12c
+kmn 'autoridade' + ' ' > U+e034
+kmn 'Vingar-se' + ' ' > U+ed0c
+kmn 'desperto' + ' ' > U+ec54
+kmn 'longe' + ' ' > U+e11e
+kmn 'Azor' + ' ' > U+ea6c
+kmn 'Azoto' + ' ' > U+eb7e
+kmn 'Baal' + ' ' > U+ebbf
+kmn 'bebê' + ' ' > U+e0a6
+kmn 'Babilônia' + ' ' > U+ea67
+kmn 'em_sentido_contrário' + ' ' > U+e325
+kmn 'mau' + ' ' > U+e17d
+kmn 'saco' + ' ' > U+e26f
+kmn 'Balaão' + ' ' > U+eca1
+kmn 'Balaque' + ' ' > U+ebff
+kmn 'banco' + ' ' > U+ec55
+kmn 'batismo' + ' ' > U+e24a
+kmn 'batizar' + ' ' > U+e24a
+kmn 'Bar_Jesus_não_Cristo' + ' ' > U+ec89
+kmn 'Barrabás' + ' ' > U+e36d
+kmn 'Baraquias' + ' ' > U+ea97
+kmn 'Baraque' + ' ' > U+ed02
+kmn 'Barnabé' + ' ' > U+ec2f
+kmn 'Barsabbas' + ' ' > U+eb69
+kmn 'Bartolomeu' + ' ' > U+e362
+kmn 'Bartimaeus' + ' ' > U+e36b
+kmn 'cesta' + ' ' > U+e19f
+kmn 'batalha' + ' ' > U+e283
+kmn 'suportar' + ' ' > U+ecef
+kmn 'tolerar' + ' ' > U+e227
+kmn 'besta' + ' ' > U+e103
+kmn 'batimento' + ' ' > U+e0e4
+kmn 'belo' + ' ' > U+ea4a
+kmn 'beleza' + ' ' > U+ea4a
+kmn 'porque' + ' ' > U+e066
+kmn 'acenar' + ' ' > U+e040
+kmn 'Tornar-se_pessoa' + ' ' > U+e83a
+kmn 'Tornar-se_uma_coisa' + ' ' > U+e839
+kmn 'cama' + ' ' > U+e122
+kmn 'Beelzebul' + ' ' > U+e335
+kmn 'antes' + ' ' > U+e107
+kmn 'implorar' + ' ' > U+e21e
+kmn 'começar' + ' ' > U+e231
+kmn 'atrás' + ' ' > U+e116
+kmn 'crer' + ' ' > U+e06f
+kmn 'Crente' + ' ' > U+eb90
+kmn 'cinto' + ' ' > U+e29d
+kmn 'Benjamim' + ' ' > U+eb4b
+kmn 'Beor' + ' ' > U+eda3
+kmn 'Bereia' + ' ' > U+eb13
+kmn 'Berenice' + ' ' > U+eb9e
+kmn 'ao_lado' + ' ' > U+e117
+kmn 'melhor' + ' ' > U+e21f
+kmn 'Beânia' + ' ' > U+e349
+kmn 'Betesda' + ' ' > U+eba0
+kmn 'Belém' + ' ' > U+ea45
+kmn 'Betfagé' + ' ' > U+e348
+kmn 'Betsaida' + ' ' > U+e340
+kmn 'trair' + ' ' > U+e195
+kmn 'traição' + ' ' > U+e195
+kmn 'melhor' + ' ' > U+e09e
+kmn 'entre' + ' ' > U+e118
+kmn 'Bíblia' + ' ' > U+e22c
+kmn 'grande' + ' ' > U+e120
+kmn 'pássaro' + ' ' > U+e25c
+kmn 'nascimento' + ' ' > U+e235
+kmn 'Bitínia' + ' ' > U+eb48
+kmn 'amargo' + ' ' > U+ecd2
+kmn 'preto' + ' ' > U+eb86
+kmn 'blasfemar' + ' ' > U+e05b
+kmn 'blasfêmia' + ' ' > U+e05b
+kmn 'Blasto' + ' ' > U+eb8d
+kmn 'defeito' + ' ' > U+ed01
+kmn 'abençoar' + ' ' > U+e05c
+kmn 'abençoado' + ' ' > U+ea21
+kmn 'bênção' + ' ' > U+e05c
+kmn 'cego' + ' ' > U+e192
+kmn 'sangue' + ' ' > U+e087
+kmn 'azul' + ' ' > U+ecda
+kmn 'alardear' + ' ' > U+e14b
+kmn 'barco' + ' ' > U+e265
+kmn 'Boaz' + ' ' > U+ea54
+kmn 'corpo' + ' ' > U+e143
+kmn 'osso' + ' ' > U+e0b2
+kmn 'livro' + ' ' > U+e22a
+kmn 'nascer' + ' ' > U+e235
+kmn 'fundo' + ' ' > U+e119
+kmn 'limite' + ' ' > U+e25f
+kmn 'arco' + ' ' > U+e210
+kmn 'Arco-flecha' + ' ' > U+ecc8
+kmn 'taça' + ' ' > U+e384
+kmn 'caixa' + ' ' > U+e29e
+kmn 'menino' + ' ' > U+e001
+kmn 'meninos' + ' ' > U+e002
+kmn 'ramificar' + ' ' > U+e246
+kmn 'valente' + ' ' > U+e196
+kmn 'pão' + ' ' > U+e05d
+kmn 'partir' + ' ' > U+e0e1
+kmn 'peitoral' + ' ' > U+ecd5
+kmn 'fõlego' + ' ' > U+ecee
+kmn 'respirar' + ' ' > U+ecee
+kmn 'subornar' + ' ' > U+ebdb
+kmn 'noiva' + ' ' > U+e015
+kmn 'brilhante' + ' ' > U+e21b
+kmn 'trazer' + ' ' > U+e088
+kmn 'bronze' + ' ' > U+eb2c
+kmn 'irmão' + ' ' > U+e006
+kmn 'irmãos' + ' ' > U+e007
+kmn 'edificar' + ' ' > U+e17a
+kmn 'edificando' + ' ' > U+e0a1
+kmn 'fardo' + ' ' > U+ec86
+kmn 'queimar' + ' ' > U+ecd0
+kmn 'queimado' + ' ' > U+ecd0
+kmn 'enterrar' + ' ' > U+e0d7
+kmn 'porêm' + ' ' > U+e11a
+kmn 'comprar' + ' ' > U+e32a
+kmn 'César' + ' ' > U+e370
+kmn 'Cesareia' + ' ' > U+e346
+kmn 'Caifás' + ' ' > U+ea77
+kmn 'Caim' + ' ' > U+ec56
+kmn 'Cainã' + ' ' > U+ec56
+kmn 'ligar' + ' ' > U+e040
+kmn 'camelo' + ' ' > U+e29f
+kmn 'pode' + ' ' > U+e124
+kmn 'Caná' + ' ' > U+eba2
+kmn 'Canaã' + ' ' > U+e33d
+kmn 'Candace' + ' ' > U+eb85
+kmn 'Cafarnaum' + ' ' > U+e33a
+kmn 'Capadócia' + ' ' > U+eb74
+kmn 'cuidado' + ' ' > U+e19e
+kmn 'carpintero' + ' ' > U+e14f
+kmn 'Carpo' + ' ' > U+ecad
+kmn 'carregar' + ' ' > U+e088
+kmn 'caso' + ' ' > U+ec87
+kmn 'pegar' + ' ' > U+e115
+kmn 'Cauda' + ' ' > U+ec36
+kmn 'Cencreia' + ' ' > U+eb3d
+kmn 'censo' + ' ' > U+e0b8
+kmn 'centurião' + ' ' > U+eb7a
+kmn 'Cefas' + ' ' > U+e356
+kmn 'cermônia' + ' ' > U+ec88
+kmn 'cadeia' + ' ' > U+e25f
+kmn 'cadeira' + ' ' > U+e298
+kmn 'Caldéia' + ' ' > U+eb0e
+kmn 'mundança' + ' ' > U+e31e
+kmn 'capítulo' + ' ' > U+e230
+kmn 'carruagem' + ' ' > U+ec82
+kmn 'criança' + ' ' > U+e200
+kmn 'crianças' + ' ' > U+e201
+kmn 'Quios' + ' ' > U+eb22
+kmn 'Cloé' + ' ' > U+ebe2
+kmn 'escolher' + ' ' > U+e021
+kmn 'Corazim' + ' ' > U+ea8f
+kmn 'Cristo' + ' ' > U+e334
+kmn 'Cristão' + ' ' > U+eb90
+kmn 'igreja' + ' ' > U+ebfc
+kmn 'Cuza' + ' ' > U+ec57
+kmn 'Cilícia' + ' ' > U+eb5b
+kmn 'circuncidar' + ' ' > U+e250
+kmn 'circuncisão' + ' ' > U+e250
+kmn 'cidadão' + ' ' > U+eb98
+kmn 'Cauda' + ' ' > U+ec36
+kmn 'Cláudia' + ' ' > U+ecae
+kmn 'Cláudio' + ' ' > U+eb8a
+kmn 'argila' + ' ' > U+ebec
+kmn 'limpo' + ' ' > U+e248
+kmn 'Clemente' + ' ' > U+ece3
+kmn 'Cleopas' + ' ' > U+ec58
+kmn 'capa' + ' ' > U+ea76
+kmn 'Clopas' + ' ' > U+ebb5
+kmn 'fechar' + ' ' > U+e300
+kmn 'fechado' + ' ' > U+e23f
+kmn 'vestir' + ' ' > U+e147
+kmn 'roupas' + ' ' > U+e253
+kmn 'nuvem' + ' ' > U+e26e
+kmn 'Cnido' + ' ' > U+ec14
+kmn 'Coorte' + ' ' > U+e148
+kmn 'frio' + ' ' > U+e0f2
+kmn 'Cor' + ' ' > U+e284
+kmn 'Colossa' + ' ' > U+ece8
+kmn 'vir' + ' ' > U+e25a
+kmn 'sair' + ' ' > U+e243
+kmn 'conforto' + ' ' > U+ea3b
+kmn 'comando' + ' ' > U+e058
+kmn 'mandamento' + ' ' > U+e22f
+kmn 'compaixão' + ' ' > U+e01a
+kmn 'completo' + ' ' > U+ecec
+kmn 'condenar' + ' ' > U+ea7f
+kmn 'condenação' + ' ' > U+ea7f
+kmn 'confissão' + ' ' > U+e03f
+kmn 'confiança' + ' ' > U+e070
+kmn 'confundir' + ' ' > U+eb08
+kmn 'continuar' + ' ' > U+e049
+kmn 'controlar' + ' ' > U+e332
+kmn 'converter' + ' ' > U+e83a
+kmn 'Corinto' + ' ' > U+ea59
+kmn 'Cornélio' + ' ' > U+eb81
+kmn 'esquina' + ' ' > U+eb83
+kmn 'A_pedra_angular' + ' ' > U+e21c
+kmn 'corrigir' + ' ' > U+e09a
+kmn 'Cosã' + ' ' > U+ec59
+kmn 'sofá' + ' ' > U+eb5f
+kmn 'concílio' + ' ' > U+e0f7
+kmn 'contado' + ' ' > U+ebc0
+kmn 'país' + ' ' > U+e0a2
+kmn 'compatriotas' + ' ' > U+e157
+kmn 'região_rural' + ' ' > U+eb96
+kmn 'coragem' + ' ' > U+e196
+kmn 'pátio' + ' ' > U+e0f6
+kmn 'pacto' + ' ' > U+e21d
+kmn 'cobrir' + ' ' > U+e39a
+kmn 'cobiçar' + ' ' > U+e022
+kmn 'vaca' + ' ' > U+eb36
+kmn 'criar' + ' ' > U+e076
+kmn 'criação' + ' ' > U+ebc3
+kmn 'Criador' + ' ' > U+ec22
+kmn 'crédito' + ' ' > U+ebc0
+kmn 'Crescan' + ' ' > U+ecaf
+kmn 'Creta' + ' ' > U+ec8d
+kmn 'Crispo' + ' ' > U+eb3a
+kmn 'criticar' + ' ' > U+e055
+kmn 'torcido' + ' ' > U+eb39
+kmn 'cruz' + ' ' > U+e038
+kmn 'multidão' + ' ' > U+e128
+kmn 'coroa' + ' ' > U+eda4
+kmn 'crucificar' + ' ' > U+e03c
+kmn 'esmagar' + ' ' > U+e146
+kmn 'chorar' + ' ' > U+e20c
+kmn 'copo' + ' ' > U+e274
+kmn 'maldição' + ' ' > U+e05a
+kmn 'cortina' + ' ' > U+e254
+kmn 'Cuxe' + ' ' > U+ec32
+kmn 'amortecer' + ' ' > U+e26c
+kmn 'costume' + ' ' > U+eb10
+kmn 'cortar' + ' ' > U+e24e
+kmn 'címbalo' + ' ' > U+ebe3
+kmn 'Chipre' + ' ' > U+eb88
+kmn 'Cirene' + ' ' > U+eb59
+kmn 'Dalmanuta' + ' ' > U+e344
+kmn 'Dalmatía' + ' ' > U+ecb1
+kmn 'Dâmaris' + ' ' > U+eb37
+kmn 'Damasco' + ' ' > U+ec31
+kmn 'danzar' + ' ' > U+e259
+kmn 'Daniel' + ' ' > U+ea78
+kmn 'escuro' + ' ' > U+ea17
+kmn 'filha' + ' ' > U+e00c
+kmn 'filhas' + ' ' > U+e00d
+kmn 'Davi' + ' ' > U+e35e
+kmn 'dia' + ' ' > U+e15f
+kmn 'diácono' + ' ' > U+e120
+kmn 'morto' + ' ' > U+e181
+kmn 'surdo' + ' ' > U+e191
+kmn 'morte' + ' ' > U+e181
+kmn 'Decápolis' + ' ' > U+e33e
+kmn 'enganar' + ' ' > U+e17f
+kmn 'enganador' + ' ' > U+e152
+kmn 'deceição' + ' ' > U+e17f
+kmn 'profundo' + ' ' > U+e321
+kmn 'Demes' + ' ' > U+ecb2
+kmn 'Demétrio' + ' ' > U+eb1a
+kmn 'demônio' + ' ' > U+eb87
+kmn 'denário' + ' ' > U+e165
+kmn 'negar' + ' ' > U+e0e5
+kmn 'partir' + ' ' > U+e243
+kmn 'profundidade' + ' ' > U+e321
+kmn 'Derbe' + ' ' > U+eb43
+kmn 'descer' + ' ' > U+e317
+kmn 'descendente' + ' ' > U+eb60
+kmn 'deserto' + ' ' > U+e156
+kmn 'merecer' + ' ' > U+e0f5
+kmn 'desejo' + ' ' > U+e020
+kmn 'destruir' + ' ' > U+e141
+kmn 'destruição' + ' ' > U+e141
+kmn 'Dídimo' + ' ' > U+ebb6
+kmn 'morrer' + ' ' > U+e181
+kmn 'diferente' + ' ' > U+ecff
+kmn 'difícil' + ' ' > U+e093
+kmn 'dignificar' + ' ' > U+e04b
+kmn 'Dionísio' + ' ' > U+eb78
+kmn 'Diótrefes' + ' ' > U+ece2
+kmn 'direção' + ' ' > U+e323
+kmn 'sujeira' + ' ' > U+e15b
+kmn 'sujo' + ' ' > U+e249
+kmn 'discípulo' + ' ' > U+e142
+kmn 'disciplina' + ' ' > U+eda5
+kmn 'desencorajar' + ' ' > U+e261
+kmn 'doença' + ' ' > U+e20a
+kmn 'prato' + ' ' > U+e384
+kmn 'desobediência' + ' ' > U+e193
+kmn 'desobedecer' + ' ' > U+e193
+kmn 'dividir' + ' ' > U+e326
+kmn 'divisão' + ' ' > U+e326
+kmn 'divórcio' + ' ' > U+ea3d
+kmn 'fazer' + ' ' > U+e08c
+kmn 'médico' + ' ' > U+e144
+kmn 'cão' + ' ' > U+e104
+kmn 'domínio' + ' ' > U+e032
+kmn 'asno' + ' ' > U+ea09
+kmn 'porta' + ' ' > U+e23e
+kmn 'Dorcas' + ' ' > U+ec2c
+kmn 'dúvida' + ' ' > U+e194
+kmn 'massa' + ' ' > U+ea36
+kmn 'pomba' + ' ' > U+e25e
+kmn 'baixo' + ' ' > U+e319
+kmn 'dragão' + ' ' > U+ecdf
+kmn 'sonhar' + ' ' > U+ea80
+kmn 'beber' + ' ' > U+e274
+kmn 'tambor' + ' ' > U+ebe3
+kmn 'bêbado' + ' ' > U+ea8d
+kmn 'Drusila' + ' ' > U+eb9c
+kmn 'seco' + ' ' > U+e188
+kmn 'poeira' + ' ' > U+e15d
+kmn 'habitar' + ' ' > U+e17b
+kmn 'águia' + ' ' > U+ecc9
+kmn 'orelha' + ' ' > U+e299
+kmn 'ganhar' + ' ' > U+e0f5
+kmn 'terra' + ' ' > U+e153
+kmn 'terremoto' + ' ' > U+e159
+kmn 'leste' + ' ' > U+ea38
+kmn 'fácil' + ' ' > U+e092
+kmn 'comer' + ' ' > U+e053
+kmn 'Héber' + ' ' > U+ec5a
+kmn 'Egito' + ' ' > U+ea44
+kmn 'oito' + ' ' > U+e293
+kmn 'Elão' + ' ' > U+eb6d
+kmn 'anciãos' + ' ' > U+eb62
+kmn 'Eleazar' + ' ' > U+ea70
+kmn 'eleger' + ' ' > U+ec9f
+kmn 'Eli' + ' ' > U+ec44
+kmn 'Eliaquim' + ' ' > U+ea6b
+kmn 'Eliézer' + ' ' > U+ec5b
+kmn 'Elias' + ' ' > U+e36a
+kmn 'Eliseu' + ' ' > U+ec5c
+kmn 'Eliúde' + ' ' > U+ea6f
+kmn 'Isabel' + ' ' > U+ec3a
+kmn 'Elmadã' + ' ' > U+ec5d
+kmn 'Emaús' + ' ' > U+ec5e
+kmn 'Hamor' + ' ' > U+eb5d
+kmn 'esvaziar' + ' ' > U+e277
+kmn 'encorajar' + ' ' > U+e262
+kmn 'fim' + ' ' > U+e232
+kmn 'durar' + ' ' > U+e170
+kmn 'inimigo' + ' ' > U+e025
+kmn 'inimizade' + ' ' > U+e01b
+kmn 'Enoque' + ' ' > U+ec5f
+kmn 'Enos' + ' ' > U+ec60
+kmn 'entrar' + ' ' > U+e242
+kmn 'inveja' + ' ' > U+e022
+kmn 'Epêneto' + ' ' > U+ebc1
+kmn 'Epafras' + ' ' > U+ece4
+kmn 'Epafrodito' + ' ' > U+ece4
+kmn 'Éfeso' + ' ' > U+ec0c
+kmn 'Cidade_Efraim' + ' ' > U+eba4
+kmn 'Efraim' + ' ' > U+eba3
+kmn 'Epicureus' + ' ' > U+ec05
+kmn 'igual' + ' ' > U+e24b
+kmn 'Er' + ' ' > U+ec61
+kmn 'Erasto' + ' ' > U+ec0e
+kmn 'Esaú' + ' ' > U+ebc2
+kmn 'Esli' + ' ' > U+ec49
+kmn 'eterno' + ' ' > U+e252
+kmn 'eternidade' + ' ' > U+e252
+kmn 'Etiópia' + ' ' > U+ec32
+kmn 'Êubulo' + ' ' > U+ecb3
+kmn 'Eunice' + ' ' > U+ecb4
+kmn 'eunuco' + ' ' > U+eb8f
+kmn 'Euodia' + ' ' > U+ece5
+kmn 'Rio_Eufrates' + ' ' > U+ecd8
+kmn 'Êutico' + ' ' > U+eb1f
+kmn 'evangelista' + ' ' > U+e13f
+kmn 'evangelista' + ' ' > U+ebeb
+kmn 'noite' + ' ' > U+e273
+kmn 'todos' + ' ' > U+e140
+kmn 'tudo' + ' ' > U+e114
+kmn 'em_toda_parte' + ' ' > U+e155
+kmn 'exaltar' + ' ' > U+e04b
+kmn 'exemplo' + ' ' > U+ecf0
+kmn 'explicar' + ' ' > U+e059
+kmn 'explicação' + ' ' > U+e059
+kmn 'olho' + ' ' > U+e238
+kmn 'tecido' + ' ' > U+e253
+kmn 'face' + ' ' > U+e203
+kmn 'Refúgio_Justo' + ' ' > U+ec18
+kmn 'fé' + ' ' > U+e06f
+kmn 'fiel' + ' ' > U+e219
+kmn 'fidelidade' + ' ' > U+e219
+kmn 'cair' + ' ' > U+e218
+kmn 'FALSE' + ' ' > U+e17f
+kmn 'família' + ' ' > U+e176
+kmn 'fome' + ' ' > U+e18d
+kmn 'longe' + ' ' > U+e197
+kmn 'despedida' + ' ' > U+ec83
+kmn 'fazenda' + ' ' > U+eb91
+kmn 'agricultor' + ' ' > U+e133
+kmn 'jejuar_não_comer' + ' ' > U+e18e
+kmn 'rápida_velocidade' + ' ' > U+e21a
+kmn 'gordo' + ' ' > U+ea86
+kmn 'graxa_animal' + ' ' > U+eb11
+kmn 'pai' + ' ' > U+e003
+kmn 'temor' + ' ' > U+e056
+kmn 'festa' + ' ' > U+e054
+kmn 'Félix' + ' ' > U+eb99
+kmn 'festival' + ' ' > U+e20b
+kmn 'poucos' + ' ' > U+e19b
+kmn 'campo' + ' ' > U+eb91
+kmn 'figo' + ' ' > U+eda2
+kmn 'luta' + ' ' > U+e283
+kmn 'preencher' + ' ' > U+e278
+kmn 'encontrar' + ' ' > U+e101
+kmn 'dedo' + ' ' > U+eba5
+kmn 'terminar' + ' ' > U+e232
+kmn 'fogo' + ' ' > U+e301
+kmn 'primeiro' + ' ' > U+e233
+kmn 'peixe' + ' ' > U+e263
+kmn 'pescador' + ' ' > U+e264
+kmn 'cinco' + ' ' > U+e290
+kmn 'consertar' + ' ' > U+e09d
+kmn 'carne' + ' ' > U+e26b
+kmn 'sacudir' + ' ' > U+e31d
+kmn 'inundar' + ' ' > U+ece0
+kmn 'farinha' + ' ' > U+ea35
+kmn 'flor' + ' ' > U+eb24
+kmn 'flauta' + ' ' > U+ea8b
+kmn 'voar' + ' ' > U+e25b
+kmn 'seguir' + ' ' > U+e13e
+kmn 'alimento' + ' ' > U+e053
+kmn 'tolo' + ' ' > U+ea7c
+kmn 'pé' + ' ' > U+e13d
+kmn 'para' + ' ' > U+e086
+kmn 'estrangeiro' + ' ' > U+e158
+kmn 'presciência' + ' ' > U+eb79
+kmn 'floresta' + ' ' > U+ec27
+kmn 'perdoar' + ' ' > U+e18f
+kmn 'perdão' + ' ' > U+e18f
+kmn 'Fortunato' + ' ' > U+eca4
+kmn 'adiante' + ' ' > U+e318
+kmn 'fundação' + ' ' > U+e179
+kmn 'quatro' + ' ' > U+e28f
+kmn 'raposa' + ' ' > U+ea8a
+kmn 'perfumado' + ' ' > U+e097
+kmn 'livre' + ' ' > U+e260
+kmn 'livre_sem_costo' + ' ' > U+ebe4
+kmn 'Libertos' + ' ' > U+ec8e
+kmn 'liberdade' + ' ' > U+e260
+kmn 'amigo' + ' ' > U+e024
+kmn 'rã' + ' ' > U+ecf6
+kmn 'desde' + ' ' > U+e31a
+kmn 'fruta' + ' ' > U+e27e
+kmn 'cumprir' + ' ' > U+e0d2
+kmn 'cheio' + ' ' > U+e276
+kmn 'fútil' + ' ' > U+e190
+kmn 'futuro' + ' ' > U+e16e
+kmn 'Gabriel' + ' ' > U+ec39
+kmn 'Gade' + ' ' > U+ecbd
+kmn 'Gadara' + ' ' > U+e33f
+kmn 'ganho' + ' ' > U+e1a3
+kmn 'Gaio' + ' ' > U+ec0f
+kmn 'Galácia' + ' ' > U+eb46
+kmn 'Galileia' + ' ' > U+e337
+kmn 'Gálio' + ' ' > U+eb3b
+kmn 'Gamaliel' + ' ' > U+eb4d
+kmn 'portão' + ' ' > U+e289
+kmn 'pessoas_reunidas' + ' ' > U+e126
+kmn 'coisas_reunidas' + ' ' > U+e108
+kmn 'Gaza' + ' ' > U+eb7f
+kmn 'generação' + ' ' > U+e019
+kmn 'Genesaré' + ' ' > U+e341
+kmn 'gentios' + ' ' > U+e158
+kmn 'amável' + ' ' > U+e26d
+kmn 'gentileza' + ' ' > U+e26d
+kmn 'Gerasenos' + ' ' > U+e33f
+kmn 'Getsêmani' + ' ' > U+e34a
+kmn 'Gideão' + ' ' > U+ed03
+kmn 'presente' + ' ' > U+e072
+kmn 'menina' + ' ' > U+e009
+kmn 'meninas' + ' ' > U+e00a
+kmn 'dar' + ' ' > U+e086
+kmn 'vidro' + ' ' > U+ecde
+kmn 'glorificar' + ' ' > U+e217
+kmn 'glória' + ' ' > U+e217
+kmn 'glutonaria' + ' ' > U+ea8c
+kmn 'ir' + ' ' > U+e381
+kmn 'descer' + ' ' > U+e080
+kmn 'bode' + ' ' > U+ea7d
+kmn 'Deus' + ' ' > U+e036
+kmn 'piedoso' + ' ' > U+e130
+kmn 'Gogue' + ' ' > U+ecf7
+kmn 'ouro' + ' ' > U+eb2a
+kmn 'Gólgota' + ' ' > U+e34b
+kmn 'Gomorra' + ' ' > U+ea7a
+kmn 'gongo' + ' ' > U+ebe5
+kmn 'bom' + ' ' > U+e096
+kmn 'boas_novas' + ' ' > U+e22b
+kmn 'evangelho' + ' ' > U+e22b
+kmn 'governador' + ' ' > U+e0a3
+kmn 'graça' + ' ' > U+e01f
+kmn 'grão' + ' ' > U+e279
+kmn 'uva' + ' ' > U+ecf4
+kmn 'grama' + ' ' > U+ea33
+kmn 'grato' + ' ' > U+e20e
+kmn 'gratidão' + ' ' > U+e20e
+kmn 'sepultar' + ' ' > U+e178
+kmn 'grande' + ' ' > U+e14a
+kmn 'Grécia' + ' ' > U+e345
+kmn 'cobiça' + ' ' > U+ea94
+kmn 'verde' + ' ' > U+ecd1
+kmn 'saudação' + ' ' > U+e051
+kmn 'entristecer' + ' ' > U+e207
+kmn 'moer' + ' ' > U+e83d
+kmn 'noivo' + ' ' > U+e013
+kmn 'terreno' + ' ' > U+e153
+kmn 'solo_arável' + ' ' > U+e15b
+kmn 'crescer' + ' ' > U+e154
+kmn 'crescimento' + ' ' > U+e154
+kmn 'guarda' + ' ' > U+e0c1
+kmn 'culpa' + ' ' > U+ea84
+kmn 'culpado' + ' ' > U+ea84
+kmn 'Agar' + ' ' > U+ecab
+kmn 'saraiva' + ' ' > U+ea13
+kmn 'tormenta_granizo' + ' ' > U+ecdd
+kmn 'cabelo' + ' ' > U+e208
+kmn 'metade' + ' ' > U+ea22
+kmn 'Hamor' + ' ' > U+eb5d
+kmn 'mão' + ' ' > U+e071
+kmn 'Ana' + ' ' > U+eb02
+kmn 'feliz' + ' ' > U+e205
+kmn 'Harã' + ' ' > U+eb0b
+kmn 'difícil' + ' ' > U+e269
+kmn 'prostituta' + ' ' > U+ecfc
+kmn 'harpa' + ' ' > U+ecc6
+kmn 'áspero' + ' ' > U+eca7
+kmn 'colheita' + ' ' > U+e082
+kmn 'segador' + ' ' > U+e139
+kmn 'ódio' + ' ' > U+e01b
+kmn 'ter' + ' ' > U+e083
+kmn 'tem_que' + ' ' > U+e07f
+kmn 'cabeça' + ' ' > U+e206
+kmn 'curar' + ' ' > U+e084
+kmn 'curador' + ' ' > U+e144
+kmn 'cura' + ' ' > U+e209
+kmn 'saudável' + ' ' > U+e209
+kmn 'ouvir' + ' ' > U+e299
+kmn 'coração' + ' ' > U+e29a
+kmn 'calor' + ' ' > U+e301
+kmn 'céu' + ' ' > U+e380
+kmn 'pesado' + ' ' > U+e0e7
+kmn 'Hebreus' + ' ' > U+ec8f
+kmn 'cerca' + ' ' > U+e28a
+kmn 'altura' + ' ' > U+ecc1
+kmn 'herdeiro' + ' ' > U+e018
+kmn 'Eli' + ' ' > U+ec44
+kmn 'inferno' + ' ' > U+e0d1
+kmn 'ajudar' + ' ' > U+e13a
+kmn 'ajudante' + ' ' > U+e150
+kmn 'aqui' + ' ' > U+e212
+kmn 'Hermas' + ' ' > U+ebc4
+kmn 'Hermes_ídolo' + ' ' > U+eb2f
+kmn 'Hermes' + ' ' > U+ebed
+kmn 'Hermógenes' + ' ' > U+ecb5
+kmn 'Herodes' + ' ' > U+e360
+kmn 'Herodianos' + ' ' > U+ea05
+kmn 'Herodias' + ' ' > U+e355
+kmn 'Herodião' + ' ' > U+ebf1
+kmn 'Ezequias' + ' ' > U+ea62
+kmn 'Hezrom' + ' ' > U+ea4f
+kmn 'esconder' + ' ' > U+e085
+kmn 'Hierápolis' + ' ' > U+ece9
+kmn 'monte' + ' ' > U+e202
+kmn 'contratar' + ' ' > U+e13b
+kmn 'bater' + ' ' > U+e0e4
+kmn 'orifício' + ' ' > U+e302
+kmn 'santo' + ' ' > U+e13c
+kmn 'mel' + ' ' > U+e052
+kmn 'honra' + ' ' > U+e031
+kmn 'esperança' + ' ' > U+e213
+kmn 'chifre' + ' ' > U+ecc5
+kmn 'cabalo' + ' ' > U+e303
+kmn 'Hosana' + ' ' > U+e216
+kmn 'Oseias' + ' ' > U+ebc5
+kmn 'quente' + ' ' > U+e301
+kmn 'hora' + ' ' > U+e331
+kmn 'casa' + ' ' > U+e171
+kmn 'como' + ' ' > U+e068
+kmn 'quanto_tempo' + ' ' > U+e83c
+kmn 'natureza_humana' + ' ' > U+e23d
+kmn 'humilde' + ' ' > U+e19d
+kmn 'humilhar' + ' ' > U+e065
+kmn 'humildade' + ' ' > U+e19d
+kmn 'faminto' + ' ' > U+e01e
+kmn 'ferir' + ' ' > U+e24f
+kmn 'esposo' + ' ' > U+e012
+kmn 'Himeneu' + ' ' > U+ecaa
+kmn 'hino' + ' ' > U+e0e3
+kmn 'hipócrita' + ' ' > U+e152
+kmn 'I' + ' ' > U+e166
+kmn 'Icônio' + ' ' > U+ec1f
+kmn 'ídolo' + ' ' > U+e35d
+kmn 'Idumeia' + ' ' > U+e378
+kmn 'se' + ' ' > U+e111
+kmn 'ignorância' + ' ' > U+e06e
+kmn 'ignorante' + ' ' > U+e06e
+kmn 'Ilírico' + ' ' > U+ebc6
+kmn 'imensurável' + ' ' > U+e18c
+kmn 'imediatamente' + ' ' > U+e215
+kmn 'importante' + ' ' > U+ebe7
+kmn 'impossível' + ' ' > U+e180
+kmn 'aprisionar' + ' ' > U+e25f
+kmn 'impuro' + ' ' > U+e249
+kmn 'em' + ' ' > U+e240
+kmn 'em_frente' + ' ' > U+e112
+kmn 'incenso' + ' ' > U+ec98
+kmn 'herança' + ' ' > U+e017
+kmn 'inseto' + ' ' > U+e304
+kmn 'dentro' + ' ' > U+e240
+kmn 'insistir' + ' ' > U+e058
+kmn 'insulto' + ' ' > U+e05b
+kmn 'ferro' + ' ' > U+eb29
+kmn 'Isaque' + ' ' > U+e374
+kmn 'Isaías' + ' ' > U+e372
+kmn 'ilha' + ' ' > U+eb05
+kmn 'Israel' + ' ' > U+ea04
+kmn 'Issacar' + ' ' > U+ecce
+kmn 'Itália' + ' ' > U+ec90
+kmn 'Itureia' + ' ' > U+ec3e
+kmn 'Jacó' + ' ' > U+e375
+kmn 'Jacó_(NT)' + ' ' > U+ea72
+kmn 'Jairo' + ' ' > U+e367
+kmn 'Jambres' + ' ' > U+ecbc
+kmn 'Tiago' + ' ' > U+e358
+kmn 'Tiago_o_Discípulo' + ' ' > U+e376
+kmn 'Janai' + ' ' > U+ec46
+kmn 'Janes' + ' ' > U+ecbe
+kmn 'jarra' + ' ' > U+e0d5
+kmn 'Jarede' + ' ' > U+ec62
+kmn 'Janom' + ' ' > U+eb64
+kmn 'Jeconias' + ' ' > U+ea66
+kmn 'Josafá' + ' ' > U+ea5d
+kmn 'Jefté' + ' ' > U+ed04
+kmn 'Jeremias' + ' ' > U+ea28
+kmn 'Jericó' + ' ' > U+ea08
+kmn 'Jerusalém' + ' ' > U+e338
+kmn 'Jessé' + ' ' > U+ea58
+kmn 'Jesus' + ' ' > U+e037
+kmn 'Jesus_não_Cristo' + ' ' > U+eb03
+kmn 'Judeus' + ' ' > U+e0f9
+kmn 'Judaico' + ' ' > U+e0f9
+kmn 'Jezabel' + ' ' > U+eca2
+kmn 'Joanã' + ' ' > U+ec4c
+kmn 'Joana' + ' ' > U+ec63
+kmn 'Jó' + ' ' > U+ed0b
+kmn 'Jodá' + ' ' > U+e34b
+kmn 'Joel' + ' ' > U+ec92
+kmn 'João' + ' ' > U+e35a
+kmn 'João_o_Batista' + ' ' > U+e336
+kmn 'João_o_Discípulo' + ' ' > U+e35a
+kmn 'Jonas' + ' ' > U+e0c5
+kmn 'Jonas_pai_Simão' + ' ' > U+ea29
+kmn 'Jonã' + ' ' > U+ec9b
+kmn 'Jope' + ' ' > U+ec2d
+kmn 'Jorão' + ' ' > U+ea5e
+kmn 'Rio_Jordão' + ' ' > U+e34f
+kmn 'Jorim' + ' ' > U+ec64
+kmn 'José' + ' ' > U+ea15
+kmn 'José(NT)' + ' ' > U+ea73
+kmn 'José' + ' ' > U+e369
+kmn 'Josué' + ' ' > U+eb03
+kmn 'Josias' + ' ' > U+ea65
+kmn 'Jotão' + ' ' > U+eb82
+kmn 'Jothan' + ' ' > U+ea60
+kmn 'jornada' + ' ' > U+e381
+kmn 'alegria' + ' ' > U+e205
+kmn 'Judas' + ' ' > U+e368
+kmn 'Judá' + ' ' > U+ea4b
+kmn 'Judas' + ' ' > U+e368
+kmn 'Judas_Iscariotes' + ' ' > U+e365
+kmn 'Judas_não_Iscariotes' + ' ' > U+e368
+kmn 'Judas' + ' ' > U+e368
+kmn 'Judeia' + ' ' > U+e339
+kmn 'juíz' + ' ' > U+e1a2
+kmn 'julgamento' + ' ' > U+e1a2
+kmn 'Júlia' + ' ' > U+ebc7
+kmn 'Júlio' + ' ' > U+ec07
+kmn 'saltar' + ' ' > U+ed0a
+kmn 'Júnias' + ' ' > U+ebc8
+kmn 'justiça' + ' ' > U+ea25
+kmn 'justificar' + ' ' > U+eb4f
+kmn 'Justo' + ' ' > U+eb6a
+kmn 'manter' + ' ' > U+e099
+kmn 'chave' + ' ' > U+ea9d
+kmn 'Vale_Cedrom' + ' ' > U+eba6
+kmn 'matar' + ' ' > U+e141
+kmn 'amável__gentil' + ' ' > U+e01c
+kmn 'amável_mesmo' + ' ' > U+ed00
+kmn 'amabilidade' + ' ' > U+e01c
+kmn 'rei' + ' ' > U+e028
+kmn 'reino' + ' ' > U+e02f
+kmn 'Quis' + ' ' > U+eb49
+kmn 'beijo' + ' ' > U+e0e8
+kmn 'ajoelhar' + ' ' > U+e138
+kmn 'faca' + ' ' > U+e24e
+kmn 'bater' + ' ' > U+eb8b
+kmn 'atar' + ' ' > U+e30e
+kmn 'conhecer' + ' ' > U+e062
+kmn 'conhecimento' + ' ' > U+e062
+kmn 'Corá' + ' ' > U+ecf3
+kmn 'lago' + ' ' > U+ec65
+kmn 'Lameque' + ' ' > U+ec66
+kmn 'lámpada' + ' ' > U+e164
+kmn 'candelabro' + ' ' > U+e281
+kmn 'terra' + ' ' > U+e153
+kmn 'língua' + ' ' > U+ea23
+kmn 'Laodiceia' + ' ' > U+ebf9
+kmn 'Lasea' + ' ' > U+ec16
+kmn 'última' + ' ' > U+e234
+kmn 'tarde' + ' ' > U+e225
+kmn 'mais_tarde' + ' ' > U+e225
+kmn 'Latim' + ' ' > U+eba8
+kmn 'rir' + ' ' > U+e224
+kmn 'riso' + ' ' > U+e224
+kmn 'lei' + ' ' > U+e22f
+kmn 'legal' + ' ' > U+e22f
+kmn 'ilegalidade' + ' ' > U+e08f
+kmn 'Lázaro' + ' ' > U+ec67
+kmn 'liderança' + ' ' > U+e137
+kmn 'desviar' + ' ' > U+e17f
+kmn 'líder' + ' ' > U+e137
+kmn 'folha' + ' ' > U+e0b3
+kmn 'saltar' + ' ' > U+ed0a
+kmn 'aprender' + ' ' > U+e22a
+kmn 'arrendamento' + ' ' > U+e175
+kmn 'mínimo' + ' ' > U+e397
+kmn 'couro' + ' ' > U+e255
+kmn 'deixar' + ' ' > U+e243
+kmn 'fermentar' + ' ' > U+e32d
+kmn 'esquerda' + ' ' > U+e0f4
+kmn 'perna' + ' ' > U+ebe0
+kmn 'Legião' + ' ' > U+e366
+kmn 'comprimento' + ' ' > U+ecc2
+kmn 'leopardo' + ' ' > U+ecf8
+kmn 'lepra' + ' ' > U+e382
+kmn 'carta' + ' ' > U+eb84
+kmn 'nível' + ' ' > U+e0d9
+kmn 'Levi' + ' ' > U+eb1b
+kmn 'Levi_Mateus' + ' ' > U+e35c
+kmn 'Levita' + ' ' > U+eb44
+kmn 'mentira' + ' ' > U+e17f
+kmn 'deitar' + ' ' > U+e121
+kmn 'vida' + ' ' > U+e09f
+kmn 'levantar' + ' ' > U+e081
+kmn 'luz' + ' ' > U+e0c2
+kmn 'relâmpago' + ' ' > U+ea88
+kmn 'como' + ' ' > U+e020
+kmn 'linho' + ' ' > U+ea20
+kmn 'Lino' + ' ' > U+ecb0
+kmn 'leão' + ' ' > U+ecb6
+kmn 'viver' + ' ' > U+e09f
+kmn 'pão' + ' ' > U+e05d
+kmn 'gafanhoto' + ' ' > U+ecd4
+kmn 'Loide' + ' ' > U+ecb7
+kmn 'longo_sofrimento' + ' ' > U+e16f
+kmn 'parece_que' + ' ' > U+ebcd
+kmn 'senhor' + ' ' > U+e028
+kmn 'perdido' + ' ' > U+e089
+kmn 'lote' + ' ' > U+ea16
+kmn 'Ló' + ' ' > U+ebdc
+kmn 'grande_quantidade' + ' ' > U+ea16
+kmn 'em_alta_voz' + ' ' > U+ebe8
+kmn 'amor' + ' ' > U+e01a
+kmn 'baixo_adj.' + ' ' > U+e324
+kmn 'baixo_verbo' + ' ' > U+e080
+kmn 'Lúcio' + ' ' > U+ec93
+kmn 'Lucas' + ' ' > U+eb68
+kmn 'lunático' + ' ' > U+e06d
+kmn 'concupiscência' + ' ' > U+e239
+kmn 'Líbia' + ' ' > U+eb73
+kmn 'Licaônia' + ' ' > U+eb51
+kmn 'Lícia' + ' ' > U+ec13
+kmn 'Lida' + ' ' > U+ec2e
+kmn 'Lídia' + ' ' > U+eb50
+kmn 'Lisânias' + ' ' > U+ec40
+kmn 'Lísias' + ' ' > U+ec37
+kmn 'Listra' + ' ' > U+eb44
+kmn 'Maate' + ' ' > U+ec4b
+kmn 'Macedônia' + ' ' > U+ec0d
+kmn 'Magadan' + ' ' > U+ea30
+kmn 'mágico' + ' ' > U+ec8a
+kmn 'Magogue' + ' ' > U+ecf9
+kmn 'Maalalel' + ' ' > U+ec68
+kmn 'fazer' + ' ' > U+e076
+kmn 'Malco' + ' ' > U+ebb7
+kmn 'Malta' + ' ' > U+ec19
+kmn 'homem' + ' ' > U+e000
+kmn 'Manaém' + ' ' > U+eb40
+kmn 'gerir' + ' ' > U+e137
+kmn 'Manassés' + ' ' > U+ea63
+kmn 'maná' + ' ' > U+eba9
+kmn 'muitos' + ' ' > U+e198
+kmn 'Marcos' + ' ' > U+e371
+kmn 'mercado' + ' ' > U+e02e
+kmn 'matrimônio' + ' ' > U+e010
+kmn 'Marta' + ' ' > U+ec69
+kmn 'Maria' + ' ' > U+e354
+kmn 'Maria_Madalena' + ' ' > U+e353
+kmn 'Maria_Mãe_de_Jesus' + ' ' > U+e354
+kmn 'mestre' + ' ' > U+e028
+kmn 'Matatá' + ' ' > U+ec9c
+kmn 'Matatias' + ' ' > U+ec9d
+kmn 'Matã' + ' ' > U+ea71
+kmn 'Matate' + ' ' > U+ed12
+kmn 'Mateus' + ' ' > U+eb04
+kmn 'Matias' + ' ' > U+eb04
+kmn 'colchão' + ' ' > U+e122
+kmn 'maduro' + ' ' > U+e236
+kmn 'eu' + ' ' > U+e166
+kmn 'refeição' + ' ' > U+e053
+kmn 'significado' + ' ' > U+ecfa
+kmn 'medida' + ' ' > U+e305
+kmn 'Média' + ' ' > U+eb70
+kmn 'Megido' + ' ' > U+ecfb
+kmn 'Melqui' + ' ' > U+ec45
+kmn 'Melquisedeque' + ' ' > U+ed05
+kmn 'Meleá' + ' ' > U+ec6a
+kmn 'membro' + ' ' > U+e174
+kmn 'Mená' + ' ' > U+ec6b
+kmn 'misericórdia' + ' ' > U+e01d
+kmn 'Mesopotâmia' + ' ' > U+eb72
+kmn 'mensagem' + ' ' > U+e22d
+kmn 'mensageiro' + ' ' > U+e136
+kmn 'Messias' + ' ' > U+e334
+kmn 'metal' + ' ' > U+eb28
+kmn 'Metusalém' + ' ' > U+ec6c
+kmn 'Micael' + ' ' > U+ece1
+kmn 'Midiã' + ' ' > U+eb0f
+kmn 'Mileto' + ' ' > U+eb23
+kmn 'leite' + ' ' > U+eca3
+kmn 'Milhão' + ' ' > U+ecd9
+kmn 'mente' + ' ' > U+e06c
+kmn 'milagre' + ' ' > U+e095
+kmn 'Miriã' + ' ' > U+e385
+kmn 'espelho' + ' ' > U+ebe6
+kmn 'Mitilene' + ' ' > U+eb21
+kmn 'Mnasom' + ' ' > U+eb26
+kmn 'zombar' + ' ' > U+ea12
+kmn 'Moloque' + ' ' > U+ec26
+kmn 'dinheiro' + ' ' > U+e029
+kmn 'mês' + ' ' > U+e34c
+kmn 'lua' + ' ' > U+e272
+kmn 'mais_tarde' + ' ' > U+e199
+kmn 'manhã' + ' ' > U+e163
+kmn 'Moisés' + ' ' > U+e35b
+kmn 'o_mais' + ' ' > U+e229
+kmn 'mãe' + ' ' > U+e00b
+kmn 'Monte_das_Oliveiras' + ' ' > U+e351
+kmn 'Monte_Sinai' + ' ' > U+eb5c
+kmn 'Monte_Sião' + ' ' > U+ecf5
+kmn 'montanha' + ' ' > U+e306
+kmn 'boca' + ' ' > U+e03f
+kmn 'mover' + ' ' > U+e32f
+kmn 'muitos' + ' ' > U+e198
+kmn 'multidão' + ' ' > U+e128
+kmn 'assassino' + ' ' > U+ea10
+kmn 'mostarda' + ' ' > U+e039
+kmn 'mudo' + ' ' > U+e050
+kmn 'Mirra' + ' ' > U+ec28
+kmn 'mirra' + ' ' > U+e245
+kmn 'Mísia' + ' ' > U+eb4a
+kmn 'mistério' + ' ' > U+e18b
+kmn 'Naamã' + ' ' > U+ec6d
+kmn 'Nagai' + ' ' > U+ec4a
+kmn 'Naor' + ' ' > U+ec6e
+kmn 'Naassom' + ' ' > U+ea52
+kmn 'Naum' + ' ' > U+ec48
+kmn 'unha' + ' ' > U+ebaa
+kmn 'Naim' + ' ' > U+ea48
+kmn 'nome' + ' ' > U+e04f
+kmn 'Naftali' + ' ' > U+ea40
+kmn 'Narcius' + ' ' > U+ebc9
+kmn 'Natã' + ' ' > U+ec6f
+kmn 'Natanael' + ' ' > U+ec6f
+kmn 'nação' + ' ' > U+e0a2
+kmn 'Nazaré' + ' ' > U+e34e
+kmn 'perto' + ' ' > U+e300
+kmn 'pescoço' + ' ' > U+e0d3
+kmn 'necessidade' + ' ' > U+e07f
+kmn 'agulha' + ' ' > U+e078
+kmn 'vizinho' + ' ' > U+e173
+kmn 'Neopolis' + ' ' > U+eb4e
+kmn 'Nereu' + ' ' > U+ebca
+kmn 'Neri' + ' ' > U+ec70
+kmn 'rede' + ' ' > U+e307
+kmn 'novo' + ' ' > U+e308
+kmn 'novas' + ' ' > U+e22d
+kmn 'próximo' + ' ' > U+ebf2
+kmn 'Nicanor' + ' ' > U+eb55
+kmn 'Nicodemos' + ' ' > U+ebab
+kmn 'Nicolaus' + ' ' > U+eb56
+kmn 'Nicópolis' + ' ' > U+ed08
+kmn 'noite' + ' ' > U+e272
+kmn 'nove' + ' ' > U+e294
+kmn 'Nínive' + ' ' > U+e0c6
+kmn 'não' + ' ' > U+e17c
+kmn 'Noé' + ' ' > U+ea43
+kmn 'ruído' + ' ' > U+ebe9
+kmn 'norte' + ' ' > U+ea74
+kmn 'nariz' + ' ' > U+e309
+kmn 'nem' + ' ' > U+e17c
+kmn 'agora' + ' ' > U+e215
+kmn 'número' + ' ' > U+e0b7
+kmn 'Ninfa' + ' ' > U+ecea
+kmn 'Obede' + ' ' > U+ea56
+kmn 'obediência' + ' ' > U+e04e
+kmn 'obedecer' + ' ' > U+e04e
+kmn 'oceano' + ' ' > U+e14d
+kmn 'oferta' + ' ' > U+e03a
+kmn 'óleo' + ' ' > U+e030
+kmn 'velho' + ' ' > U+e189
+kmn 'oliva' + ' ' > U+eda1
+kmn 'Olimpo' + ' ' > U+ebcb
+kmn 'em' + ' ' > U+e113
+kmn 'por_cima' + ' ' > U+e113
+kmn 'um' + ' ' > U+e28c
+kmn 'Onésimo' + ' ' > U+ecb8
+kmn 'Onesíforo' + ' ' > U+ecb8
+kmn 'só' + ' ' > U+e223
+kmn 'aberto' + ' ' > U+e18a
+kmn 'opor' + ' ' > U+e330
+kmn 'ou' + ' ' > U+e106
+kmn 'ordem' + ' ' > U+ebe7
+kmn 'outro' + ' ' > U+e184
+kmn 'for_a' + ' ' > U+e241
+kmn 'lá_for_a' + ' ' > U+e241
+kmn 'sobre' + ' ' > U+e110
+kmn 'dever' + ' ' > U+ea49
+kmn 'próprio' + ' ' > U+eced
+kmn 'boi' + ' ' > U+ea85
+kmn 'dor' + ' ' > U+e24f
+kmn 'Panfília' + ' ' > U+eb6e
+kmn 'Pafos' + ' ' > U+eb9f
+kmn 'parábolas' + ' ' > U+e22d
+kmn 'paralisar' + ' ' > U+e131
+kmn 'Pármenas' + ' ' > U+eb57
+kmn 'parte' + ' ' > U+e29b
+kmn 'Partos' + ' ' > U+eb0a
+kmn 'festa' + ' ' > U+e20b
+kmn 'passar' + ' ' > U+e10b
+kmn 'paixão' + ' ' > U+ebac
+kmn 'Páscoa' + ' ' > U+e20d
+kmn 'passado' + ' ' > U+e16d
+kmn 'pastor' + ' ' > U+ecc3
+kmn 'Pátara' + ' ' > U+ec23
+kmn 'caminho' + ' ' > U+e23c
+kmn 'paciência' + ' ' > U+e16f
+kmn 'paciente' + ' ' > U+e16f
+kmn 'Patmos' + ' ' > U+ebf4
+kmn 'Pátrobas' + ' ' > U+ebcc
+kmn 'padrão' + ' ' > U+ecf0
+kmn 'Paulo' + ' ' > U+e377
+kmn 'calçada' + ' ' > U+ebad
+kmn 'paz' + ' ' > U+e123
+kmn 'Pelegue' + ' ' > U+ec71
+kmn 'caneta' + ' ' > U+e29c
+kmn 'pentecostes' + ' ' > U+ec81
+kmn 'Pentecostes' + ' ' > U+ec81
+kmn 'pessoas' + ' ' > U+e127
+kmn 'perceber' + ' ' > U+e06a
+kmn 'Perez' + ' ' > U+ea4c
+kmn 'perfeito' + ' ' > U+ecec
+kmn 'perfume' + ' ' > U+e097
+kmn 'Perge' + ' ' > U+eb47
+kmn 'Pérgamo' + ' ' > U+ebf6
+kmn 'permissão' + ' ' > U+e04a
+kmn 'permitir' + ' ' > U+e04a
+kmn 'perseguir' + ' ' > U+e03e
+kmn 'perseguição' + ' ' > U+e03e
+kmn 'Pérside' + ' ' > U+ebce
+kmn 'pessoa' + ' ' > U+e11f
+kmn 'Fanuel' + ' ' > U+ec3c
+kmn 'Faraó' + ' ' > U+ec94
+kmn 'Fariseu' + ' ' > U+e383
+kmn 'Filadélfia' + ' ' > U+ebf8
+kmn 'Filemom' + ' ' > U+ecf2
+kmn 'Fileto' + ' ' > U+ecac
+kmn 'Filipe' + ' ' > U+e361
+kmn 'Filipos' + ' ' > U+e347
+kmn 'Filólogo' + ' ' > U+ebcf
+kmn 'filósofo' + ' ' > U+ec04
+kmn 'Flegonte' + ' ' > U+ebd1
+kmn 'Febe' + ' ' > U+ebd2
+kmn 'Fenícia' + ' ' > U+e343
+kmn 'Fenice' + ' ' > U+ec29
+kmn 'Frígia' + ' ' > U+eb76
+kmn 'Fígelo' + ' ' > U+ecb9
+kmn 'porco' + ' ' > U+e30a
+kmn 'pomba' + ' ' > U+e0b6
+kmn 'Pilatos' + ' ' > U+e36f
+kmn 'pilar' + ' ' > U+eca8
+kmn 'travesseiro' + ' ' > U+e26c
+kmn 'Písida' + ' ' > U+eb97
+kmn 'plano' + ' ' > U+e06b
+kmn 'plantar' + ' ' > U+e244
+kmn 'prato' + ' ' > U+e386
+kmn 'escudela' + ' ' > U+e386
+kmn 'arado' + ' ' > U+ec72
+kmn 'Ponto' + ' ' > U+eb75
+kmn 'pobre' + ' ' > U+ea3a
+kmn 'pórtico' + ' ' > U+eb5e
+kmn 'Pórcio' + ' ' > U+ec38
+kmn 'possível' + ' ' > U+e098
+kmn 'derramar' + ' ' > U+e0d6
+kmn 'poder' + ' ' > U+e124
+kmn 'louvor' + ' ' > U+e04b
+kmn 'orar' + ' ' > U+e05e
+kmn 'oração' + ' ' > U+e05e
+kmn 'pregar' + ' ' > U+e04d
+kmn 'pregador' + ' ' > U+e134
+kmn 'pegação' + ' ' > U+e04d
+kmn 'precioso' + ' ' > U+ea37
+kmn 'grávido' + ' ' > U+e0a5
+kmn 'preparar' + ' ' > U+e091
+kmn 'pressão' + ' ' > U+e228
+kmn 'fingir' + ' ' > U+e094
+kmn 'prevalecer' + ' ' > U+eb14
+kmn 'orgulho' + ' ' > U+e14b
+kmn 'sacerdote' + ' ' > U+e03b
+kmn 'principe' + ' ' > U+eb61
+kmn 'prioridade' + ' ' > U+ebe7
+kmn 'Priscila' + ' ' > U+eb18
+kmn 'cárcere' + ' ' > U+e172
+kmn 'preso' + ' ' > U+e145
+kmn 'Prócoro' + ' ' > U+eb53
+kmn 'procônsul' + ' ' > U+e0a3
+kmn 'lucro' + ' ' > U+e035
+kmn 'pormessa' + ' ' > U+e37a
+kmn 'profetizar' + ' ' > U+e23b
+kmn 'profeta' + ' ' > U+e135
+kmn 'prostituta' + ' ' > U+ecfc
+kmn 'orgulhoso' + ' ' > U+e14b
+kmn 'provérbio' + ' ' > U+ec73
+kmn 'salmo' + ' ' > U+e0e2
+kmn 'Ptolemaida' + ' ' > U+ec08
+kmn 'Públio' + ' ' > U+ec1a
+kmn 'Prudente' + ' ' > U+ecba
+kmn 'puro' + ' ' > U+e248
+kmn 'púpura' + ' ' > U+e286
+kmn 'propósito' + ' ' > U+e066
+kmn 'pôr' + ' ' > U+e07e
+kmn 'Pôr' + ' ' > U+e07e
+kmn 'Putéoli' + ' ' > U+ec1e
+kmn 'Pirro' + ' ' > U+eb1c
+kmn 'Quarto' + ' ' > U+ebd3
+kmn 'rainha' + ' ' > U+eb15
+kmn 'questionado' + ' ' > U+e061
+kmn 'quieto' + ' ' > U+e185
+kmn 'Quirino' + ' ' > U+ec3b
+kmn 'Raquel' + ' ' > U+ea41
+kmn 'Raabe' + ' ' > U+ea55
+kmn 'chuva' + ' ' > U+ea3e
+kmn 'arco_Iris' + ' ' > U+ecdc
+kmn 'Rão' + ' ' > U+ea50
+kmn 'Ramá' + ' ' > U+ea42
+kmn 'ler' + ' ' > U+e22a
+kmn 'razão' + ' ' > U+e066
+kmn 'Rebeca' + ' ' > U+ebd4
+kmn 'rebelião' + ' ' > U+e193
+kmn 'repreender' + ' ' > U+e060
+kmn 'receber' + ' ' > U+e1a3
+kmn 'calcular' + ' ' > U+ebc0
+kmn 'conciliar' + ' ' > U+e026
+kmn 'vermelho' + ' ' > U+e287
+kmn 'redimir' + ' ' > U+e02c
+kmn 'rendenção' + ' ' > U+e02c
+kmn 'junco' + ' ' > U+ea26
+kmn 'Roboão' + ' ' > U+ea5a
+kmn 'rejeitar' + ' ' > U+e193
+kmn 'relativo' + ' ' > U+e176
+kmn 'religião' + ' ' > U+ec33
+kmn 'permanecer' + ' ' > U+e83b
+kmn 'lembrar' + ' ' > U+e0d8
+kmn 'repetir' + ' ' > U+e049
+kmn 'Arrepender-se' + ' ' > U+e320
+kmn 'arrependimento' + ' ' > U+e320
+kmn 'informe' + ' ' > U+e22d
+kmn 'resgatar' + ' ' > U+e214
+kmn 'descansar' + ' ' > U+e121
+kmn 'resultado' + ' ' > U+e237
+kmn 'ressucitar' + ' ' > U+e329
+kmn 'ressurreição' + ' ' > U+e329
+kmn 'Reú' + ' ' > U+ec74
+kmn 'Rúben' + ' ' > U+ecc0
+kmn 'revelar' + ' ' > U+e162
+kmn 'vingança' + ' ' > U+ed0c
+kmn 'insultar' + ' ' > U+e055
+kmn 'recompensa' + ' ' > U+e02d
+kmn 'Régio' + ' ' > U+ec1d
+kmn 'Resa' + ' ' > U+ec75
+kmn 'Rode' + ' ' > U+eb92
+kmn 'Rodes' + ' ' > U+eb25
+kmn 'reto' + ' ' > U+e0f3
+kmn 'tempo_certo' + ' ' > U+ed10
+kmn 'justo' + ' ' > U+e090
+kmn 'pessoa_justa' + ' ' > U+e130
+kmn 'justiça' + ' ' > U+e090
+kmn 'anel' + ' ' > U+ebdf
+kmn 'maduro' + ' ' > U+e236
+kmn 'amadurecer' + ' ' > U+e154
+kmn 'rio' + ' ' > U+e30b
+kmn 'estrada' + ' ' > U+e23c
+kmn 'ladrão' + ' ' > U+e0e9
+kmn 'rocha' + ' ' > U+e26a
+kmn 'Roma' + ' ' > U+eb16
+kmn 'quarto' + ' ' > U+eb06
+kmn 'galo' + ' ' > U+e25d
+kmn 'raiz' + ' ' > U+e15c
+kmn 'rude' + ' ' > U+ec99
+kmn 'Rufo' + ' ' > U+e36e
+kmn 'régua' + ' ' > U+e028
+kmn 'corre' + ' ' > U+e258
+kmn 'Rute' + ' ' > U+ea57
+kmn 'sábado' + ' ' > U+e160
+kmn 'sacrifício' + ' ' > U+e0b5
+kmn 'triste' + ' ' > U+e207
+kmn 'Saduceus' + ' ' > U+ea03
+kmn 'disse' + ' ' > U+e03f
+kmn 'vela' + ' ' > U+e267
+kmn 'santo' + ' ' > U+e130
+kmn 'Salamina' + ' ' > U+ebe1
+kmn 'Salatiel' + ' ' > U+ec76
+kmn 'Salim' + ' ' > U+ebae
+kmn 'Salmom' + ' ' > U+ea53
+kmn 'Salmona' + ' ' > U+ec15
+kmn 'Salomé' + ' ' > U+e379
+kmn 'sal' + ' ' > U+e046
+kmn 'salvação' + ' ' > U+eb80
+kmn 'Samaria' + ' ' > U+ea83
+kmn 'Samaritana' + ' ' > U+ea7b
+kmn 'mesmo' + ' ' > U+e24b
+kmn 'Samos' + ' ' > U+ec25
+kmn 'Samotrácia' + ' ' > U+eb4c
+kmn 'Sansão' + ' ' > U+ed06
+kmn 'Samuel' + ' ' > U+eb8e
+kmn 'santuário' + ' ' > U+eb01
+kmn 'areia' + ' ' > U+ecfd
+kmn 'Safira' + ' ' > U+eb66
+kmn 'Sara' + ' ' > U+ebd5
+kmn 'Sardes' + ' ' > U+ebf7
+kmn 'Satanás' + ' ' > U+e335
+kmn 'Saul' + ' ' > U+eb54
+kmn 'salvar' + ' ' > U+e214
+kmn 'salvador' + ' ' > U+ec85
+kmn 'dispersar' + ' ' > U+ea34
+kmn 'Ceva' + ' ' > U+eb19
+kmn 'escorpião' + ' ' > U+ec77
+kmn 'escriba' + ' ' > U+e12c
+kmn 'Escritura' + ' ' > U+e22c
+kmn 'Cita' + ' ' > U+eceb
+kmn 'mar' + ' ' > U+e14d
+kmn 'Mar_da_Galileia' + ' ' > U+e350
+kmn 'Mar_de_Vermelho' + ' ' > U+eb0c
+kmn 'Tiberíades' + ' ' > U+ebaf
+kmn 'selo' + ' ' > U+e221
+kmn 'selado' + ' ' > U+e221
+kmn 'procurar' + ' ' > U+e074
+kmn 'secredo' + ' ' > U+e186
+kmn 'seita' + ' ' > U+ec33
+kmn 'Secundo' + ' ' > U+eb1d
+kmn 'ver' + ' ' > U+e238
+kmn 'semear' + ' ' > U+e27a
+kmn 'Selêucia' + ' ' > U+eb42
+kmn 'mesmo' + ' ' > U+ea95
+kmn 'vender' + ' ' > U+e32b
+kmn 'Not_found' + ' ' > U+ec9e
+kmn 'enviar' + ' ' > U+e075
+kmn 'sensualidade' + ' ' > U+e239
+kmn 'separar' + ' ' > U+e326
+kmn 'Sérgio' + ' ' > U+eb45
+kmn 'Serugue' + ' ' > U+ec78
+kmn 'servo' + ' ' > U+e12d
+kmn 'servir' + ' ' > U+e08e
+kmn 'Sete' + ' ' > U+ec79
+kmn 'sete' + ' ' > U+e292
+kmn 'costurar' + ' ' > U+e077
+kmn 'sexo' + ' ' > U+ea87
+kmn 'desjo_sexual' + ' ' > U+e239
+kmn 'sombra' + ' ' > U+e079
+kmn 'agitar' + ' ' > U+e27d
+kmn 'vergonha' + ' ' > U+e065
+kmn 'compartilhar' + ' ' > U+e07a
+kmn 'Sarom' + ' ' > U+ec2b
+kmn 'afiado' + ' ' > U+ebf3
+kmn 'barbear' + ' ' > U+eb27
+kmn 'Sealtiel' + ' ' > U+ea68
+kmn 'Siquém' + ' ' > U+ec95
+kmn 'ovelha' + ' ' > U+e270
+kmn 'Selá' + ' ' > U+ec7a
+kmn 'Sem' + ' ' > U+ec7b
+kmn 'Inferno' + ' ' > U+e0c9
+kmn 'pastor' + ' ' > U+e271
+kmn 'escudo' + ' ' > U+e388
+kmn 'sapato' + ' ' > U+e12e
+kmn 'gritar' + ' ' > U+e149
+kmn 'mostrar' + ' ' > U+e162
+kmn 'doente' + ' ' > U+e20a
+kmn 'lado' + ' ' > U+e10d
+kmn 'Sidom' + ' ' > U+e33c
+kmn 'suspiro' + ' ' > U+e047
+kmn 'sinal' + ' ' > U+e0a9
+kmn 'Silas' + ' ' > U+eb41
+kmn 'silêncio' + ' ' > U+e185
+kmn 'Siloé' + ' ' > U+ebb1
+kmn 'Silvano' + ' ' > U+eca9
+kmn 'prata' + ' ' > U+eb2b
+kmn 'Simeão' + ' ' > U+ea47
+kmn 'Simão' + ' ' > U+ea47
+kmn 'Simão_irmão_de_Jesus' + ' ' > U+ea92
+kmn 'Simão_de_Cirene' + ' ' > U+e37c
+kmn 'Simão_Pedro' + ' ' > U+e356
+kmn 'Simão_o_Zelote' + ' ' > U+e364
+kmn 'Simão_o_Leproso' + ' ' > U+e0f8
+kmn 'pecado' + ' ' > U+e08f
+kmn 'pecaminoso' + ' ' > U+e08f
+kmn 'cantar' + ' ' > U+e0e2
+kmn 'pecador' + ' ' > U+e151
+kmn 'irmã' + ' ' > U+e00e
+kmn 'irmãs' + ' ' > U+e00f
+kmn 'sentar' + ' ' > U+e298
+kmn 'seis' + ' ' > U+e291
+kmn 'crânio' + ' ' > U+e20f
+kmn 'céu' + ' ' > U+ec8b
+kmn 'escravo' + ' ' > U+e10e
+kmn 'dormir' + ' ' > U+e121
+kmn 'lento' + ' ' > U+e19c
+kmn 'lento' + ' ' > U+e19c
+kmn 'pequeno' + ' ' > U+e19b
+kmn 'menor' + ' ' > U+e32e
+kmn 'diminuto' + ' ' > U+e397
+kmn 'cheiro' + ' ' > U+e309
+kmn 'fumaça' + ' ' > U+ec03
+kmn 'suave' + ' ' > U+ec9a
+kmn 'Esmirna' + ' ' > U+ebf5
+kmn 'serpente' + ' ' > U+e30c
+kmn 'neve' + ' ' > U+ebfb
+kmn 'Sodoma' + ' ' > U+ea8e
+kmn 'suave' + ' ' > U+e268
+kmn 'solo' + ' ' > U+e15b
+kmn 'peregrino' + ' ' > U+e158
+kmn 'soldado' + ' ' > U+e12f
+kmn 'Salomão' + ' ' > U+ea32
+kmn 'alguns' + ' ' > U+e29b
+kmn 'filho' + ' ' > U+e004
+kmn 'Filho_do_Homem' + ' ' > U+e352
+kmn 'canção' + ' ' > U+e0e2
+kmn 'filhos' + ' ' > U+e005
+kmn 'Sópatro' + ' ' > U+ec20
+kmn 'feitiçaria' + ' ' > U+ec8c
+kmn 'Sosípatro' + ' ' > U+ec20
+kmn 'Sóstenes' + ' ' > U+eb3c
+kmn 'alma' + ' ' > U+e10f
+kmn 'som' + ' ' > U+ebe9
+kmn 'sul' + ' ' > U+ea31
+kmn 'semear' + ' ' > U+e07d
+kmn 'semeador' + ' ' > U+e133
+kmn 'Espanha' + ' ' > U+ebd6
+kmn 'falar' + ' ' > U+e03f
+kmn 'passar' + ' ' > U+e32a
+kmn 'apimentar' + ' ' > U+ecfe
+kmn 'espírito' + ' ' > U+e187
+kmn 'cuspir' + ' ' > U+e048
+kmn 'dividido' + ' ' > U+e326
+kmn 'esponja' + ' ' > U+ea18
+kmn 'sitio' + ' ' > U+ed01
+kmn 'espião' + ' ' > U+ed07
+kmn 'Estáquis' + ' ' > U+ebd7
+kmn 'pessoal' + ' ' > U+e14c
+kmn 'escada' + ' ' > U+e0d9
+kmn 'ficar_de_pé' + ' ' > U+e32c
+kmn 'estrela' + ' ' > U+e0c3
+kmn 'começar' + ' ' > U+e231
+kmn 'estada' + ' ' > U+e83b
+kmn 'roubar' + ' ' > U+e07b
+kmn 'haste' + ' ' > U+ea01
+kmn 'Estéfanas' + ' ' > U+ebea
+kmn 'Estêvão' + ' ' > U+eb6b
+kmn 'severo' + ' ' > U+e266
+kmn 'palavras_severas' + ' ' > U+eca7
+kmn 'mordomia' + ' ' > U+e07c
+kmn 'vara' + ' ' > U+e398
+kmn 'estóico' + ' ' > U+ec06
+kmn 'estômago' + ' ' > U+e0c8
+kmn 'parar' + ' ' > U+e073
+kmn 'armazém' + ' ' > U+ec43
+kmn 'tempestade' + ' ' > U+e27c
+kmn 'história' + ' ' > U+e22d
+kmn 'direito' + ' ' > U+e313
+kmn 'desconhecido' + ' ' > U+e069
+kmn 'estrangulado' + ' ' > U+eb33
+kmn 'corrente' + ' ' > U+e30b
+kmn 'esticar' + ' ' > U+e31c
+kmn 'corda' + ' ' > U+ecc7
+kmn 'forte' + ' ' > U+e08a
+kmn 'tropeçar' + ' ' > U+e257
+kmn 'predra_de_tropeço' + ' ' > U+ea27
+kmn 'sofrer' + ' ' > U+e222
+kmn 'sofrimento' + ' ' > U+e222
+kmn 'verão' + ' ' > U+e0c4
+kmn 'sol' + ' ' > U+e15f
+kmn 'pôr_do_sol' + ' ' > U+e161
+kmn 'Suzana' + ' ' > U+ec7c
+kmn 'doce' + ' ' > U+e30d
+kmn 'espada' + ' ' > U+e282
+kmn 'sinagoga' + ' ' > U+e0b9
+kmn 'Síntique' + ' ' > U+ece6
+kmn 'Siracusa' + ' ' > U+ec1c
+kmn 'Síria' + ' ' > U+e342
+kmn 'tabernáculo' + ' ' > U+eb32
+kmn 'mesa' + ' ' > U+e280
+kmn 'cauda' + ' ' > U+ecd6
+kmn 'tomar' + ' ' > U+e088
+kmn 'Tamar' + ' ' > U+ea4e
+kmn 'Tarso' + ' ' > U+ec30
+kmn 'provar' + ' ' > U+ea07
+kmn 'imposto' + ' ' > U+e02b
+kmn 'coletor_de_imposto' + ' ' > U+e12a
+kmn 'ensinar' + ' ' > U+e04c
+kmn 'professor' + ' ' > U+e12b
+kmn 'ensino' + ' ' > U+e04c
+kmn 'dente' + ' ' > U+e0b1
+kmn 'templo' + ' ' > U+e03d
+kmn 'tentado' + ' ' > U+e183
+kmn 'tentação' + ' ' > U+e183
+kmn 'dez' + ' ' > U+e295
+kmn 'tenda' + ' ' > U+eb32
+kmn 'Tera' + ' ' > U+ec7d
+kmn 'Tércio' + ' ' > U+ebee
+kmn 'Tértulo' + ' ' > U+eb9b
+kmn 'teste' + ' ' > U+ec21
+kmn 'testemunho' + ' ' > U+e22e
+kmn 'Tadeu' + ' ' > U+e37b
+kmn 'graças' + ' ' > U+e20e
+kmn 'aquele' + ' ' > U+e184
+kmn 'eles' + ' ' > U+e125
+kmn 'Teófilo' + ' ' > U+eb67
+kmn 'portanto' + ' ' > U+e066
+kmn 'Tessalônica' + ' ' > U+eb12
+kmn 'Teudas' + ' ' > U+eb71
+kmn 'eles' + ' ' > U+e125
+kmn 'ladrão' + ' ' > U+e0e9
+kmn 'coxa' + ' ' > U+ed0d
+kmn 'coisa' + ' ' > U+e105
+kmn 'pensar' + ' ' > U+e06c
+kmn 'pensar_opinião' + ' ' > U+e06c
+kmn 'pensar_maravilha' + ' ' > U+e06c
+kmn 'sede' + ' ' > U+eccf
+kmn 'sedento' + ' ' > U+eccf
+kmn 'esta' + ' ' > U+e226
+kmn 'Tomé' + ' ' > U+e363
+kmn 'espinho' + ' ' > U+e27b
+kmn 'pensamento' + ' ' > U+e06c
+kmn 'mil' + ' ' > U+e296
+kmn 'três' + ' ' > U+e28e
+kmn 'debulha' + ' ' > U+ea39
+kmn 'eira' + ' ' > U+ec42
+kmn 'trono' + ' ' > U+ec84
+kmn 'através' + ' ' > U+e10b
+kmn 'lançar' + ' ' > U+e327
+kmn 'trovão' + ' ' > U+e044
+kmn 'Tiatira' + ' ' > U+eb52
+kmn 'Tiberíades' + ' ' > U+ebb0
+kmn 'Tibério' + ' ' > U+ec3d
+kmn 'gravata' + ' ' > U+e30e
+kmn 'Timeu' + ' ' > U+e36c
+kmn 'tempo' + ' ' > U+e16a
+kmn 'tempos' + ' ' > U+e049
+kmn 'Timão' + ' ' > U+ec96
+kmn 'Timóteo' + ' ' > U+ec02
+kmn 'dízimo' + ' ' > U+ed0f
+kmn 'Tito' + ' ' > U+eb38
+kmn 'para' + ' ' > U+e318
+kmn 'vestir' + ' ' > U+e147
+kmn 'plantar' + ' ' > U+e07d
+kmn 'pessoas_juntas' + ' ' > U+e126
+kmn 'coisas_juntas' + ' ' > U+e108
+kmn 'túmulo' + ' ' > U+e178
+kmn 'língua' + ' ' > U+e045
+kmn 'ferramenta' + ' ' > U+eb34
+kmn 'tocar' + ' ' > U+e10c
+kmn 'torre' + ' ' > U+e30f
+kmn 'Traconites' + ' ' > U+ec3f
+kmn 'transfiguração' + ' ' > U+e31f
+kmn 'transfigurar' + ' ' > U+e31f
+kmn 'viagem' + ' ' > U+e381
+kmn 'árvore' + ' ' > U+e244
+kmn 'provação' + ' ' > U+ec87
+kmn 'tribu' + ' ' > U+ea81
+kmn 'tribulação' + ' ' > U+e03e
+kmn 'viagem' + ' ' > U+e381
+kmn 'triunfo' + ' ' > U+eb14
+kmn 'Trôade' + ' ' > U+ec0b
+kmn 'Trófimo' + ' ' > U+eb1e
+kmn 'problema' + ' ' > U+e333
+kmn 'verdadeiro' + ' ' > U+e09c
+kmn 'trompete' + ' ' > U+ea79
+kmn 'confiar_em' + ' ' > U+e023
+kmn 'verdade' + ' ' > U+e09c
+kmn 'experimentar' + ' ' > U+eb94
+kmn 'Trifena' + ' ' > U+ebd8
+kmn 'Trifosa' + ' ' > U+ebd9
+kmn 'virar' + ' ' > U+e31e
+kmn 'gêmeo' + ' ' > U+ec1b
+kmn 'dois' + ' ' > U+e28d
+kmn 'Tíquico' + ' ' > U+ecbb
+kmn 'tipo' + ' ' > U+ed00
+kmn 'Tirano' + ' ' > U+eb3f
+kmn 'Tiro' + ' ' > U+e33b
+kmn 'incredulidade' + ' ' > U+e194
+kmn 'debaixo' + ' ' > U+e10a
+kmn 'entender' + ' ' > U+e063
+kmn 'entendimento' + ' ' > U+e063
+kmn 'unidade' + ' ' > U+e297
+kmn 'não_levedado' + ' ' > U+e043
+kmn 'injusto' + ' ' > U+e08f
+kmn 'injustiça' + ' ' > U+e08f
+kmn 'desatar' + ' ' > U+e37f
+kmn 'até' + ' ' > U+e16c
+kmn 'acima' + ' ' > U+e315
+kmn 'Urbano' + ' ' > U+ebda
+kmn 'Urias' + ' ' > U+ea46
+kmn 'nos' + ' ' > U+e167
+kmn 'usar' + ' ' > U+e08d
+kmn 'útil' + ' ' > U+e08d
+kmn 'inútil' + ' ' > U+e190
+kmn 'Uzias' + ' ' > U+ea5f
+kmn 'vale' + ' ' > U+eba7
+kmn 'valor' + ' ' > U+e09b
+kmn 'vendedor' + ' ' > U+e0b4
+kmn 'vingança' + ' ' > U+ed0c
+kmn 'muito' + ' ' > U+e211
+kmn 'vitória' + ' ' > U+eb14
+kmn 'vila' + ' ' > U+e19a
+kmn 'vinho' + ' ' > U+ec91
+kmn 'vinhedo' + ' ' > U+e27f
+kmn 'virgem' + ' ' > U+ea7e
+kmn 'visão' + ' ' > U+ea80
+kmn 'visita' + ' ' > U+e25a
+kmn 'voz' + ' ' > U+e042
+kmn 'cintura' + ' ' > U+e391
+kmn 'esperar' + ' ' > U+ea11
+kmn 'caminhar' + ' ' > U+e256
+kmn 'parede' + ' ' > U+e288
+kmn 'quer' + ' ' > U+e020
+kmn 'guerra' + ' ' > U+e283
+kmn 'advertir' + ' ' > U+e19e
+kmn 'lavar' + ' ' > U+e08b
+kmn 'guarda' + ' ' > U+e0a8
+kmn 'atalaia' + ' ' > U+e23a
+kmn 'água' + ' ' > U+e247
+kmn 'onda' + ' ' > U+e328
+kmn 'caminho' + ' ' > U+e23c
+kmn 'nós' + ' ' > U+e167
+kmn 'fraco' + ' ' > U+ea24
+kmn 'riqueza' + ' ' > U+e029
+kmn 'rico' + ' ' > U+e029
+kmn 'cansado' + ' ' > U+ebfe
+kmn 'casamento' + ' ' > U+e011
+kmn 'semana' + ' ' > U+ebb2
+kmn 'pesar' + ' ' > U+e0e6
+kmn 'peso' + ' ' > U+e0e6
+kmn 'bem' + ' ' > U+ebb3
+kmn 'oeste' + ' ' > U+ea89
+kmn 'molhado' + ' ' > U+e247
+kmn 'o_que' + ' ' > U+e109
+kmn 'trigo' + ' ' > U+e279
+kmn 'quando' + ' ' > U+e16a
+kmn 'onde' + ' ' > U+e15a
+kmn 'chicote' + ' ' > U+e310
+kmn 'sussurro' + ' ' > U+e186
+kmn 'branco' + ' ' > U+e285
+kmn 'quem' + ' ' > U+e1a1
+kmn 'completo' + ' ' > U+e251
+kmn 'porque' + ' ' > U+e067
+kmn 'amplo' + ' ' > U+ecc4
+kmn 'viúva' + ' ' > U+e016
+kmn 'esposa' + ' ' > U+e014
+kmn 'selvagem' + ' ' > U+e17e
+kmn 'selva' + ' ' > U+e156
+kmn 'vai' + ' ' > U+e020
+kmn 'vento' + ' ' > U+e220
+kmn 'janela' + ' ' > U+e311
+kmn 'vinho' + ' ' > U+e275
+kmn 'asa' + ' ' > U+eb7d
+kmn 'asas' + ' ' > U+eb7d
+kmn 'garfo_de_tração' + ' ' > U+ec41
+kmn 'inverno' + ' ' > U+e16b
+kmn 'sabedoria' + ' ' > U+e064
+kmn 'sábio' + ' ' > U+e064
+kmn 'com' + ' ' > U+e24c
+kmn 'testimunha' + ' ' > U+e22e
+kmn 'mulher' + ' ' > U+e008
+kmn 'madeira' + ' ' > U+e244
+kmn 'lã' + ' ' > U+ebfa
+kmn 'palavra' + ' ' > U+ebb4
+kmn 'Palavra' + ' ' > U+ebb8
+kmn 'Palavra_de_Deus' + ' ' > U+e22c
+kmn 'trabalho' + ' ' > U+e08c
+kmn 'mundo' + ' ' > U+e129
+kmn 'minhoca' + ' ' > U+ea06
+kmn 'absinto' + ' ' > U+ecd3
+kmn 'preocupação' + ' ' > U+e056
+kmn 'pior' + ' ' > U+e182
+kmn 'adoração' + ' ' > U+e04b
+kmn 'vale_a_pena' + ' ' > U+e09b
+kmn 'digno' + ' ' > U+e09b
+kmn 'envolver' + ' ' > U+ea19
+kmn 'ira_de_Deus' + ' ' > U+e02a
+kmn 'escrever' + ' ' > U+e29c
+kmn 'escritor' + ' ' > U+e12c
+kmn 'errado' + ' ' > U+ea02
+kmn 'Yahweh_Jeová' + ' ' > U+e0c7
+kmn 'ano' + ' ' > U+e15e
+kmn 'amarelo' + ' ' > U+ecdb
+kmn 'sim' + ' ' > U+e09a
+kmn 'jugo' + ' ' > U+eb09
+kmn 'você' + ' ' > U+e314
+kmn 'jovem' + ' ' > U+e0f1
+kmn 'Zaqueu' + ' ' > U+ec7e
+kmn 'Zadoque' + ' ' > U+ea6d
+kmn 'Sarepta' + ' ' > U+ec7f
+kmn 'Zebedeu' + ' ' > U+e359
+kmn 'Zebulom' + ' ' > U+ea3f
+kmn 'Zacarias' + ' ' > U+ea98
+kmn 'Zenas' + ' ' > U+ed09
+kmn 'Zera' + ' ' > U+ea4d
+kmn 'zero' + ' ' > U+e28b
+kmn 'Zorobabel' + ' ' > U+ea69
+kmn 'Júpiter' + ' ' > U+eb2d
+kmn '.' + ' ' > U+e37e
+kmn '*' + ' ' > U+e390
+kmn 'pos' + ' ' > U+e390
+kmn '*' + ' ' > U+e390
+kmn 'pos' + ' ' > U+e390
+kmn 'pn' + ' ' > U+ed11

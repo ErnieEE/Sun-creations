@@ -1,0 +1,3971 @@
+3.7.4 (default, Jul 30 2019, 07:47:48)  [GCC 9.1.0 32 bit]
+read_csv langpw.csv back76_PT.txt
+['\ueb0d', 'Aaron', 'eb0d', 'Arão']
+getunicode eb0d
+getunicode hex: eb0d  unicode: eeac8d 
+['\uecd7', 'Abaddon', 'ecd7', 'Abadom']
+getunicode ecd7
+getunicode hex: ecd7  unicode: eeb397 
+['\uea96', 'Abel', 'ea96', 'Abel']
+getunicode ea96
+getunicode hex: ea96  unicode: eeaa96 
+['\ue35f', 'Abiathar', 'e35f', 'Abiatar']
+getunicode e35f
+getunicode hex: e35f  unicode: ee8d9f 
+['\ue17b', 'abide', 'e17b', 'permanecer']
+getunicode e17b
+getunicode hex: e17b  unicode: ee85bb 
+['\uea5b', 'Abijah', 'ea5b', 'Abías']
+getunicode ea5b
+getunicode hex: ea5b  unicode: eea99b 
+['\uec4d', 'Abilene', 'ec4d', 'Abilene']
+getunicode ec4d
+getunicode hex: ec4d  unicode: eeb18d 
+['\ue124', 'ability', 'e124', 'habilidade']
+getunicode e124
+getunicode hex: e124  unicode: ee84a4 
+['\uea6a', 'Abiud', 'ea6a', 'Abiúde']
+getunicode ea6a
+getunicode hex: ea6a  unicode: eea9aa 
+['\ue0a4', 'abomination', 'e0a4', 'abominação']
+getunicode e0a4
+getunicode hex: e0a4  unicode: ee82a4 
+['\ue11b', 'about', 'e11b', 'cerca_de']
+getunicode e11b
+getunicode hex: e11b  unicode: ee849b 
+['\ue110', 'above', 'e110', 'acima_de']
+getunicode e110
+getunicode hex: e110  unicode: ee8490 
+['\ue373', 'Abraham', 'e373', 'Abraâo']
+getunicode e373
+getunicode hex: e373  unicode: ee8db3 
+['\uec4e', 'Abyss', 'ec4e', 'Abismo']
+getunicode ec4e
+getunicode hex: ec4e  unicode: eeb18e 
+['\ue24d', 'according_to', 'e24d', 'de_acordo_com']
+getunicode e24d
+getunicode hex: e24d  unicode: ee898d 
+['\ue055', 'accuse', 'e055', 'acusar']
+getunicode e055
+getunicode hex: e055  unicode: ee8195 
+['\ueb7c', 'Achaia', 'eb7c', 'Acaia']
+getunicode eb7c
+getunicode hex: eb7c  unicode: eeadbc 
+['\ueca5', 'Achaicus', 'eca5', 'Acaico']
+getunicode eca5
+getunicode hex: eca5  unicode: eeb2a5 
+['\uea6e', 'Achim', 'ea6e', 'Aquim']
+getunicode ea6e
+getunicode hex: ea6e  unicode: eea9ae 
+['\uec4f', 'Adam', 'ec4f', 'Adão']
+getunicode ec4f
+getunicode hex: ec4f  unicode: eeb18f 
+['\uec50', 'Addi', 'ec50', 'Adi']
+getunicode ec50
+getunicode hex: ec50  unicode: eeb190 
+['\uec51', 'Admin', 'ec51', 'Admin']
+getunicode ec51
+getunicode hex: ec51  unicode: eeb191 
+['\ue177', 'adopt', 'e177', 'adotar']
+getunicode e177
+getunicode hex: e177  unicode: ee85b7 
+['\ueb93', 'Adramyttium', 'eb93', 'Adramitino']
+getunicode eb93
+getunicode hex: eb93  unicode: eeae93 
+['\uec17', 'Adriatic_Sea', 'ec17', 'Mar_Adriático']
+getunicode ec17
+getunicode hex: ec17  unicode: eeb097 
+['\ue027', 'adultery', 'e027', 'Adultério']
+getunicode e027
+getunicode hex: e027  unicode: ee80a7 
+['\uec2a', 'Aeneas', 'ec2a', 'Eneias']
+getunicode ec2a
+getunicode hex: ec2a  unicode: eeb0aa 
+['\ueba1', 'Aenon', 'eba1', 'Enom']
+getunicode eba1
+getunicode hex: eba1  unicode: eeaea1 
+['\ue056', 'afraid', 'e056', 'com_medo']
+getunicode e056
+getunicode hex: e056  unicode: ee8196 
+['\ue11d', 'after', 'e11d', 'depois_de']
+getunicode e11d
+getunicode hex: e11d  unicode: ee849d 
+['\ueb89', 'Agabus', 'eb89', 'Ágabo']
+getunicode eb89
+getunicode hex: eb89  unicode: eeae89 
+['\ue330', 'against', 'e330', 'contra']
+getunicode e330
+getunicode hex: e330  unicode: ee8cb0 
+['\ueb9d', 'Agrippa', 'eb9d', 'Agripa']
+getunicode eb9d
+getunicode hex: eb9d  unicode: eeae9d 
+['\uea61', 'Ahaz', 'ea61', 'Acaz']
+getunicode ea61
+getunicode hex: ea61  unicode: eea9a1 
+['\ue312', 'air', 'e312', 'ar']
+getunicode e312
+getunicode hex: e312  unicode: ee8c92 
+['\ue0d4', 'alabaster', 'e0d4', 'alabastro']
+getunicode e0d4
+getunicode hex: e0d4  unicode: ee8394 
+['\uea14', 'Alexander', 'ea14', 'Alexander']
+getunicode ea14
+getunicode hex: ea14  unicode: eea894 
+['\ueb5a', 'Alexandria', 'eb5a', 'Alexandria']
+getunicode eb5a
+getunicode hex: eb5a  unicode: eead9a 
+['\ue09f', 'alive', 'e09f', 'vivo']
+getunicode e09f
+getunicode hex: e09f  unicode: ee829f 
+['\ue251', 'all', 'e251', 'todos']
+getunicode e251
+getunicode hex: e251  unicode: ee8991 
+['\ue04a', 'allow', 'e04a', 'permitir']
+getunicode e04a
+getunicode hex: e04a  unicode: ee818a 
+['\ue223', 'alone', 'e223', 'sozinho']
+getunicode e223
+getunicode hex: e223  unicode: ee88a3 
+['\uec24', 'Alphaeus', 'ec24', 'Alfeu']
+getunicode ec24
+getunicode hex: ec24  unicode: eeb0a4 
+['\uea3c', 'altar', 'ea3c', 'altar']
+getunicode ea3c
+getunicode hex: ea3c  unicode: eea8bc 
+['\ue252', 'always', 'e252', 'sempre']
+getunicode e252
+getunicode hex: e252  unicode: ee8992 
+['\ue14a', 'amazed', 'e14a', 'pasmados']
+getunicode e14a
+getunicode hex: e14a  unicode: ee858a 
+['\uebfd', 'ambassador', 'ebfd', 'embaixador']
+getunicode ebfd
+getunicode hex: ebfd  unicode: eeafbd 
+['\ue100', 'amen', 'e100', 'Amém']
+getunicode e100
+getunicode hex: e100  unicode: ee8480 
+['\uea51', 'Amminadab', 'ea51', 'Aminadabe']
+getunicode ea51
+getunicode hex: ea51  unicode: eea991 
+['\uea64', 'Amon', 'ea64', 'Amom']
+getunicode ea64
+getunicode hex: ea64  unicode: eea9a4 
+['\uec47', 'Amos', 'ec47', 'Amós']
+getunicode ec47
+getunicode hex: ec47  unicode: eeb187 
+['\ueb2e', 'Amphipolis', 'eb2e', 'Anfípolis']
+getunicode eb2e
+getunicode hex: eb2e  unicode: eeacae 
+['\uebb9', 'Ampliatus', 'ebb9', 'Ampliatus']
+getunicode ebb9
+getunicode hex: ebb9  unicode: eeaeb9 
+['\ueb65', 'Ananias', 'eb65', 'Ananias']
+getunicode eb65
+getunicode hex: eb65  unicode: eeada5 
+['\uec80', 'ancestor', 'ec80', 'antepassado']
+getunicode ec80
+getunicode hex: ec80  unicode: eeb280 
+['\ue11c', 'and', 'e11c', 'e']
+getunicode e11c
+getunicode hex: e11c  unicode: ee849c 
+['\ue357', 'Andrew', 'e357', 'André']
+getunicode e357
+getunicode hex: e357  unicode: ee8d97 
+['\uebba', 'Andronicus', 'ebba', 'Andrônico']
+getunicode ebba
+getunicode hex: ebba  unicode: eeaeba 
+['\ue0a7', 'angel', 'e0a7', 'anjo']
+getunicode e0a7
+getunicode hex: e0a7  unicode: ee82a7 
+['\ue204', 'anger', 'e204', 'raiva']
+getunicode e204
+getunicode hex: e204  unicode: ee8884 
+['\ue102', 'animal', 'e102', 'animal']
+getunicode e102
+getunicode hex: e102  unicode: ee8482 
+['\ueb02', 'Anna', 'eb02', 'Anás']
+getunicode eb02
+getunicode hex: eb02  unicode: eeac82 
+['\ueb63', 'Annas', 'eb63', 'Anás']
+getunicode eb63
+getunicode hex: eb63  unicode: eeada3 
+['\ue033', 'anointed', 'e033', 'ungido']
+getunicode e033
+getunicode hex: e033  unicode: ee80b3 
+['\uebf2', 'another', 'ebf2', 'mais_um']
+getunicode ebf2
+getunicode hex: ebf2  unicode: eeafb2 
+['\ued0e', 'Antichrist', 'ed0e', 'Anticristo']
+getunicode ed0e
+getunicode hex: ed0e  unicode: eeb48e 
+['\ueb58', 'Antioch', 'eb58', 'Antioquia']
+getunicode eb58
+getunicode hex: eb58  unicode: eead98 
+['\uec01', 'Antipas', 'ec01', 'Antipas']
+getunicode ec01
+getunicode hex: ec01  unicode: eeb081 
+['\ueb9a', 'Antipatris', 'eb9a', 'Antipátride']
+getunicode eb9a
+getunicode hex: eb9a  unicode: eeae9a 
+['\uebbb', 'Apelles', 'ebbb', 'Apeles']
+getunicode ebbb
+getunicode hex: ebbb  unicode: eeaebb 
+['\ueb30', 'Apollonia', 'eb30', 'Apolonia']
+getunicode eb30
+getunicode hex: eb30  unicode: eeacb0 
+['\ueb3e', 'Apollos', 'eb3e', 'Apolo']
+getunicode eb3e
+getunicode hex: eb3e  unicode: eeacbe 
+['\uebef', 'apostle', 'ebef', 'apóstolo']
+getunicode ebef
+getunicode hex: ebef  unicode: eeafaf 
+['\ue162', 'appear', 'e162', 'aparecer']
+getunicode e162
+getunicode hex: e162  unicode: ee85a2 
+['\uecf1', 'Apphia', 'ecf1', 'Áfia']
+getunicode ecf1
+getunicode hex: ecf1  unicode: eeb3b1 
+['\ue041', 'appointed', 'e041', 'nomeado']
+getunicode e041
+getunicode hex: e041  unicode: ee8181 
+['\ueb17', 'Aquila', 'eb17', 'Áquila']
+getunicode eb17
+getunicode hex: eb17  unicode: eeac97 
+['\ueb77', 'Arabia', 'eb77', 'Arábia']
+getunicode eb77
+getunicode hex: eb77  unicode: eeadb7 
+['\uece7', 'Archippus', 'ece7', 'Arquipo']
+getunicode ece7
+getunicode hex: ece7  unicode: eeb3a7 
+['\uec35', 'Areopagus', 'ec35', 'Areopagus']
+getunicode ec35
+getunicode hex: ec35  unicode: eeb0b5 
+['\ueca6', 'Aretas', 'eca6', 'Aretas']
+getunicode eca6
+getunicode hex: eca6  unicode: eeb2a6 
+['\ue057', 'argument', 'e057', 'argumento']
+getunicode e057
+getunicode hex: e057  unicode: ee8197 
+['\ue34d', 'Arimathea', 'e34d', 'Arimateia']
+getunicode e34d
+getunicode hex: e34d  unicode: ee8d8d 
+['\ue322', 'arise', 'e322', 'Levantar-se']
+getunicode e322
+getunicode hex: e322  unicode: ee8ca2 
+['\uec10', 'Aristarchus', 'ec10', 'Aristarco']
+getunicode ec10
+getunicode hex: ec10  unicode: eeb090 
+['\uebbc', 'Aristobulus', 'ebbc', 'Aristóbulo']
+getunicode ebbc
+getunicode hex: ebbc  unicode: eeaebc 
+['\ue14e', 'arm', 'e14e', 'braço']
+getunicode e14e
+getunicode hex: e14e  unicode: ee858e 
+['\uebbd', 'armor', 'ebbd', 'armaduras']
+getunicode ebbd
+getunicode hex: ebbd  unicode: eeaebd 
+['\ue148', 'army', 'e148', 'exército']
+getunicode e148
+getunicode hex: e148  unicode: ee8588 
+['\uec52', 'Arni', 'ec52', 'Arni']
+getunicode ec52
+getunicode hex: ec52  unicode: eeb192 
+['\ue31b', 'around', 'e31b', 'ao_redor']
+getunicode e31b
+getunicode hex: e31b  unicode: ee8c9b 
+['\uec53', 'Arphaxad', 'ec53', 'Arfaxade']
+getunicode ec53
+getunicode hex: ec53  unicode: eeb193 
+['\ue25f', 'arrest', 'e25f', 'prender']
+getunicode e25f
+getunicode hex: e25f  unicode: ee899f 
+['\uecbf', 'arrow', 'ecbf', 'seta']
+getunicode ecbf
+getunicode hex: ecbf  unicode: eeb2bf 
+['\uec34', 'Artemas', 'ec34', 'Ártemas']
+getunicode ec34
+getunicode hex: ec34  unicode: eeb0b4 
+['\uea5c', 'Asa', 'ea5c', 'Asa']
+getunicode ea5c
+getunicode hex: ea5c  unicode: eea99c 
+['\uea90', 'ash', 'ea90', 'cinza']
+getunicode ea90
+getunicode hex: ea90  unicode: eeaa90 
+['\ue05f', 'ashamed', 'e05f', 'envergonhado']
+getunicode e05f
+getunicode hex: e05f  unicode: ee819f 
+['\uebde', 'Asher', 'ebde', 'Aser']
+getunicode ebde
+getunicode hex: ebde  unicode: eeaf9e 
+['\uebdd', 'Ashhur', 'ebdd', 'Terra_de_Aser']
+getunicode ebdd
+getunicode hex: ebdd  unicode: eeaf9d 
+['\ueb6f', 'Asia', 'eb6f', 'Ásia']
+getunicode eb6f
+getunicode hex: eb6f  unicode: eeadaf 
+['\ue061', 'ask', 'e061', 'pergunta']
+getunicode e061
+getunicode hex: e061  unicode: ee81a1 
+['\ueb20', 'Assos', 'eb20', 'Assôs']
+getunicode eb20
+getunicode hex: eb20  unicode: eeaca0 
+['\ue070', 'assurance', 'e070', 'certeza']
+getunicode e070
+getunicode hex: e070  unicode: ee81b0 
+['\uebbe', 'Asyncritius', 'ebbe', 'Asyncritius']
+getunicode ebbe
+getunicode hex: ebbe  unicode: eeaebe 
+['\ueb07', 'Athens', 'eb07', 'Atenas']
+getunicode eb07
+getunicode hex: eb07  unicode: eeac87 
+['\ueb31', 'Attalia', 'eb31', 'Atália']
+getunicode eb31
+getunicode hex: eb31  unicode: eeacb1 
+['\ue150', 'attendant', 'e150', 'assitente']
+getunicode e150
+getunicode hex: e150  unicode: ee8590 
+['\ue12c', 'author', 'e12c', 'autor']
+getunicode e12c
+getunicode hex: e12c  unicode: ee84ac 
+['\ue034', 'authority', 'e034', 'autoridade']
+getunicode e034
+getunicode hex: e034  unicode: ee80b4 
+['\ued0c', 'avenge', 'ed0c', 'Vingar-se']
+getunicode ed0c
+getunicode hex: ed0c  unicode: eeb48c 
+['\uec54', 'awake', 'ec54', 'desperto']
+getunicode ec54
+getunicode hex: ec54  unicode: eeb194 
+['\ue11e', 'away', 'e11e', 'longe']
+getunicode e11e
+getunicode hex: e11e  unicode: ee849e 
+['\uea6c', 'Azor', 'ea6c', 'Azor']
+getunicode ea6c
+getunicode hex: ea6c  unicode: eea9ac 
+['\ueb7e', 'Azotus', 'eb7e', 'Azoto']
+getunicode eb7e
+getunicode hex: eb7e  unicode: eeadbe 
+['\uebbf', 'Baal', 'ebbf', 'Baal']
+getunicode ebbf
+getunicode hex: ebbf  unicode: eeaebf 
+['\ue0a6', 'baby', 'e0a6', 'bebê']
+getunicode e0a6
+getunicode hex: e0a6  unicode: ee82a6 
+['\uea67', 'Babylon', 'ea67', 'Babilônia']
+getunicode ea67
+getunicode hex: ea67  unicode: eea9a7 
+['\ue325', 'backward', 'e325', 'em_sentido_contrário']
+getunicode e325
+getunicode hex: e325  unicode: ee8ca5 
+['\ue17d', 'bad', 'e17d', 'mau']
+getunicode e17d
+getunicode hex: e17d  unicode: ee85bd 
+['\ue26f', 'bag', 'e26f', 'saco']
+getunicode e26f
+getunicode hex: e26f  unicode: ee89af 
+['\ueca1', 'Balaam', 'eca1', 'Balaão']
+getunicode eca1
+getunicode hex: eca1  unicode: eeb2a1 
+['\uebff', 'Balak', 'ebff', 'Balaque']
+getunicode ebff
+getunicode hex: ebff  unicode: eeafbf 
+['\uec55', 'bank', 'ec55', 'banco']
+getunicode ec55
+getunicode hex: ec55  unicode: eeb195 
+['\ue24a', 'baptism', 'e24a', 'batismo']
+getunicode e24a
+getunicode hex: e24a  unicode: ee898a 
+['\ue36d', 'Barabbas', 'e36d', 'Barrabás']
+getunicode e36d
+getunicode hex: e36d  unicode: ee8dad 
+['\uea97', 'Barachiah', 'ea97', 'Baraquias']
+getunicode ea97
+getunicode hex: ea97  unicode: eeaa97 
+['\ued02', 'Barak', 'ed02', 'Baraque']
+getunicode ed02
+getunicode hex: ed02  unicode: eeb482 
+['\uec2f', 'Barnabas', 'ec2f', 'Barnabé']
+getunicode ec2f
+getunicode hex: ec2f  unicode: eeb0af 
+['\ueb69', 'Barsabbas', 'eb69', 'Barsabbas']
+getunicode eb69
+getunicode hex: eb69  unicode: eeada9 
+['\ue362', 'Bartholomew', 'e362', 'Bartolomeu']
+getunicode e362
+getunicode hex: e362  unicode: ee8da2 
+['\ue36b', 'Bartimaeus', 'e36b', 'Bartimaeus']
+getunicode e36b
+getunicode hex: e36b  unicode: ee8dab 
+['\ue19f', 'basket', 'e19f', 'cesta']
+getunicode e19f
+getunicode hex: e19f  unicode: ee869f 
+['\ue283', 'battle', 'e283', 'batalha']
+getunicode e283
+getunicode hex: e283  unicode: ee8a83 
+['\uecef', 'bear', 'ecef', 'suportar']
+getunicode ecef
+getunicode hex: ecef  unicode: eeb3af 
+['\ue227', 'bear_with', 'e227', 'tolerar']
+getunicode e227
+getunicode hex: e227  unicode: ee88a7 
+['\ue103', 'beast', 'e103', 'besta']
+getunicode e103
+getunicode hex: e103  unicode: ee8483 
+['\ue0e4', 'beat', 'e0e4', 'batimento']
+getunicode e0e4
+getunicode hex: e0e4  unicode: ee83a4 
+['\uea4a', 'beautiful', 'ea4a', 'belo']
+getunicode ea4a
+getunicode hex: ea4a  unicode: eea98a 
+['\ue066', 'because', 'e066', 'porque']
+getunicode e066
+getunicode hex: e066  unicode: ee81a6 
+['\ue040', 'beckon', 'e040', 'acenar']
+getunicode e040
+getunicode hex: e040  unicode: ee8180 
+['\ue83a', 'become_person', 'e83a', 'Tornar-se_pessoa']
+getunicode e83a
+getunicode hex: e83a  unicode: eea0ba 
+['\ue839', 'become_thing', 'e839', 'Tornar-se_uma_coisa']
+getunicode e839
+getunicode hex: e839  unicode: eea0b9 
+['\ue122', 'bed', 'e122', 'cama']
+getunicode e122
+getunicode hex: e122  unicode: ee84a2 
+['\ue335', 'Beelzebul', 'e335', 'Beelzebul']
+getunicode e335
+getunicode hex: e335  unicode: ee8cb5 
+['\ue107', 'before', 'e107', 'antes']
+getunicode e107
+getunicode hex: e107  unicode: ee8487 
+['\ue21e', 'beg', 'e21e', 'implorar']
+getunicode e21e
+getunicode hex: e21e  unicode: ee889e 
+['\ue231', 'beginning', 'e231', 'começar']
+getunicode e231
+getunicode hex: e231  unicode: ee88b1 
+['\ue116', 'behind', 'e116', 'atrás']
+getunicode e116
+getunicode hex: e116  unicode: ee8496 
+['\ue06f', 'believe', 'e06f', 'crer']
+getunicode e06f
+getunicode hex: e06f  unicode: ee81af 
+['\ueb90', 'Believer', 'eb90', 'Crente']
+getunicode eb90
+getunicode hex: eb90  unicode: eeae90 
+['\ue29d', 'belt', 'e29d', 'cinto']
+getunicode e29d
+getunicode hex: e29d  unicode: ee8a9d 
+['\ueb4b', 'Benjamin', 'eb4b', 'Benjamim']
+getunicode eb4b
+getunicode hex: eb4b  unicode: eead8b 
+['\ueda3', 'Beor', 'eda3', 'Beor']
+getunicode eda3
+getunicode hex: eda3  unicode: eeb6a3 
+['\ueb13', 'Berea', 'eb13', 'Bereia']
+getunicode eb13
+getunicode hex: eb13  unicode: eeac93 
+['\ueb9e', 'Bernice', 'eb9e', 'Berenice']
+getunicode eb9e
+getunicode hex: eb9e  unicode: eeae9e 
+['\ue117', 'beside', 'e117', 'ao_lado']
+getunicode e117
+getunicode hex: e117  unicode: ee8497 
+['\ue21f', 'best', 'e21f', 'melhor']
+getunicode e21f
+getunicode hex: e21f  unicode: ee889f 
+['\ue349', 'Bethany', 'e349', 'Beânia']
+getunicode e349
+getunicode hex: e349  unicode: ee8d89 
+['\ueba0', 'Bethesda', 'eba0', 'Betesda']
+getunicode eba0
+getunicode hex: eba0  unicode: eeaea0 
+['\uea45', 'Bethlehem', 'ea45', 'Belém']
+getunicode ea45
+getunicode hex: ea45  unicode: eea985 
+['\ue348', 'Bethphage', 'e348', 'Betfagé']
+getunicode e348
+getunicode hex: e348  unicode: ee8d88 
+['\ue340', 'Bethsaida', 'e340', 'Betsaida']
+getunicode e340
+getunicode hex: e340  unicode: ee8d80 
+['\ue195', 'betray', 'e195', 'trair']
+getunicode e195
+getunicode hex: e195  unicode: ee8695 
+['\ue09e', 'better', 'e09e', 'melhor']
+getunicode e09e
+getunicode hex: e09e  unicode: ee829e 
+['\ue118', 'between', 'e118', 'entre']
+getunicode e118
+getunicode hex: e118  unicode: ee8498 
+['\ue22c', 'Bible', 'e22c', 'Bíblia']
+getunicode e22c
+getunicode hex: e22c  unicode: ee88ac 
+['\ue120', 'big', 'e120', 'grande']
+getunicode e120
+getunicode hex: e120  unicode: ee84a0 
+['\ue25c', 'bird', 'e25c', 'pássaro']
+getunicode e25c
+getunicode hex: e25c  unicode: ee899c 
+['\ue235', 'birth', 'e235', 'nascimento']
+getunicode e235
+getunicode hex: e235  unicode: ee88b5 
+['\ueb48', 'Bithynia', 'eb48', 'Bitínia']
+getunicode eb48
+getunicode hex: eb48  unicode: eead88 
+['\uecd2', 'bitter', 'ecd2', 'amargo']
+getunicode ecd2
+getunicode hex: ecd2  unicode: eeb392 
+['\ueb86', 'black', 'eb86', 'preto']
+getunicode eb86
+getunicode hex: eb86  unicode: eeae86 
+['\ue05b', 'blaspheme', 'e05b', 'blasfemar']
+getunicode e05b
+getunicode hex: e05b  unicode: ee819b 
+['\ueb8d', 'Blastus', 'eb8d', 'Blasto']
+getunicode eb8d
+getunicode hex: eb8d  unicode: eeae8d 
+['\ued01', 'blemish', 'ed01', 'defeito']
+getunicode ed01
+getunicode hex: ed01  unicode: eeb481 
+['\ue05c', 'bless', 'e05c', 'abençoar']
+getunicode e05c
+getunicode hex: e05c  unicode: ee819c 
+['\uea21', 'blessed', 'ea21', 'abençoado']
+getunicode ea21
+getunicode hex: ea21  unicode: eea8a1 
+['\ue192', 'blind', 'e192', 'cego']
+getunicode e192
+getunicode hex: e192  unicode: ee8692 
+['\ue087', 'blood', 'e087', 'sangue']
+getunicode e087
+getunicode hex: e087  unicode: ee8287 
+['\uecda', 'blue', 'ecda', 'azul']
+getunicode ecda
+getunicode hex: ecda  unicode: eeb39a 
+['\ue14b', 'boast', 'e14b', 'alardear']
+getunicode e14b
+getunicode hex: e14b  unicode: ee858b 
+['\ue265', 'boat', 'e265', 'barco']
+getunicode e265
+getunicode hex: e265  unicode: ee89a5 
+['\uea54', 'Boaz', 'ea54', 'Boaz']
+getunicode ea54
+getunicode hex: ea54  unicode: eea994 
+['\ue143', 'body', 'e143', 'corpo']
+getunicode e143
+getunicode hex: e143  unicode: ee8583 
+['\ue0b2', 'bone', 'e0b2', 'osso']
+getunicode e0b2
+getunicode hex: e0b2  unicode: ee82b2 
+['\ue22a', 'book', 'e22a', 'livro']
+getunicode e22a
+getunicode hex: e22a  unicode: ee88aa 
+['\ue119', 'bottom', 'e119', 'fundo']
+getunicode e119
+getunicode hex: e119  unicode: ee8499 
+['\ue210', 'bow', 'e210', 'arco']
+getunicode e210
+getunicode hex: e210  unicode: ee8890 
+['\uecc8', 'bow_arrow', 'ecc8', 'Arco-flecha']
+getunicode ecc8
+getunicode hex: ecc8  unicode: eeb388 
+['\ue384', 'bowl', 'e384', 'taça']
+getunicode e384
+getunicode hex: e384  unicode: ee8e84 
+['\ue29e', 'box', 'e29e', 'caixa']
+getunicode e29e
+getunicode hex: e29e  unicode: ee8a9e 
+['\ue001', 'boy', 'e001', 'menino']
+getunicode e001
+getunicode hex: e001  unicode: ee8081 
+['\ue002', 'boys', 'e002', 'meninos']
+getunicode e002
+getunicode hex: e002  unicode: ee8082 
+['\ue246', 'branch', 'e246', 'ramificar']
+getunicode e246
+getunicode hex: e246  unicode: ee8986 
+['\ue196', 'brave', 'e196', 'valente']
+getunicode e196
+getunicode hex: e196  unicode: ee8696 
+['\ue05d', 'bread', 'e05d', 'pão']
+getunicode e05d
+getunicode hex: e05d  unicode: ee819d 
+['\ue0e1', 'break', 'e0e1', 'partir']
+getunicode e0e1
+getunicode hex: e0e1  unicode: ee83a1 
+['\uecd5', 'breastplate', 'ecd5', 'peitoral']
+getunicode ecd5
+getunicode hex: ecd5  unicode: eeb395 
+['\uecee', 'breath', 'ecee', 'fõlego']
+getunicode ecee
+getunicode hex: ecee  unicode: eeb3ae 
+['\uebdb', 'bribe', 'ebdb', 'subornar']
+getunicode ebdb
+getunicode hex: ebdb  unicode: eeaf9b 
+['\ue015', 'bride', 'e015', 'noiva']
+getunicode e015
+getunicode hex: e015  unicode: ee8095 
+['\ue21b', 'bright', 'e21b', 'brilhante']
+getunicode e21b
+getunicode hex: e21b  unicode: ee889b 
+['\ue088', 'bring', 'e088', 'trazer']
+getunicode e088
+getunicode hex: e088  unicode: ee8288 
+['\ueb2c', 'bronze', 'eb2c', 'bronze']
+getunicode eb2c
+getunicode hex: eb2c  unicode: eeacac 
+['\ue006', 'brother', 'e006', 'irmão']
+getunicode e006
+getunicode hex: e006  unicode: ee8086 
+['\ue007', 'brothers', 'e007', 'irmãos']
+getunicode e007
+getunicode hex: e007  unicode: ee8087 
+['\ue17a', 'build', 'e17a', 'edificar']
+getunicode e17a
+getunicode hex: e17a  unicode: ee85ba 
+['\ue0a1', 'building', 'e0a1', 'edificando']
+getunicode e0a1
+getunicode hex: e0a1  unicode: ee82a1 
+['\uec86', 'burden', 'ec86', 'fardo']
+getunicode ec86
+getunicode hex: ec86  unicode: eeb286 
+['\uecd0', 'burn', 'ecd0', 'queimar']
+getunicode ecd0
+getunicode hex: ecd0  unicode: eeb390 
+['\ue0d7', 'bury', 'e0d7', 'enterrar']
+getunicode e0d7
+getunicode hex: e0d7  unicode: ee8397 
+['\ue11a', 'but', 'e11a', 'porêm']
+getunicode e11a
+getunicode hex: e11a  unicode: ee849a 
+['\ue32a', 'buy', 'e32a', 'comprar']
+getunicode e32a
+getunicode hex: e32a  unicode: ee8caa 
+['\ue370', 'Caesar', 'e370', 'César']
+getunicode e370
+getunicode hex: e370  unicode: ee8db0 
+['\ue346', 'Caesarea', 'e346', 'Cesareia']
+getunicode e346
+getunicode hex: e346  unicode: ee8d86 
+['\uea77', 'Caiaphas', 'ea77', 'Caifás']
+getunicode ea77
+getunicode hex: ea77  unicode: eea9b7 
+['\uec56', 'Cain', 'ec56', 'Caim']
+getunicode ec56
+getunicode hex: ec56  unicode: eeb196 
+['\ue29f', 'camel', 'e29f', 'camelo']
+getunicode e29f
+getunicode hex: e29f  unicode: ee8a9f 
+['\ueba2', 'Cana', 'eba2', 'Caná']
+getunicode eba2
+getunicode hex: eba2  unicode: eeaea2 
+['\ue33d', 'Canaan_land', 'e33d', 'Canaã']
+getunicode e33d
+getunicode hex: e33d  unicode: ee8cbd 
+['\ueb85', 'Candace', 'eb85', 'Candace']
+getunicode eb85
+getunicode hex: eb85  unicode: eeae85 
+['\ue33a', 'Capernaum', 'e33a', 'Cafarnaum']
+getunicode e33a
+getunicode hex: e33a  unicode: ee8cba 
+['\ueb74', 'Cappadocia', 'eb74', 'Capadócia']
+getunicode eb74
+getunicode hex: eb74  unicode: eeadb4 
+['\ue19e', 'careful', 'e19e', 'cuidado']
+getunicode e19e
+getunicode hex: e19e  unicode: ee869e 
+['\ue14f', 'carpenter', 'e14f', 'carpintero']
+getunicode e14f
+getunicode hex: e14f  unicode: ee858f 
+['\uecad', 'Carpus', 'ecad', 'Carpo']
+getunicode ecad
+getunicode hex: ecad  unicode: eeb2ad 
+['\uec87', 'case', 'ec87', 'caso']
+getunicode ec87
+getunicode hex: ec87  unicode: eeb287 
+['\ue115', 'catch', 'e115', 'pegar']
+getunicode e115
+getunicode hex: e115  unicode: ee8495 
+['\uec36', 'Cauda', 'ec36', 'Cauda']
+getunicode ec36
+getunicode hex: ec36  unicode: eeb0b6 
+['\ueb3d', 'Cenchrea', 'eb3d', 'Cencreia']
+getunicode eb3d
+getunicode hex: eb3d  unicode: eeacbd 
+['\ue0b8', 'census', 'e0b8', 'censo']
+getunicode e0b8
+getunicode hex: e0b8  unicode: ee82b8 
+['\ueb7a', 'centurion', 'eb7a', 'centurião']
+getunicode eb7a
+getunicode hex: eb7a  unicode: eeadba 
+['\ue356', 'Cephas', 'e356', 'Cefas']
+getunicode e356
+getunicode hex: e356  unicode: ee8d96 
+['\uec88', 'ceremony', 'ec88', 'cermônia']
+getunicode ec88
+getunicode hex: ec88  unicode: eeb288 
+['\ue298', 'chair', 'e298', 'cadeira']
+getunicode e298
+getunicode hex: e298  unicode: ee8a98 
+['\ueb0e', 'Chaldea', 'eb0e', 'Caldéia']
+getunicode eb0e
+getunicode hex: eb0e  unicode: eeac8e 
+['\ue31e', 'change', 'e31e', 'mundança']
+getunicode e31e
+getunicode hex: e31e  unicode: ee8c9e 
+['\ue230', 'chapter', 'e230', 'capítulo']
+getunicode e230
+getunicode hex: e230  unicode: ee88b0 
+['\uec82', 'chariot', 'ec82', 'carruagem']
+getunicode ec82
+getunicode hex: ec82  unicode: eeb282 
+['\ue200', 'child', 'e200', 'criança']
+getunicode e200
+getunicode hex: e200  unicode: ee8880 
+['\ue201', 'children', 'e201', 'crianças']
+getunicode e201
+getunicode hex: e201  unicode: ee8881 
+['\ueb22', 'Chios', 'eb22', 'Quios']
+getunicode eb22
+getunicode hex: eb22  unicode: eeaca2 
+['\uebe2', 'Chloe', 'ebe2', 'Cloé']
+getunicode ebe2
+getunicode hex: ebe2  unicode: eeafa2 
+['\ue021', 'choose', 'e021', 'escolher']
+getunicode e021
+getunicode hex: e021  unicode: ee80a1 
+['\uea8f', 'Chorazin', 'ea8f', 'Corazim']
+getunicode ea8f
+getunicode hex: ea8f  unicode: eeaa8f 
+['\ue334', 'Christ', 'e334', 'Cristo']
+getunicode e334
+getunicode hex: e334  unicode: ee8cb4 
+['\uebfc', 'church', 'ebfc', 'igreja']
+getunicode ebfc
+getunicode hex: ebfc  unicode: eeafbc 
+['\uec57', 'Chuza', 'ec57', 'Cuza']
+getunicode ec57
+getunicode hex: ec57  unicode: eeb197 
+['\ueb5b', 'Cilicia', 'eb5b', 'Cilícia']
+getunicode eb5b
+getunicode hex: eb5b  unicode: eead9b 
+['\ue250', 'circumcise', 'e250', 'circuncidar']
+getunicode e250
+getunicode hex: e250  unicode: ee8990 
+['\ueb98', 'citizen', 'eb98', 'cidadão']
+getunicode eb98
+getunicode hex: eb98  unicode: eeae98 
+['\uecae', 'Claudia', 'ecae', 'Cláudia']
+getunicode ecae
+getunicode hex: ecae  unicode: eeb2ae 
+['\ueb8a', 'Claudius', 'eb8a', 'Cláudio']
+getunicode eb8a
+getunicode hex: eb8a  unicode: eeae8a 
+['\uebec', 'clay', 'ebec', 'argila']
+getunicode ebec
+getunicode hex: ebec  unicode: eeafac 
+['\ue248', 'clean', 'e248', 'limpo']
+getunicode e248
+getunicode hex: e248  unicode: ee8988 
+['\uece3', 'Clement', 'ece3', 'Clemente']
+getunicode ece3
+getunicode hex: ece3  unicode: eeb3a3 
+['\uec58', 'Cleopas', 'ec58', 'Cleopas']
+getunicode ec58
+getunicode hex: ec58  unicode: eeb198 
+['\uea76', 'cloak', 'ea76', 'capa']
+getunicode ea76
+getunicode hex: ea76  unicode: eea9b6 
+['\uebb5', 'Clopas', 'ebb5', 'Clopas']
+getunicode ebb5
+getunicode hex: ebb5  unicode: eeaeb5 
+['\ue300', 'close', 'e300', 'fechar']
+getunicode e300
+getunicode hex: e300  unicode: ee8c80 
+['\ue23f', 'closed', 'e23f', 'fechado']
+getunicode e23f
+getunicode hex: e23f  unicode: ee88bf 
+['\ue147', 'clothe', 'e147', 'vestir']
+getunicode e147
+getunicode hex: e147  unicode: ee8587 
+['\ue253', 'clothing', 'e253', 'roupas']
+getunicode e253
+getunicode hex: e253  unicode: ee8993 
+['\ue26e', 'cloud', 'e26e', 'nuvem']
+getunicode e26e
+getunicode hex: e26e  unicode: ee89ae 
+['\uec14', 'Cnidus', 'ec14', 'Cnido']
+getunicode ec14
+getunicode hex: ec14  unicode: eeb094 
+['\ue0f2', 'cold', 'e0f2', 'frio']
+getunicode e0f2
+getunicode hex: e0f2  unicode: ee83b2 
+['\ue284', 'color', 'e284', 'Cor']
+getunicode e284
+getunicode hex: e284  unicode: ee8a84 
+['\uece8', 'Colossae', 'ece8', 'Colossa']
+getunicode ece8
+getunicode hex: ece8  unicode: eeb3a8 
+['\ue25a', 'come', 'e25a', 'vir']
+getunicode e25a
+getunicode hex: e25a  unicode: ee899a 
+['\ue243', 'come_out', 'e243', 'sair']
+getunicode e243
+getunicode hex: e243  unicode: ee8983 
+['\uea3b', 'comfort', 'ea3b', 'conforto']
+getunicode ea3b
+getunicode hex: ea3b  unicode: eea8bb 
+['\ue058', 'command', 'e058', 'comando']
+getunicode e058
+getunicode hex: e058  unicode: ee8198 
+['\ue22f', 'commandment', 'e22f', 'mandamento']
+getunicode e22f
+getunicode hex: e22f  unicode: ee88af 
+['\ue01a', 'compassion', 'e01a', 'compaixão']
+getunicode e01a
+getunicode hex: e01a  unicode: ee809a 
+['\uecec', 'complete', 'ecec', 'completo']
+getunicode ecec
+getunicode hex: ecec  unicode: eeb3ac 
+['\uea7f', 'condemn', 'ea7f', 'condenar']
+getunicode ea7f
+getunicode hex: ea7f  unicode: eea9bf 
+['\ue03f', 'confession', 'e03f', 'confissão']
+getunicode e03f
+getunicode hex: e03f  unicode: ee80bf 
+['\ueb08', 'confuse', 'eb08', 'confundir']
+getunicode eb08
+getunicode hex: eb08  unicode: eeac88 
+['\ue049', 'continue', 'e049', 'continuar']
+getunicode e049
+getunicode hex: e049  unicode: ee8189 
+['\ue332', 'control', 'e332', 'controlar']
+getunicode e332
+getunicode hex: e332  unicode: ee8cb2 
+['\uea59', 'Corinth', 'ea59', 'Corinto']
+getunicode ea59
+getunicode hex: ea59  unicode: eea999 
+['\ueb81', 'Cornelius', 'eb81', 'Cornélio']
+getunicode eb81
+getunicode hex: eb81  unicode: eeae81 
+['\ueb83', 'corner', 'eb83', 'esquina']
+getunicode eb83
+getunicode hex: eb83  unicode: eeae83 
+['\ue21c', 'cornerstone', 'e21c', 'A_pedra_angular']
+getunicode e21c
+getunicode hex: e21c  unicode: ee889c 
+['\ue09a', 'correct', 'e09a', 'corrigir']
+getunicode e09a
+getunicode hex: e09a  unicode: ee829a 
+['\uec59', 'Cosam', 'ec59', 'Cosã']
+getunicode ec59
+getunicode hex: ec59  unicode: eeb199 
+['\ueb5f', 'couch', 'eb5f', 'sofá']
+getunicode eb5f
+getunicode hex: eb5f  unicode: eead9f 
+['\ue0f7', 'council', 'e0f7', 'concílio']
+getunicode e0f7
+getunicode hex: e0f7  unicode: ee83b7 
+['\uebc0', 'counted', 'ebc0', 'contado']
+getunicode ebc0
+getunicode hex: ebc0  unicode: eeaf80 
+['\ue0a2', 'country', 'e0a2', 'país']
+getunicode e0a2
+getunicode hex: e0a2  unicode: ee82a2 
+['\ue157', 'countrymen', 'e157', 'compatriotas']
+getunicode e157
+getunicode hex: e157  unicode: ee8597 
+['\ueb96', 'countryside', 'eb96', 'região_rural']
+getunicode eb96
+getunicode hex: eb96  unicode: eeae96 
+['\ue0f6', 'courtyard', 'e0f6', 'pátio']
+getunicode e0f6
+getunicode hex: e0f6  unicode: ee83b6 
+['\ue21d', 'covenant', 'e21d', 'pacto']
+getunicode e21d
+getunicode hex: e21d  unicode: ee889d 
+['\ue39a', 'cover', 'e39a', 'cobrir']
+getunicode e39a
+getunicode hex: e39a  unicode: ee8e9a 
+['\ue022', 'covet', 'e022', 'cobiçar']
+getunicode e022
+getunicode hex: e022  unicode: ee80a2 
+['\ueb36', 'cow', 'eb36', 'vaca']
+getunicode eb36
+getunicode hex: eb36  unicode: eeacb6 
+['\ue076', 'create', 'e076', 'criar']
+getunicode e076
+getunicode hex: e076  unicode: ee81b6 
+['\uebc3', 'creation', 'ebc3', 'criação']
+getunicode ebc3
+getunicode hex: ebc3  unicode: eeaf83 
+['\uec22', 'Creator', 'ec22', 'Criador']
+getunicode ec22
+getunicode hex: ec22  unicode: eeb0a2 
+['\uecaf', 'Crescan', 'ecaf', 'Crescan']
+getunicode ecaf
+getunicode hex: ecaf  unicode: eeb2af 
+['\uec8d', 'Crete', 'ec8d', 'Creta']
+getunicode ec8d
+getunicode hex: ec8d  unicode: eeb28d 
+['\ueb3a', 'Crispus', 'eb3a', 'Crispo']
+getunicode eb3a
+getunicode hex: eb3a  unicode: eeacba 
+['\ueb39', 'crooked', 'eb39', 'torcido']
+getunicode eb39
+getunicode hex: eb39  unicode: eeacb9 
+['\ue038', 'cross', 'e038', 'cruz']
+getunicode e038
+getunicode hex: e038  unicode: ee80b8 
+['\ue128', 'crowd', 'e128', 'multidão']
+getunicode e128
+getunicode hex: e128  unicode: ee84a8 
+['\ueda4', 'crown', 'eda4', 'coroa']
+getunicode eda4
+getunicode hex: eda4  unicode: eeb6a4 
+['\ue03c', 'crucify', 'e03c', 'crucificar']
+getunicode e03c
+getunicode hex: e03c  unicode: ee80bc 
+['\ue146', 'crush', 'e146', 'esmagar']
+getunicode e146
+getunicode hex: e146  unicode: ee8586 
+['\ue20c', 'cry', 'e20c', 'chorar']
+getunicode e20c
+getunicode hex: e20c  unicode: ee888c 
+['\ue274', 'cup', 'e274', 'copo']
+getunicode e274
+getunicode hex: e274  unicode: ee89b4 
+['\ue05a', 'curse', 'e05a', 'maldição']
+getunicode e05a
+getunicode hex: e05a  unicode: ee819a 
+['\ue254', 'curtain', 'e254', 'cortina']
+getunicode e254
+getunicode hex: e254  unicode: ee8994 
+['\uec32', 'Cush', 'ec32', 'Cuxe']
+getunicode ec32
+getunicode hex: ec32  unicode: eeb0b2 
+['\ue26c', 'cushion', 'e26c', 'amortecer']
+getunicode e26c
+getunicode hex: e26c  unicode: ee89ac 
+['\ueb10', 'custom', 'eb10', 'costume']
+getunicode eb10
+getunicode hex: eb10  unicode: eeac90 
+['\ue24e', 'cut', 'e24e', 'cortar']
+getunicode e24e
+getunicode hex: e24e  unicode: ee898e 
+['\uebe3', 'cymbal', 'ebe3', 'címbalo']
+getunicode ebe3
+getunicode hex: ebe3  unicode: eeafa3 
+['\ueb88', 'Cyprus', 'eb88', 'Chipre']
+getunicode eb88
+getunicode hex: eb88  unicode: eeae88 
+['\ueb59', 'Cyrene', 'eb59', 'Cirene']
+getunicode eb59
+getunicode hex: eb59  unicode: eead99 
+['\ue344', 'Dalmanutha', 'e344', 'Dalmanuta']
+getunicode e344
+getunicode hex: e344  unicode: ee8d84 
+['\uecb1', 'Dalmatia', 'ecb1', 'Dalmatía']
+getunicode ecb1
+getunicode hex: ecb1  unicode: eeb2b1 
+['\ueb37', 'Damaris', 'eb37', 'Dâmaris']
+getunicode eb37
+getunicode hex: eb37  unicode: eeacb7 
+['\uec31', 'Damascus', 'ec31', 'Damasco']
+getunicode ec31
+getunicode hex: ec31  unicode: eeb0b1 
+['\ue259', 'dance', 'e259', 'danzar']
+getunicode e259
+getunicode hex: e259  unicode: ee8999 
+['\uea78', 'Daniel', 'ea78', 'Daniel']
+getunicode ea78
+getunicode hex: ea78  unicode: eea9b8 
+['\uea17', 'dark', 'ea17', 'escuro']
+getunicode ea17
+getunicode hex: ea17  unicode: eea897 
+['\ue00c', 'daughter', 'e00c', 'filha']
+getunicode e00c
+getunicode hex: e00c  unicode: ee808c 
+['\ue00d', 'daughters', 'e00d', 'filhas']
+getunicode e00d
+getunicode hex: e00d  unicode: ee808d 
+['\ue35e', 'David', 'e35e', 'Davi']
+getunicode e35e
+getunicode hex: e35e  unicode: ee8d9e 
+['\ue15f', 'day', 'e15f', 'dia']
+getunicode e15f
+getunicode hex: e15f  unicode: ee859f 
+['\ue181', 'dead', 'e181', 'morto']
+getunicode e181
+getunicode hex: e181  unicode: ee8681 
+['\ue191', 'deaf', 'e191', 'surdo']
+getunicode e191
+getunicode hex: e191  unicode: ee8691 
+['\ue33e', 'Decapolis', 'e33e', 'Decápolis']
+getunicode e33e
+getunicode hex: e33e  unicode: ee8cbe 
+['\ue17f', 'deceive', 'e17f', 'enganar']
+getunicode e17f
+getunicode hex: e17f  unicode: ee85bf 
+['\ue152', 'deceiver', 'e152', 'enganador']
+getunicode e152
+getunicode hex: e152  unicode: ee8592 
+['\ue321', 'deep', 'e321', 'profundo']
+getunicode e321
+getunicode hex: e321  unicode: ee8ca1 
+['\uecb2', 'Demes', 'ecb2', 'Demes']
+getunicode ecb2
+getunicode hex: ecb2  unicode: eeb2b2 
+['\ueb1a', 'Demetrius', 'eb1a', 'Demétrio']
+getunicode eb1a
+getunicode hex: eb1a  unicode: eeac9a 
+['\ueb87', 'demon', 'eb87', 'demônio']
+getunicode eb87
+getunicode hex: eb87  unicode: eeae87 
+['\ue165', 'denarius', 'e165', 'denário']
+getunicode e165
+getunicode hex: e165  unicode: ee85a5 
+['\ue0e5', 'deny', 'e0e5', 'negar']
+getunicode e0e5
+getunicode hex: e0e5  unicode: ee83a5 
+['\ueb43', 'Derbe', 'eb43', 'Derbe']
+getunicode eb43
+getunicode hex: eb43  unicode: eead83 
+['\ue317', 'descend', 'e317', 'descer']
+getunicode e317
+getunicode hex: e317  unicode: ee8c97 
+['\ueb60', 'descendant', 'eb60', 'descendente']
+getunicode eb60
+getunicode hex: eb60  unicode: eeada0 
+['\ue156', 'desert', 'e156', 'deserto']
+getunicode e156
+getunicode hex: e156  unicode: ee8596 
+['\ue0f5', 'deserve', 'e0f5', 'merecer']
+getunicode e0f5
+getunicode hex: e0f5  unicode: ee83b5 
+['\ue020', 'desire', 'e020', 'desejo']
+getunicode e020
+getunicode hex: e020  unicode: ee80a0 
+['\ue141', 'destroy', 'e141', 'destruir']
+getunicode e141
+getunicode hex: e141  unicode: ee8581 
+['\uebb6', 'Didymus', 'ebb6', 'Dídimo']
+getunicode ebb6
+getunicode hex: ebb6  unicode: eeaeb6 
+['\uecff', 'different', 'ecff', 'diferente']
+getunicode ecff
+getunicode hex: ecff  unicode: eeb3bf 
+['\ue093', 'difficult', 'e093', 'difícil']
+getunicode e093
+getunicode hex: e093  unicode: ee8293 
+['\ue04b', 'dignify', 'e04b', 'dignificar']
+getunicode e04b
+getunicode hex: e04b  unicode: ee818b 
+['\ueb78', 'Dionysius', 'eb78', 'Dionísio']
+getunicode eb78
+getunicode hex: eb78  unicode: eeadb8 
+['\uec3c', 'Diotrephes', 'ece2', 'Diótrefes']
+getunicode ece2
+getunicode hex: ece2  unicode: eeb3a2 
+['\ue323', 'direction', 'e323', 'direção']
+getunicode e323
+getunicode hex: e323  unicode: ee8ca3 
+['\ue15b', 'dirt', 'e15b', 'sujeira']
+getunicode e15b
+getunicode hex: e15b  unicode: ee859b 
+['\ue249', 'dirty', 'e249', 'sujo']
+getunicode e249
+getunicode hex: e249  unicode: ee8989 
+['\ue142', 'disciple', 'e142', 'discípulo']
+getunicode e142
+getunicode hex: e142  unicode: ee8582 
+['\ueda5', 'discipline', 'eda5', 'disciplina']
+getunicode eda5
+getunicode hex: eda5  unicode: eeb6a5 
+['\ue261', 'discourage', 'e261', 'desencorajar']
+getunicode e261
+getunicode hex: e261  unicode: ee89a1 
+['\ue20a', 'disease', 'e20a', 'doença']
+getunicode e20a
+getunicode hex: e20a  unicode: ee888a 
+['\ue193', 'disobedience', 'e193', 'desobediência']
+getunicode e193
+getunicode hex: e193  unicode: ee8693 
+['\ue326', 'divide', 'e326', 'dividir']
+getunicode e326
+getunicode hex: e326  unicode: ee8ca6 
+['\uea3d', 'divorce', 'ea3d', 'divórcio']
+getunicode ea3d
+getunicode hex: ea3d  unicode: eea8bd 
+['\ue08c', 'do', 'e08c', 'fazer']
+getunicode e08c
+getunicode hex: e08c  unicode: ee828c 
+['\ue144', 'doctor', 'e144', 'médico']
+getunicode e144
+getunicode hex: e144  unicode: ee8584 
+['\ue104', 'dog', 'e104', 'cão']
+getunicode e104
+getunicode hex: e104  unicode: ee8484 
+['\ue032', 'dominion', 'e032', 'domínio']
+getunicode e032
+getunicode hex: e032  unicode: ee80b2 
+['\uea09', 'donkey', 'ea09', 'asno']
+getunicode ea09
+getunicode hex: ea09  unicode: eea889 
+['\ue23e', 'door', 'e23e', 'porta']
+getunicode e23e
+getunicode hex: e23e  unicode: ee88be 
+['\uec2c', 'Dorcas', 'ec2c', 'Dorcas']
+getunicode ec2c
+getunicode hex: ec2c  unicode: eeb0ac 
+['\ue194', 'doubt', 'e194', 'dúvida']
+getunicode e194
+getunicode hex: e194  unicode: ee8694 
+['\uea36', 'dough', 'ea36', 'massa']
+getunicode ea36
+getunicode hex: ea36  unicode: eea8b6 
+['\ue25e', 'dove', 'e25e', 'pomba']
+getunicode e25e
+getunicode hex: e25e  unicode: ee899e 
+['\ue319', 'down', 'e319', 'baixo']
+getunicode e319
+getunicode hex: e319  unicode: ee8c99 
+['\uecdf', 'dragon', 'ecdf', 'dragão']
+getunicode ecdf
+getunicode hex: ecdf  unicode: eeb39f 
+['\uea80', 'dream', 'ea80', 'sonhar']
+getunicode ea80
+getunicode hex: ea80  unicode: eeaa80 
+['\uea8d', 'drunk', 'ea8d', 'bêbado']
+getunicode ea8d
+getunicode hex: ea8d  unicode: eeaa8d 
+['\ueb9c', 'Drusilla', 'eb9c', 'Drusila']
+getunicode eb9c
+getunicode hex: eb9c  unicode: eeae9c 
+['\ue188', 'dry', 'e188', 'seco']
+getunicode e188
+getunicode hex: e188  unicode: ee8688 
+['\ue15d', 'dust', 'e15d', 'poeira']
+getunicode e15d
+getunicode hex: e15d  unicode: ee859d 
+['\uecc9', 'eagle', 'ecc9', 'águia']
+getunicode ecc9
+getunicode hex: ecc9  unicode: eeb389 
+['\ue299', 'ear', 'e299', 'orelha']
+getunicode e299
+getunicode hex: e299  unicode: ee8a99 
+['\ue153', 'earth', 'e153', 'terra']
+getunicode e153
+getunicode hex: e153  unicode: ee8593 
+['\ue159', 'earthquake', 'e159', 'terremoto']
+getunicode e159
+getunicode hex: e159  unicode: ee8599 
+['\uea38', 'east', 'ea38', 'leste']
+getunicode ea38
+getunicode hex: ea38  unicode: eea8b8 
+['\ue092', 'easy', 'e092', 'fácil']
+getunicode e092
+getunicode hex: e092  unicode: ee8292 
+['\ue053', 'eat', 'e053', 'comer']
+getunicode e053
+getunicode hex: e053  unicode: ee8193 
+['\uec5a', 'Eber', 'ec5a', 'Héber']
+getunicode ec5a
+getunicode hex: ec5a  unicode: eeb19a 
+['\uea44', 'Egypt', 'ea44', 'Egito']
+getunicode ea44
+getunicode hex: ea44  unicode: eea984 
+['\ue293', 'eight', 'e293', 'oito']
+getunicode e293
+getunicode hex: e293  unicode: ee8a93 
+['\ueb6d', 'Elam_land', 'eb6d', 'Elão']
+getunicode eb6d
+getunicode hex: eb6d  unicode: eeadad 
+['\ueb62', 'elder', 'eb62', 'anciãos']
+getunicode eb62
+getunicode hex: eb62  unicode: eeada2 
+['\uea70', 'Eleazar', 'ea70', 'Eleazar']
+getunicode ea70
+getunicode hex: ea70  unicode: eea9b0 
+['\uec9f', 'elect', 'ec9f', 'eleger']
+getunicode ec9f
+getunicode hex: ec9f  unicode: eeb29f 
+['\uec44', 'Eli', 'ec44', 'Eli']
+getunicode ec44
+getunicode hex: ec44  unicode: eeb184 
+['\uea6b', 'Eliakim', 'ea6b', 'Eliaquim']
+getunicode ea6b
+getunicode hex: ea6b  unicode: eea9ab 
+['\uec5b', 'Eliezer', 'ec5b', 'Eliézer']
+getunicode ec5b
+getunicode hex: ec5b  unicode: eeb19b 
+['\ue36a', 'Elijah', 'e36a', 'Elias']
+getunicode e36a
+getunicode hex: e36a  unicode: ee8daa 
+['\uec5c', 'Elisha', 'ec5c', 'Eliseu']
+getunicode ec5c
+getunicode hex: ec5c  unicode: eeb19c 
+['\uea6f', 'Eliud', 'ea6f', 'Eliúde']
+getunicode ea6f
+getunicode hex: ea6f  unicode: eea9af 
+['\uec3a', 'Elizabeth', 'ec3a', 'Isabel']
+getunicode ec3a
+getunicode hex: ec3a  unicode: eeb0ba 
+['\uec5d', 'Elmadam', 'ec5d', 'Elmadã']
+getunicode ec5d
+getunicode hex: ec5d  unicode: eeb19d 
+['\uec5e', 'Emmaus', 'ec5e', 'Emaús']
+getunicode ec5e
+getunicode hex: ec5e  unicode: eeb19e 
+['\ueb5d', 'Emmor', 'eb5d', 'Hamor']
+getunicode eb5d
+getunicode hex: eb5d  unicode: eead9d 
+['\ue277', 'empty', 'e277', 'esvaziar']
+getunicode e277
+getunicode hex: e277  unicode: ee89b7 
+['\ue262', 'encourage', 'e262', 'encorajar']
+getunicode e262
+getunicode hex: e262  unicode: ee89a2 
+['\ue232', 'end', 'e232', 'fim']
+getunicode e232
+getunicode hex: e232  unicode: ee88b2 
+['\ue170', 'endure', 'e170', 'durar']
+getunicode e170
+getunicode hex: e170  unicode: ee85b0 
+['\ue025', 'enemy', 'e025', 'inimigo']
+getunicode e025
+getunicode hex: e025  unicode: ee80a5 
+['\ue01b', 'enmity', 'e01b', 'inimizade']
+getunicode e01b
+getunicode hex: e01b  unicode: ee809b 
+['\uec5f', 'Enoch', 'ec5f', 'Enoque']
+getunicode ec5f
+getunicode hex: ec5f  unicode: eeb19f 
+['\uec60', 'Enos', 'ec60', 'Enos']
+getunicode ec60
+getunicode hex: ec60  unicode: eeb1a0 
+['\ue242', 'enter', 'e242', 'entrar']
+getunicode e242
+getunicode hex: e242  unicode: ee8982 
+['\uebc1', 'Epaenetus', 'ebc1', 'Epêneto']
+getunicode ebc1
+getunicode hex: ebc1  unicode: eeaf81 
+['\uece4', 'Epaphras', 'ece4', 'Epafras']
+getunicode ece4
+getunicode hex: ece4  unicode: eeb3a4 
+['\uec0c', 'Ephesus', 'ec0c', 'Éfeso']
+getunicode ec0c
+getunicode hex: ec0c  unicode: eeb08c 
+['\ueba4', 'Ephraim_land', 'eba4', 'Cidade_Efraim']
+getunicode eba4
+getunicode hex: eba4  unicode: eeaea4 
+['\ueba3', 'Ephraim_man', 'eba3', 'Efraim']
+getunicode eba3
+getunicode hex: eba3  unicode: eeaea3 
+['\uec05', 'Epicurean', 'ec05', 'Epicureus']
+getunicode ec05
+getunicode hex: ec05  unicode: eeb085 
+['\ue24b', 'equal', 'e24b', 'igual']
+getunicode e24b
+getunicode hex: e24b  unicode: ee898b 
+['\uec61', 'Er', 'ec61', 'Er']
+getunicode ec61
+getunicode hex: ec61  unicode: eeb1a1 
+['\uec0e', 'Erastus', 'ec0e', 'Erasto']
+getunicode ec0e
+getunicode hex: ec0e  unicode: eeb08e 
+['\uebc2', 'Esau', 'ebc2', 'Esaú']
+getunicode ebc2
+getunicode hex: ebc2  unicode: eeaf82 
+['\uec49', 'Esli', 'ec49', 'Esli']
+getunicode ec49
+getunicode hex: ec49  unicode: eeb189 
+['\uecb3', 'Eubulus', 'ecb3', 'Êubulo']
+getunicode ecb3
+getunicode hex: ecb3  unicode: eeb2b3 
+['\uecb4', 'Eunice', 'ecb4', 'Eunice']
+getunicode ecb4
+getunicode hex: ecb4  unicode: eeb2b4 
+['\ueb8f', 'eunuch', 'eb8f', 'eunuco']
+getunicode eb8f
+getunicode hex: eb8f  unicode: eeae8f 
+['\uec3c', 'Euodia', 'ece5', 'Euodia']
+getunicode ece5
+getunicode hex: ece5  unicode: eeb3a5 
+['\uecd8', 'Euphrates_River', 'ecd8', 'Rio_Eufrates']
+getunicode ecd8
+getunicode hex: ecd8  unicode: eeb398 
+['\ueb1f', 'Eutychus', 'eb1f', 'Êutico']
+getunicode eb1f
+getunicode hex: eb1f  unicode: eeac9f 
+['\ue13f', 'evangelist', 'e13f', 'evangelista']
+getunicode e13f
+getunicode hex: e13f  unicode: ee84bf 
+['\uebeb', 'Eve', 'ebeb', 'evangelista']
+getunicode ebeb
+getunicode hex: ebeb  unicode: eeafab 
+['\ue273', 'evening', 'e273', 'noite']
+getunicode e273
+getunicode hex: e273  unicode: ee89b3 
+['\ue140', 'everyone', 'e140', 'todos']
+getunicode e140
+getunicode hex: e140  unicode: ee8580 
+['\ue114', 'everything', 'e114', 'tudo']
+getunicode e114
+getunicode hex: e114  unicode: ee8494 
+['\ue155', 'everywhere', 'e155', 'em_toda_parte']
+getunicode e155
+getunicode hex: e155  unicode: ee8595 
+['\uecf0', 'example', 'ecf0', 'exemplo']
+getunicode ecf0
+getunicode hex: ecf0  unicode: eeb3b0 
+['\ue059', 'explain', 'e059', 'explicar']
+getunicode e059
+getunicode hex: e059  unicode: ee8199 
+['\ue238', 'eye', 'e238', 'olho']
+getunicode e238
+getunicode hex: e238  unicode: ee88b8 
+['\ue203', 'face', 'e203', 'face']
+getunicode e203
+getunicode hex: e203  unicode: ee8883 
+['\uec18', 'Fair_Haven', 'ec18', 'Refúgio_Justo']
+getunicode ec18
+getunicode hex: ec18  unicode: eeb098 
+['\ue219', 'faithful', 'e219', 'fiel']
+getunicode e219
+getunicode hex: e219  unicode: ee8899 
+['\ue218', 'fall', 'e218', 'cair']
+getunicode e218
+getunicode hex: e218  unicode: ee8898 
+['\ue176', 'family', 'e176', 'família']
+getunicode e176
+getunicode hex: e176  unicode: ee85b6 
+['\ue18d', 'famine', 'e18d', 'fome']
+getunicode e18d
+getunicode hex: e18d  unicode: ee868d 
+['\ue197', 'far', 'e197', 'longe']
+getunicode e197
+getunicode hex: e197  unicode: ee8697 
+['\uec83', 'farewell', 'ec83', 'despedida']
+getunicode ec83
+getunicode hex: ec83  unicode: eeb283 
+['\ueb91', 'farm', 'eb91', 'fazenda']
+getunicode eb91
+getunicode hex: eb91  unicode: eeae91 
+['\ue133', 'farmer', 'e133', 'agricultor']
+getunicode e133
+getunicode hex: e133  unicode: ee84b3 
+['\ue18e', 'fast_no_eat', 'e18e', 'jejuar_não_comer']
+getunicode e18e
+getunicode hex: e18e  unicode: ee868e 
+['\ue21a', 'fast_speed', 'e21a', 'rápida_velocidade']
+getunicode e21a
+getunicode hex: e21a  unicode: ee889a 
+['\uea86', 'fat', 'ea86', 'gordo']
+getunicode ea86
+getunicode hex: ea86  unicode: eeaa86 
+['\ueb11', 'fat_animal', 'eb11', 'graxa_animal']
+getunicode eb11
+getunicode hex: eb11  unicode: eeac91 
+['\ue003', 'father', 'e003', 'pai']
+getunicode e003
+getunicode hex: e003  unicode: ee8083 
+['\ue054', 'feast', 'e054', 'festa']
+getunicode e054
+getunicode hex: e054  unicode: ee8194 
+['\ueb99', 'Felix', 'eb99', 'Félix']
+getunicode eb99
+getunicode hex: eb99  unicode: eeae99 
+['\ue20b', 'festival', 'e20b', 'festival']
+getunicode e20b
+getunicode hex: e20b  unicode: ee888b 
+['\ue19b', 'few', 'e19b', 'poucos']
+getunicode e19b
+getunicode hex: e19b  unicode: ee869b 
+['\ueda2', 'fig', 'eda2', 'figo']
+getunicode eda2
+getunicode hex: eda2  unicode: eeb6a2 
+['\ue278', 'fill', 'e278', 'preencher']
+getunicode e278
+getunicode hex: e278  unicode: ee89b8 
+['\ue101', 'find', 'e101', 'encontrar']
+getunicode e101
+getunicode hex: e101  unicode: ee8481 
+['\ueba5', 'finger', 'eba5', 'dedo']
+getunicode eba5
+getunicode hex: eba5  unicode: eeaea5 
+['\ue301', 'fire', 'e301', 'fogo']
+getunicode e301
+getunicode hex: e301  unicode: ee8c81 
+['\ue233', 'first', 'e233', 'primeiro']
+getunicode e233
+getunicode hex: e233  unicode: ee88b3 
+['\ue263', 'fish', 'e263', 'peixe']
+getunicode e263
+getunicode hex: e263  unicode: ee89a3 
+['\ue264', 'fisherman', 'e264', 'pescador']
+getunicode e264
+getunicode hex: e264  unicode: ee89a4 
+['\ue290', 'five', 'e290', 'cinco']
+getunicode e290
+getunicode hex: e290  unicode: ee8a90 
+['\ue09d', 'fix', 'e09d', 'consertar']
+getunicode e09d
+getunicode hex: e09d  unicode: ee829d 
+['\ue26b', 'flesh', 'e26b', 'carne']
+getunicode e26b
+getunicode hex: e26b  unicode: ee89ab 
+['\ue31d', 'flip', 'e31d', 'sacudir']
+getunicode e31d
+getunicode hex: e31d  unicode: ee8c9d 
+['\uece0', 'flood', 'ece0', 'inundar']
+getunicode ece0
+getunicode hex: ece0  unicode: eeb3a0 
+['\uea35', 'flour', 'ea35', 'farinha']
+getunicode ea35
+getunicode hex: ea35  unicode: eea8b5 
+['\ueb24', 'flower', 'eb24', 'flor']
+getunicode eb24
+getunicode hex: eb24  unicode: eeaca4 
+['\uea8b', 'flute', 'ea8b', 'flauta']
+getunicode ea8b
+getunicode hex: ea8b  unicode: eeaa8b 
+['\ue25b', 'fly', 'e25b', 'voar']
+getunicode e25b
+getunicode hex: e25b  unicode: ee899b 
+['\ue13e', 'follow', 'e13e', 'seguir']
+getunicode e13e
+getunicode hex: e13e  unicode: ee84be 
+['\uea7c', 'fool', 'ea7c', 'tolo']
+getunicode ea7c
+getunicode hex: ea7c  unicode: eea9bc 
+['\ue13d', 'foot', 'e13d', 'pé']
+getunicode e13d
+getunicode hex: e13d  unicode: ee84bd 
+['\ue086', 'for', 'e086', 'para']
+getunicode e086
+getunicode hex: e086  unicode: ee8286 
+['\ue158', 'foreigner', 'e158', 'estrangeiro']
+getunicode e158
+getunicode hex: e158  unicode: ee8598 
+['\ueb79', 'foreknowledge', 'eb79', 'presciência']
+getunicode eb79
+getunicode hex: eb79  unicode: eeadb9 
+['\uec27', 'forest', 'ec27', 'floresta']
+getunicode ec27
+getunicode hex: ec27  unicode: eeb0a7 
+['\ue18f', 'forgive', 'e18f', 'perdoar']
+getunicode e18f
+getunicode hex: e18f  unicode: ee868f 
+['\ueca4', 'Fortunatus', 'eca4', 'Fortunato']
+getunicode eca4
+getunicode hex: eca4  unicode: eeb2a4 
+['\ue318', 'forward', 'e318', 'adiante']
+getunicode e318
+getunicode hex: e318  unicode: ee8c98 
+['\ue179', 'foundation', 'e179', 'fundação']
+getunicode e179
+getunicode hex: e179  unicode: ee85b9 
+['\ue28f', 'four', 'e28f', 'quatro']
+getunicode e28f
+getunicode hex: e28f  unicode: ee8a8f 
+['\uea8a', 'fox', 'ea8a', 'raposa']
+getunicode ea8a
+getunicode hex: ea8a  unicode: eeaa8a 
+['\ue097', 'fragrant', 'e097', 'perfumado']
+getunicode e097
+getunicode hex: e097  unicode: ee8297 
+['\ue260', 'free', 'e260', 'livre']
+getunicode e260
+getunicode hex: e260  unicode: ee89a0 
+['\uebe4', 'free_no_cost', 'ebe4', 'livre_sem_costo']
+getunicode ebe4
+getunicode hex: ebe4  unicode: eeafa4 
+['\uec8e', 'Freedmen', 'ec8e', 'Libertos']
+getunicode ec8e
+getunicode hex: ec8e  unicode: eeb28e 
+['\ue024', 'friend', 'e024', 'amigo']
+getunicode e024
+getunicode hex: e024  unicode: ee80a4 
+['\uecf6', 'frog', 'ecf6', 'rã']
+getunicode ecf6
+getunicode hex: ecf6  unicode: eeb3b6 
+['\ue31a', 'from', 'e31a', 'desde']
+getunicode e31a
+getunicode hex: e31a  unicode: ee8c9a 
+['\ue27e', 'fruit', 'e27e', 'fruta']
+getunicode e27e
+getunicode hex: e27e  unicode: ee89be 
+['\ue0d2', 'fulfill', 'e0d2', 'cumprir']
+getunicode e0d2
+getunicode hex: e0d2  unicode: ee8392 
+['\ue276', 'full', 'e276', 'cheio']
+getunicode e276
+getunicode hex: e276  unicode: ee89b6 
+['\ue190', 'futile', 'e190', 'fútil']
+getunicode e190
+getunicode hex: e190  unicode: ee8690 
+['\ue16e', 'future', 'e16e', 'futuro']
+getunicode e16e
+getunicode hex: e16e  unicode: ee85ae 
+['\uec39', 'Gabriel', 'ec39', 'Gabriel']
+getunicode ec39
+getunicode hex: ec39  unicode: eeb0b9 
+['\uecbd', 'Gad', 'ecbd', 'Gade']
+getunicode ecbd
+getunicode hex: ecbd  unicode: eeb2bd 
+['\ue33f', 'Gadara', 'e33f', 'Gadara']
+getunicode e33f
+getunicode hex: e33f  unicode: ee8cbf 
+['\ue1a3', 'gain', 'e1a3', 'ganho']
+getunicode e1a3
+getunicode hex: e1a3  unicode: ee86a3 
+['\uec0f', 'Gaius', 'ec0f', 'Gaio']
+getunicode ec0f
+getunicode hex: ec0f  unicode: eeb08f 
+['\ueb46', 'Galatia', 'eb46', 'Galácia']
+getunicode eb46
+getunicode hex: eb46  unicode: eead86 
+['\ue337', 'Galilee', 'e337', 'Galileia']
+getunicode e337
+getunicode hex: e337  unicode: ee8cb7 
+['\ueb3b', 'Gallio', 'eb3b', 'Gálio']
+getunicode eb3b
+getunicode hex: eb3b  unicode: eeacbb 
+['\ueb4d', 'Gamaliel', 'eb4d', 'Gamaliel']
+getunicode eb4d
+getunicode hex: eb4d  unicode: eead8d 
+['\ue289', 'gate', 'e289', 'portão']
+getunicode e289
+getunicode hex: e289  unicode: ee8a89 
+['\ue126', 'gathered_people', 'e126', 'pessoas_reunidas']
+getunicode e126
+getunicode hex: e126  unicode: ee84a6 
+['\ue108', 'gathered_things', 'e108', 'coisas_reunidas']
+getunicode e108
+getunicode hex: e108  unicode: ee8488 
+['\ueb7f', 'Gaza', 'eb7f', 'Gaza']
+getunicode eb7f
+getunicode hex: eb7f  unicode: eeadbf 
+['\ue019', 'generation', 'e019', 'generação']
+getunicode e019
+getunicode hex: e019  unicode: ee8099 
+['\ue341', 'Gennesaret', 'e341', 'Genesaré']
+getunicode e341
+getunicode hex: e341  unicode: ee8d81 
+['\ue26d', 'gentle', 'e26d', 'amável']
+getunicode e26d
+getunicode hex: e26d  unicode: ee89ad 
+['\ue34a', 'Gethsemane', 'e34a', 'Getsêmani']
+getunicode e34a
+getunicode hex: e34a  unicode: ee8d8a 
+['\ued03', 'Gideon', 'ed03', 'Gideão']
+getunicode ed03
+getunicode hex: ed03  unicode: eeb483 
+['\ue072', 'gift', 'e072', 'presente']
+getunicode e072
+getunicode hex: e072  unicode: ee81b2 
+['\ue009', 'girl', 'e009', 'menina']
+getunicode e009
+getunicode hex: e009  unicode: ee8089 
+['\ue00a', 'girls', 'e00a', 'meninas']
+getunicode e00a
+getunicode hex: e00a  unicode: ee808a 
+['\uecde', 'glass', 'ecde', 'vidro']
+getunicode ecde
+getunicode hex: ecde  unicode: eeb39e 
+['\ue217', 'glorify', 'e217', 'glorificar']
+getunicode e217
+getunicode hex: e217  unicode: ee8897 
+['\uea8c', 'gluttony', 'ea8c', 'glutonaria']
+getunicode ea8c
+getunicode hex: ea8c  unicode: eeaa8c 
+['\ue381', 'go', 'e381', 'ir']
+getunicode e381
+getunicode hex: e381  unicode: ee8e81 
+['\ue080', 'go_down', 'e080', 'descer']
+getunicode e080
+getunicode hex: e080  unicode: ee8280 
+['\uea7d', 'goat', 'ea7d', 'bode']
+getunicode ea7d
+getunicode hex: ea7d  unicode: eea9bd 
+['\ue036', 'God', 'e036', 'Deus']
+getunicode e036
+getunicode hex: e036  unicode: ee80b6 
+['\ue130', 'godly', 'e130', 'piedoso']
+getunicode e130
+getunicode hex: e130  unicode: ee84b0 
+['\uecf7', 'Gog', 'ecf7', 'Gogue']
+getunicode ecf7
+getunicode hex: ecf7  unicode: eeb3b7 
+['\ueb2a', 'gold', 'eb2a', 'ouro']
+getunicode eb2a
+getunicode hex: eb2a  unicode: eeacaa 
+['\ue34b', 'Golgotha', 'e34b', 'Gólgota']
+getunicode e34b
+getunicode hex: e34b  unicode: ee8d8b 
+['\uea7a', 'Gomorrah', 'ea7a', 'Gomorra']
+getunicode ea7a
+getunicode hex: ea7a  unicode: eea9ba 
+['\uebe5', 'gong', 'ebe5', 'gongo']
+getunicode ebe5
+getunicode hex: ebe5  unicode: eeafa5 
+['\ue096', 'good', 'e096', 'bom']
+getunicode e096
+getunicode hex: e096  unicode: ee8296 
+['\ue22b', 'good_news', 'e22b', 'boas_novas']
+getunicode e22b
+getunicode hex: e22b  unicode: ee88ab 
+['\ue0a3', 'governor', 'e0a3', 'governador']
+getunicode e0a3
+getunicode hex: e0a3  unicode: ee82a3 
+['\ue01f', 'grace', 'e01f', 'graça']
+getunicode e01f
+getunicode hex: e01f  unicode: ee809f 
+['\ue279', 'grain', 'e279', 'grão']
+getunicode e279
+getunicode hex: e279  unicode: ee89b9 
+['\uecf4', 'grape', 'ecf4', 'uva']
+getunicode ecf4
+getunicode hex: ecf4  unicode: eeb3b4 
+['\uea33', 'grass', 'ea33', 'grama']
+getunicode ea33
+getunicode hex: ea33  unicode: eea8b3 
+['\ue20e', 'grateful', 'e20e', 'grato']
+getunicode e20e
+getunicode hex: e20e  unicode: ee888e 
+['\ue178', 'grave', 'e178', 'sepultar']
+getunicode e178
+getunicode hex: e178  unicode: ee85b8 
+['\ue345', 'Greece', 'e345', 'Grécia']
+getunicode e345
+getunicode hex: e345  unicode: ee8d85 
+['\uea94', 'greed', 'ea94', 'cobiça']
+getunicode ea94
+getunicode hex: ea94  unicode: eeaa94 
+['\uecd1', 'green', 'ecd1', 'verde']
+getunicode ecd1
+getunicode hex: ecd1  unicode: eeb391 
+['\ue051', 'greeting', 'e051', 'saudação']
+getunicode e051
+getunicode hex: e051  unicode: ee8191 
+['\ue207', 'grieve', 'e207', 'entristecer']
+getunicode e207
+getunicode hex: e207  unicode: ee8887 
+['\ue83d', 'grind', 'e83d', 'moer']
+getunicode e83d
+getunicode hex: e83d  unicode: eea0bd 
+['\ue013', 'groom', 'e013', 'noivo']
+getunicode e013
+getunicode hex: e013  unicode: ee8093 
+['\ue154', 'grow', 'e154', 'crescer']
+getunicode e154
+getunicode hex: e154  unicode: ee8594 
+['\ue0c1', 'guard', 'e0c1', 'guarda']
+getunicode e0c1
+getunicode hex: e0c1  unicode: ee8381 
+['\uea84', 'guilt', 'ea84', 'culpa']
+getunicode ea84
+getunicode hex: ea84  unicode: eeaa84 
+['\uecab', 'Hagar', 'ecab', 'Agar']
+getunicode ecab
+getunicode hex: ecab  unicode: eeb2ab 
+['\uea13', 'hail', 'ea13', 'saraiva']
+getunicode ea13
+getunicode hex: ea13  unicode: eea893 
+['\uecdd', 'hail_storm', 'ecdd', 'tormenta_granizo']
+getunicode ecdd
+getunicode hex: ecdd  unicode: eeb39d 
+['\ue208', 'hair', 'e208', 'cabelo']
+getunicode e208
+getunicode hex: e208  unicode: ee8888 
+['\uea22', 'half', 'ea22', 'metade']
+getunicode ea22
+getunicode hex: ea22  unicode: eea8a2 
+['\ue071', 'hand', 'e071', 'mão']
+getunicode e071
+getunicode hex: e071  unicode: ee81b1 
+['\ue205', 'happy', 'e205', 'feliz']
+getunicode e205
+getunicode hex: e205  unicode: ee8885 
+['\ueb0b', 'Haran_land', 'eb0b', 'Harã']
+getunicode eb0b
+getunicode hex: eb0b  unicode: eeac8b 
+['\ue269', 'hard', 'e269', 'difícil']
+getunicode e269
+getunicode hex: e269  unicode: ee89a9 
+['\uecfc', 'harlot', 'ecfc', 'prostituta']
+getunicode ecfc
+getunicode hex: ecfc  unicode: eeb3bc 
+['\uecc6', 'harp', 'ecc6', 'harpa']
+getunicode ecc6
+getunicode hex: ecc6  unicode: eeb386 
+['\ueca7', 'harsh', 'eca7', 'áspero']
+getunicode eca7
+getunicode hex: eca7  unicode: eeb2a7 
+['\ue082', 'harvest', 'e082', 'colheita']
+getunicode e082
+getunicode hex: e082  unicode: ee8282 
+['\ue139', 'harvester', 'e139', 'segador']
+getunicode e139
+getunicode hex: e139  unicode: ee84b9 
+['\ue083', 'have', 'e083', 'ter']
+getunicode e083
+getunicode hex: e083  unicode: ee8283 
+['\ue07f', 'have_to', 'e07f', 'tem_que']
+getunicode e07f
+getunicode hex: e07f  unicode: ee81bf 
+['\ue206', 'head', 'e206', 'cabeça']
+getunicode e206
+getunicode hex: e206  unicode: ee8886 
+['\ue084', 'heal', 'e084', 'curar']
+getunicode e084
+getunicode hex: e084  unicode: ee8284 
+['\ue209', 'health', 'e209', 'cura']
+getunicode e209
+getunicode hex: e209  unicode: ee8889 
+['\ue29a', 'heart', 'e29a', 'coração']
+getunicode e29a
+getunicode hex: e29a  unicode: ee8a9a 
+['\ue380', 'heaven', 'e380', 'céu']
+getunicode e380
+getunicode hex: e380  unicode: ee8e80 
+['\ue0e7', 'heavy', 'e0e7', 'pesado']
+getunicode e0e7
+getunicode hex: e0e7  unicode: ee83a7 
+['\uec8f', 'Hebrew', 'ec8f', 'Hebreus']
+getunicode ec8f
+getunicode hex: ec8f  unicode: eeb28f 
+['\ue28a', 'hedge', 'e28a', 'cerca']
+getunicode e28a
+getunicode hex: e28a  unicode: ee8a8a 
+['\uecc1', 'height', 'ecc1', 'altura']
+getunicode ecc1
+getunicode hex: ecc1  unicode: eeb381 
+['\ue018', 'heir', 'e018', 'herdeiro']
+getunicode e018
+getunicode hex: e018  unicode: ee8098 
+['\ue0d1', 'hell', 'e0d1', 'inferno']
+getunicode e0d1
+getunicode hex: e0d1  unicode: ee8391 
+['\ue13a', 'help', 'e13a', 'ajudar']
+getunicode e13a
+getunicode hex: e13a  unicode: ee84ba 
+['\ue212', 'here', 'e212', 'aqui']
+getunicode e212
+getunicode hex: e212  unicode: ee8892 
+['\uebc4', 'Hermas', 'ebc4', 'Hermas']
+getunicode ebc4
+getunicode hex: ebc4  unicode: eeaf84 
+['\ueb2f', 'Hermes_idol', 'eb2f', 'Hermes_ídolo']
+getunicode eb2f
+getunicode hex: eb2f  unicode: eeacaf 
+['\uebed', 'Hermes_man', 'ebed', 'Hermes']
+getunicode ebed
+getunicode hex: ebed  unicode: eeafad 
+['\uecb5', 'Hermogenes', 'ecb5', 'Hermógenes']
+getunicode ecb5
+getunicode hex: ecb5  unicode: eeb2b5 
+['\ue360', 'Herod', 'e360', 'Herodes']
+getunicode e360
+getunicode hex: e360  unicode: ee8da0 
+['\uea05', 'Herodians', 'ea05', 'Herodianos']
+getunicode ea05
+getunicode hex: ea05  unicode: eea885 
+['\ue355', 'Herodias', 'e355', 'Herodias']
+getunicode e355
+getunicode hex: e355  unicode: ee8d95 
+['\uebf1', 'Herodion', 'ebf1', 'Herodião']
+getunicode ebf1
+getunicode hex: ebf1  unicode: eeafb1 
+['\uea62', 'Hezekiah', 'ea62', 'Ezequias']
+getunicode ea62
+getunicode hex: ea62  unicode: eea9a2 
+['\uea4f', 'Hezron', 'ea4f', 'Hezrom']
+getunicode ea4f
+getunicode hex: ea4f  unicode: eea98f 
+['\ue085', 'hide', 'e085', 'esconder']
+getunicode e085
+getunicode hex: e085  unicode: ee8285 
+['\uece9', 'Hierapolis', 'ece9', 'Hierápolis']
+getunicode ece9
+getunicode hex: ece9  unicode: eeb3a9 
+['\ue202', 'hill', 'e202', 'monte']
+getunicode e202
+getunicode hex: e202  unicode: ee8882 
+['\ue13b', 'hire', 'e13b', 'contratar']
+getunicode e13b
+getunicode hex: e13b  unicode: ee84bb 
+['\ue302', 'hole', 'e302', 'orifício']
+getunicode e302
+getunicode hex: e302  unicode: ee8c82 
+['\ue13c', 'holy', 'e13c', 'santo']
+getunicode e13c
+getunicode hex: e13c  unicode: ee84bc 
+['\ue052', 'honey', 'e052', 'mel']
+getunicode e052
+getunicode hex: e052  unicode: ee8192 
+['\ue031', 'honor', 'e031', 'honra']
+getunicode e031
+getunicode hex: e031  unicode: ee80b1 
+['\ue213', 'hope', 'e213', 'esperança']
+getunicode e213
+getunicode hex: e213  unicode: ee8893 
+['\uecc5', 'horn', 'ecc5', 'chifre']
+getunicode ecc5
+getunicode hex: ecc5  unicode: eeb385 
+['\ue303', 'horse', 'e303', 'cabalo']
+getunicode e303
+getunicode hex: e303  unicode: ee8c83 
+['\ue216', 'hosanna', 'e216', 'Hosana']
+getunicode e216
+getunicode hex: e216  unicode: ee8896 
+['\uebc5', 'Hosea', 'ebc5', 'Oseias']
+getunicode ebc5
+getunicode hex: ebc5  unicode: eeaf85 
+['\ue331', 'hour', 'e331', 'hora']
+getunicode e331
+getunicode hex: e331  unicode: ee8cb1 
+['\ue171', 'house', 'e171', 'casa']
+getunicode e171
+getunicode hex: e171  unicode: ee85b1 
+['\ue068', 'how', 'e068', 'como']
+getunicode e068
+getunicode hex: e068  unicode: ee81a8 
+['\ue83c', 'how_long', 'e83c', 'quanto_tempo']
+getunicode e83c
+getunicode hex: e83c  unicode: eea0bc 
+['\ue23d', 'human_nature', 'e23d', 'natureza_humana']
+getunicode e23d
+getunicode hex: e23d  unicode: ee88bd 
+['\ue19d', 'humble', 'e19d', 'humilde']
+getunicode e19d
+getunicode hex: e19d  unicode: ee869d 
+['\ue065', 'humiliate', 'e065', 'humilhar']
+getunicode e065
+getunicode hex: e065  unicode: ee81a5 
+['\ue01e', 'hungry', 'e01e', 'faminto']
+getunicode e01e
+getunicode hex: e01e  unicode: ee809e 
+['\ue24f', 'hurt', 'e24f', 'ferir']
+getunicode e24f
+getunicode hex: e24f  unicode: ee898f 
+['\ue012', 'husband', 'e012', 'esposo']
+getunicode e012
+getunicode hex: e012  unicode: ee8092 
+['\uecaa', 'Hymenaeus', 'ecaa', 'Himeneu']
+getunicode ecaa
+getunicode hex: ecaa  unicode: eeb2aa 
+['\ue0e3', 'hymn', 'e0e3', 'hino']
+getunicode e0e3
+getunicode hex: e0e3  unicode: ee83a3 
+['\ue166', 'I', 'e166', 'I']
+getunicode e166
+getunicode hex: e166  unicode: ee85a6 
+['\uec1f', 'Iconium', 'ec1f', 'Icônio']
+getunicode ec1f
+getunicode hex: ec1f  unicode: eeb09f 
+['\ue35d', 'idol', 'e35d', 'ídolo']
+getunicode e35d
+getunicode hex: e35d  unicode: ee8d9d 
+['\ue378', 'Idumea', 'e378', 'Idumeia']
+getunicode e378
+getunicode hex: e378  unicode: ee8db8 
+['\ue111', 'if', 'e111', 'se']
+getunicode e111
+getunicode hex: e111  unicode: ee8491 
+['\ue06e', 'ignorance', 'e06e', 'ignorância']
+getunicode e06e
+getunicode hex: e06e  unicode: ee81ae 
+['\uebc6', 'Illyricum', 'ebc6', 'Ilírico']
+getunicode ebc6
+getunicode hex: ebc6  unicode: eeaf86 
+['\ue18c', 'immeasurable', 'e18c', 'imensurável']
+getunicode e18c
+getunicode hex: e18c  unicode: ee868c 
+['\ue215', 'immediately', 'e215', 'imediatamente']
+getunicode e215
+getunicode hex: e215  unicode: ee8895 
+['\uebe7', 'important', 'ebe7', 'importante']
+getunicode ebe7
+getunicode hex: ebe7  unicode: eeafa7 
+['\ue180', 'impossible', 'e180', 'impossível']
+getunicode e180
+getunicode hex: e180  unicode: ee8680 
+['\ue240', 'in', 'e240', 'em']
+getunicode e240
+getunicode hex: e240  unicode: ee8980 
+['\ue112', 'in_front', 'e112', 'em_frente']
+getunicode e112
+getunicode hex: e112  unicode: ee8492 
+['\uec98', 'incense', 'ec98', 'incenso']
+getunicode ec98
+getunicode hex: ec98  unicode: eeb298 
+['\ue017', 'inheritance', 'e017', 'herança']
+getunicode e017
+getunicode hex: e017  unicode: ee8097 
+['\ue304', 'insect', 'e304', 'inseto']
+getunicode e304
+getunicode hex: e304  unicode: ee8c84 
+['\ueb29', 'iron', 'eb29', 'ferro']
+getunicode eb29
+getunicode hex: eb29  unicode: eeaca9 
+['\ue374', 'Isaac', 'e374', 'Isaque']
+getunicode e374
+getunicode hex: e374  unicode: ee8db4 
+['\ue372', 'Isaiah', 'e372', 'Isaías']
+getunicode e372
+getunicode hex: e372  unicode: ee8db2 
+['\ueb05', 'island', 'eb05', 'ilha']
+getunicode eb05
+getunicode hex: eb05  unicode: eeac85 
+['\uea04', 'Israel', 'ea04', 'Israel']
+getunicode ea04
+getunicode hex: ea04  unicode: eea884 
+['\uecce', 'Issachar', 'ecce', 'Issacar']
+getunicode ecce
+getunicode hex: ecce  unicode: eeb38e 
+['\uec90', 'Italy', 'ec90', 'Itália']
+getunicode ec90
+getunicode hex: ec90  unicode: eeb290 
+['\uec3e', 'Ituraea', 'ec3e', 'Itureia']
+getunicode ec3e
+getunicode hex: ec3e  unicode: eeb0be 
+['\ue375', 'Jacob', 'e375', 'Jacó']
+getunicode e375
+getunicode hex: e375  unicode: ee8db5 
+['\ue367', 'Jairus', 'e367', 'Jairo']
+getunicode e367
+getunicode hex: e367  unicode: ee8da7 
+['\uecbc', 'Jambres', 'ecbc', 'Jambres']
+getunicode ecbc
+getunicode hex: ecbc  unicode: eeb2bc 
+['\ue376', 'James', 'e358', 'Tiago']
+getunicode e358
+getunicode hex: e358  unicode: ee8d98 
+['\ue358', 'James_the_Disciple', 'e376', 'Tiago_o_Discípulo']
+getunicode e376
+getunicode hex: e376  unicode: ee8db6 
+['\uec46', 'Jannai', 'ec46', 'Janai']
+getunicode ec46
+getunicode hex: ec46  unicode: eeb186 
+['\uecbe', 'Jannes', 'ecbe', 'Janes']
+getunicode ecbe
+getunicode hex: ecbe  unicode: eeb2be 
+['\ue0d5', 'jar', 'e0d5', 'jarra']
+getunicode e0d5
+getunicode hex: e0d5  unicode: ee8395 
+['\uec62', 'Jared', 'ec62', 'Jarede']
+getunicode ec62
+getunicode hex: ec62  unicode: eeb1a2 
+['\ueb03', 'Jason', 'eb64', 'Janom']
+getunicode eb64
+getunicode hex: eb64  unicode: eeada4 
+['\uea66', 'Jechoniah', 'ea66', 'Jeconias']
+getunicode ea66
+getunicode hex: ea66  unicode: eea9a6 
+['\uea5d', 'Jehoshaphat', 'ea5d', 'Josafá']
+getunicode ea5d
+getunicode hex: ea5d  unicode: eea99d 
+['\ued04', 'Jephthah', 'ed04', 'Jefté']
+getunicode ed04
+getunicode hex: ed04  unicode: eeb484 
+['\uea28', 'Jeremiah', 'ea28', 'Jeremias']
+getunicode ea28
+getunicode hex: ea28  unicode: eea8a8 
+['\uea08', 'Jericho', 'ea08', 'Jericó']
+getunicode ea08
+getunicode hex: ea08  unicode: eea888 
+['\ue338', 'Jerusalem', 'e338', 'Jerusalém']
+getunicode e338
+getunicode hex: e338  unicode: ee8cb8 
+['\uea58', 'Jesse', 'ea58', 'Jessé']
+getunicode ea58
+getunicode hex: ea58  unicode: eea998 
+['\ue037', 'Jesus', 'e037', 'Jesus']
+getunicode e037
+getunicode hex: e037  unicode: ee80b7 
+['\ueb03', 'Jesus_not_Christ', 'eb03', 'Jesus_não_Cristo']
+getunicode eb03
+getunicode hex: eb03  unicode: eeac83 
+['\ue0f9', 'Jew', 'e0f9', 'Judeus']
+getunicode e0f9
+getunicode hex: e0f9  unicode: ee83b9 
+['\ueca2', 'Jezebel', 'eca2', 'Jezabel']
+getunicode eca2
+getunicode hex: eca2  unicode: eeb2a2 
+['\uec4c', 'Joanan', 'ec4c', 'Joanã']
+getunicode ec4c
+getunicode hex: ec4c  unicode: eeb18c 
+['\uec63', 'Joanna', 'ec63', 'Joana']
+getunicode ec63
+getunicode hex: ec63  unicode: eeb1a3 
+['\ued0b', 'Job', 'ed0b', 'Jó']
+getunicode ed0b
+getunicode hex: ed0b  unicode: eeb48b 
+['\uec92', 'Joel', 'ec92', 'Joel']
+getunicode ec92
+getunicode hex: ec92  unicode: eeb292 
+['\ue35a', 'John', 'e35a', 'João']
+getunicode e35a
+getunicode hex: e35a  unicode: ee8d9a 
+['\ue336', 'John_the_Baptist', 'e336', 'João_o_Batista']
+getunicode e336
+getunicode hex: e336  unicode: ee8cb6 
+['\ue0c5', 'Jonah', 'e0c5', 'Jonas']
+getunicode e0c5
+getunicode hex: e0c5  unicode: ee8385 
+['\uea29', 'Jonah_Simons_father', 'ea29', 'Jonas_pai_Simão']
+getunicode ea29
+getunicode hex: ea29  unicode: eea8a9 
+['\uec9b', 'Jonam', 'ec9b', 'Jonã']
+getunicode ec9b
+getunicode hex: ec9b  unicode: eeb29b 
+['\uec2d', 'Joppa', 'ec2d', 'Jope']
+getunicode ec2d
+getunicode hex: ec2d  unicode: eeb0ad 
+['\uea5e', 'Joram', 'ea5e', 'Jorão']
+getunicode ea5e
+getunicode hex: ea5e  unicode: eea99e 
+['\ue34f', 'Jordan_River', 'e34f', 'Rio_Jordão']
+getunicode e34f
+getunicode hex: e34f  unicode: ee8d8f 
+['\uec64', 'Jorim', 'ec64', 'Jorim']
+getunicode ec64
+getunicode hex: ec64  unicode: eeb1a4 
+['\uea15', 'Joseph', 'ea15', 'José']
+getunicode ea15
+getunicode hex: ea15  unicode: eea895 
+['\ue369', 'Joses', 'e369', 'José']
+getunicode e369
+getunicode hex: e369  unicode: ee8da9 
+['\uea65', 'Josiah', 'ea65', 'Josias']
+getunicode ea65
+getunicode hex: ea65  unicode: eea9a5 
+['\ueb82', 'Jotham', 'eb82', 'Jotão']
+getunicode eb82
+getunicode hex: eb82  unicode: eeae82 
+['\uea60', 'Jothan', 'ea60', 'Jothan']
+getunicode ea60
+getunicode hex: ea60  unicode: eea9a0 
+['\ue368', 'Juda', 'e368', 'Judas']
+getunicode e368
+getunicode hex: e368  unicode: ee8da8 
+['\uea4b', 'Judah', 'ea4b', 'Judá']
+getunicode ea4b
+getunicode hex: ea4b  unicode: eea98b 
+['\ue365', 'Judas_Iscariot', 'e365', 'Judas_Iscariotes']
+getunicode e365
+getunicode hex: e365  unicode: ee8da5 
+['\ue339', 'Judea', 'e339', 'Judeia']
+getunicode e339
+getunicode hex: e339  unicode: ee8cb9 
+['\ue1a2', 'judge', 'e1a2', 'juíz']
+getunicode e1a2
+getunicode hex: e1a2  unicode: ee86a2 
+['\uebc7', 'Julia', 'ebc7', 'Júlia']
+getunicode ebc7
+getunicode hex: ebc7  unicode: eeaf87 
+['\uec07', 'Julius', 'ec07', 'Júlio']
+getunicode ec07
+getunicode hex: ec07  unicode: eeb087 
+['\ued0a', 'jump', 'ed0a', 'saltar']
+getunicode ed0a
+getunicode hex: ed0a  unicode: eeb48a 
+['\uebc8', 'Junia', 'ebc8', 'Júnias']
+getunicode ebc8
+getunicode hex: ebc8  unicode: eeaf88 
+['\uea25', 'justice', 'ea25', 'justiça']
+getunicode ea25
+getunicode hex: ea25  unicode: eea8a5 
+['\ueb4f', 'justify', 'eb4f', 'justificar']
+getunicode eb4f
+getunicode hex: eb4f  unicode: eead8f 
+['\ueb6a', 'Justus', 'eb6a', 'Justo']
+getunicode eb6a
+getunicode hex: eb6a  unicode: eeadaa 
+['\ue099', 'keep', 'e099', 'manter']
+getunicode e099
+getunicode hex: e099  unicode: ee8299 
+['\uea9d', 'key', 'ea9d', 'chave']
+getunicode ea9d
+getunicode hex: ea9d  unicode: eeaa9d 
+['\ueba6', 'Kidron_Valley', 'eba6', 'Vale_Cedrom']
+getunicode eba6
+getunicode hex: eba6  unicode: eeaea6 
+['\ue01c', 'kind_nice', 'e01c', 'amável__gentil']
+getunicode e01c
+getunicode hex: e01c  unicode: ee809c 
+['\ued00', 'kind_same', 'ed00', 'amável_mesmo']
+getunicode ed00
+getunicode hex: ed00  unicode: eeb480 
+['\ue028', 'king', 'e028', 'rei']
+getunicode e028
+getunicode hex: e028  unicode: ee80a8 
+['\ue02f', 'kingdom', 'e02f', 'reino']
+getunicode e02f
+getunicode hex: e02f  unicode: ee80af 
+['\ueb49', 'Kish', 'eb49', 'Quis']
+getunicode eb49
+getunicode hex: eb49  unicode: eead89 
+['\ue0e8', 'kiss', 'e0e8', 'beijo']
+getunicode e0e8
+getunicode hex: e0e8  unicode: ee83a8 
+['\ue138', 'kneel', 'e138', 'ajoelhar']
+getunicode e138
+getunicode hex: e138  unicode: ee84b8 
+['\ueb8b', 'knock', 'eb8b', 'bater']
+getunicode eb8b
+getunicode hex: eb8b  unicode: eeae8b 
+['\ue30e', 'knot', 'e30e', 'atar']
+getunicode e30e
+getunicode hex: e30e  unicode: ee8c8e 
+['\ue062', 'know', 'e062', 'conhecer']
+getunicode e062
+getunicode hex: e062  unicode: ee81a2 
+['\uecf3', 'Korah', 'ecf3', 'Corá']
+getunicode ecf3
+getunicode hex: ecf3  unicode: eeb3b3 
+['\uec65', 'lake', 'ec65', 'lago']
+getunicode ec65
+getunicode hex: ec65  unicode: eeb1a5 
+['\uec66', 'Lamech', 'ec66', 'Lameque']
+getunicode ec66
+getunicode hex: ec66  unicode: eeb1a6 
+['\ue164', 'lamp', 'e164', 'lámpada']
+getunicode e164
+getunicode hex: e164  unicode: ee85a4 
+['\ue281', 'lampstand', 'e281', 'candelabro']
+getunicode e281
+getunicode hex: e281  unicode: ee8a81 
+['\uea23', 'language', 'ea23', 'língua']
+getunicode ea23
+getunicode hex: ea23  unicode: eea8a3 
+['\uebf9', 'Laodicea', 'ebf9', 'Laodiceia']
+getunicode ebf9
+getunicode hex: ebf9  unicode: eeafb9 
+['\uec16', 'Lasea', 'ec16', 'Lasea']
+getunicode ec16
+getunicode hex: ec16  unicode: eeb096 
+['\ue234', 'last', 'e234', 'última']
+getunicode e234
+getunicode hex: e234  unicode: ee88b4 
+['\ue225', 'late', 'e225', 'tarde']
+getunicode e225
+getunicode hex: e225  unicode: ee88a5 
+['\ueba8', 'Latin', 'eba8', 'Latim']
+getunicode eba8
+getunicode hex: eba8  unicode: eeaea8 
+['\ue224', 'laugh', 'e224', 'rir']
+getunicode e224
+getunicode hex: e224  unicode: ee88a4 
+['\ue08f', 'lawlessness', 'e08f', 'ilegalidade']
+getunicode e08f
+getunicode hex: e08f  unicode: ee828f 
+['\uec67', 'Lazarus', 'ec67', 'Lázaro']
+getunicode ec67
+getunicode hex: ec67  unicode: eeb1a7 
+['\ue137', 'lead', 'e137', 'liderança']
+getunicode e137
+getunicode hex: e137  unicode: ee84b7 
+['\ue0b3', 'leaf', 'e0b3', 'folha']
+getunicode e0b3
+getunicode hex: e0b3  unicode: ee82b3 
+['\ue175', 'lease', 'e175', 'arrendamento']
+getunicode e175
+getunicode hex: e175  unicode: ee85b5 
+['\ue397', 'least', 'e397', 'mínimo']
+getunicode e397
+getunicode hex: e397  unicode: ee8e97 
+['\ue255', 'leather', 'e255', 'couro']
+getunicode e255
+getunicode hex: e255  unicode: ee8995 
+['\ue32d', 'leaven', 'e32d', 'fermentar']
+getunicode e32d
+getunicode hex: e32d  unicode: ee8cad 
+['\ue0f4', 'left', 'e0f4', 'esquerda']
+getunicode e0f4
+getunicode hex: e0f4  unicode: ee83b4 
+['\uebe0', 'leg', 'ebe0', 'perna']
+getunicode ebe0
+getunicode hex: ebe0  unicode: eeafa0 
+['\ue366', 'Legion', 'e366', 'Legião']
+getunicode e366
+getunicode hex: e366  unicode: ee8da6 
+['\uecc2', 'length', 'ecc2', 'comprimento']
+getunicode ecc2
+getunicode hex: ecc2  unicode: eeb382 
+['\uecf8', 'leopard', 'ecf8', 'leopardo']
+getunicode ecf8
+getunicode hex: ecf8  unicode: eeb3b8 
+['\ue382', 'leprosy', 'e382', 'lepra']
+getunicode e382
+getunicode hex: e382  unicode: ee8e82 
+['\ueb84', 'letter', 'eb84', 'carta']
+getunicode eb84
+getunicode hex: eb84  unicode: eeae84 
+['\ue0d9', 'level', 'e0d9', 'nível']
+getunicode e0d9
+getunicode hex: e0d9  unicode: ee8399 
+['\ue35c', 'Levi', 'eb1b', 'Levi']
+getunicode eb1b
+getunicode hex: eb1b  unicode: eeac9b 
+['\ue35c', 'Levi_Matthew', 'e35c', 'Levi_Mateus']
+getunicode e35c
+getunicode hex: e35c  unicode: ee8d9c 
+['\ueb44', 'Levite', 'eb44', 'Levita']
+getunicode eb44
+getunicode hex: eb44  unicode: eead84 
+['\ue121', 'lie_down', 'e121', 'deitar']
+getunicode e121
+getunicode hex: e121  unicode: ee84a1 
+['\ue081', 'lift', 'e081', 'levantar']
+getunicode e081
+getunicode hex: e081  unicode: ee8281 
+['\ue0c2', 'light', 'e0c2', 'luz']
+getunicode e0c2
+getunicode hex: e0c2  unicode: ee8382 
+['\uea88', 'lightning', 'ea88', 'relâmpago']
+getunicode ea88
+getunicode hex: ea88  unicode: eeaa88 
+['\uea20', 'linen', 'ea20', 'linho']
+getunicode ea20
+getunicode hex: ea20  unicode: eea8a0 
+['\uecb0', 'Linus', 'ecb0', 'Lino']
+getunicode ecb0
+getunicode hex: ecb0  unicode: eeb2b0 
+['\uecb6', 'lion', 'ecb6', 'leão']
+getunicode ecb6
+getunicode hex: ecb6  unicode: eeb2b6 
+['\uecd4', 'locust', 'ecd4', 'gafanhoto']
+getunicode ecd4
+getunicode hex: ecd4  unicode: eeb394 
+['\uecb7', 'Lois', 'ecb7', 'Loide']
+getunicode ecb7
+getunicode hex: ecb7  unicode: eeb2b7 
+['\ue16f', 'longsuffering', 'e16f', 'longo_sofrimento']
+getunicode e16f
+getunicode hex: e16f  unicode: ee85af 
+['\uebcd', 'looks_like', 'ebcd', 'parece_que']
+getunicode ebcd
+getunicode hex: ebcd  unicode: eeaf8d 
+['\ue089', 'lost', 'e089', 'perdido']
+getunicode e089
+getunicode hex: e089  unicode: ee8289 
+['\uea16', 'lot', 'ea16', 'lote']
+getunicode ea16
+getunicode hex: ea16  unicode: eea896 
+['\uebdc', 'Lot', 'ebdc', 'Ló']
+getunicode ebdc
+getunicode hex: ebdc  unicode: eeaf9c 
+['\uebe8', 'loud', 'ebe8', 'em_alta_voz']
+getunicode ebe8
+getunicode hex: ebe8  unicode: eeafa8 
+['\ue324', 'lower_adj', 'e324', 'baixo_adj.']
+getunicode e324
+getunicode hex: e324  unicode: ee8ca4 
+['\uec93', 'Lucius', 'ec93', 'Lúcio']
+getunicode ec93
+getunicode hex: ec93  unicode: eeb293 
+['\ueb68', 'Luke', 'eb68', 'Lucas']
+getunicode eb68
+getunicode hex: eb68  unicode: eeada8 
+['\ue06d', 'lunatic', 'e06d', 'lunático']
+getunicode e06d
+getunicode hex: e06d  unicode: ee81ad 
+['\ue239', 'lust', 'e239', 'concupiscência']
+getunicode e239
+getunicode hex: e239  unicode: ee88b9 
+['\ueb73', 'Lybia', 'eb73', 'Líbia']
+getunicode eb73
+getunicode hex: eb73  unicode: eeadb3 
+['\ueb51', 'Lycaonia', 'eb51', 'Licaônia']
+getunicode eb51
+getunicode hex: eb51  unicode: eead91 
+['\uec13', 'Lycia', 'ec13', 'Lícia']
+getunicode ec13
+getunicode hex: ec13  unicode: eeb093 
+['\uec2e', 'Lydda', 'ec2e', 'Lida']
+getunicode ec2e
+getunicode hex: ec2e  unicode: eeb0ae 
+['\ueb50', 'Lydia', 'eb50', 'Lídia']
+getunicode eb50
+getunicode hex: eb50  unicode: eead90 
+['\uec40', 'Lysanias', 'ec40', 'Lisânias']
+getunicode ec40
+getunicode hex: ec40  unicode: eeb180 
+['\uec37', 'Lysias', 'ec37', 'Lísias']
+getunicode ec37
+getunicode hex: ec37  unicode: eeb0b7 
+['\uec4b', 'Maath', 'ec4b', 'Maate']
+getunicode ec4b
+getunicode hex: ec4b  unicode: eeb18b 
+['\uec0d', 'Macedonia', 'ec0d', 'Macedônia']
+getunicode ec0d
+getunicode hex: ec0d  unicode: eeb08d 
+['\uea30', 'Magadan', 'ea30', 'Magadan']
+getunicode ea30
+getunicode hex: ea30  unicode: eea8b0 
+['\uec8a', 'magician', 'ec8a', 'mágico']
+getunicode ec8a
+getunicode hex: ec8a  unicode: eeb28a 
+['\uecf9', 'Magog_land', 'ecf9', 'Magogue']
+getunicode ecf9
+getunicode hex: ecf9  unicode: eeb3b9 
+['\uec68', 'Mahalalel', 'ec68', 'Maalalel']
+getunicode ec68
+getunicode hex: ec68  unicode: eeb1a8 
+['\uebb7', 'Malchus', 'ebb7', 'Malco']
+getunicode ebb7
+getunicode hex: ebb7  unicode: eeaeb7 
+['\uec19', 'Malta', 'ec19', 'Malta']
+getunicode ec19
+getunicode hex: ec19  unicode: eeb099 
+['\ue000', 'man', 'e000', 'homem']
+getunicode e000
+getunicode hex: e000  unicode: ee8080 
+['\ueb40', 'Manaen', 'eb40', 'Manaém']
+getunicode eb40
+getunicode hex: eb40  unicode: eead80 
+['\uea63', 'Manasseh', 'ea63', 'Manassés']
+getunicode ea63
+getunicode hex: ea63  unicode: eea9a3 
+['\ueba9', 'manna', 'eba9', 'maná']
+getunicode eba9
+getunicode hex: eba9  unicode: eeaea9 
+['\ue198', 'many', 'e198', 'muitos']
+getunicode e198
+getunicode hex: e198  unicode: ee8698 
+['\ue371', 'Mark', 'e371', 'Marcos']
+getunicode e371
+getunicode hex: e371  unicode: ee8db1 
+['\ue02e', 'market_place', 'e02e', 'mercado']
+getunicode e02e
+getunicode hex: e02e  unicode: ee80ae 
+['\ue010', 'marriage', 'e010', 'matrimônio']
+getunicode e010
+getunicode hex: e010  unicode: ee8090 
+['\uec69', 'Martha', 'ec69', 'Marta']
+getunicode ec69
+getunicode hex: ec69  unicode: eeb1a9 
+['\ue354', 'Mary', 'e354', 'Maria']
+getunicode e354
+getunicode hex: e354  unicode: ee8d94 
+['\ue353', 'Mary_Magdalene', 'e353', 'Maria_Madalena']
+getunicode e353
+getunicode hex: e353  unicode: ee8d93 
+['\uec9c', 'Mattatha', 'ec9c', 'Matatá']
+getunicode ec9c
+getunicode hex: ec9c  unicode: eeb29c 
+['\uec9d', 'Mattathias', 'ec9d', 'Matatias']
+getunicode ec9d
+getunicode hex: ec9d  unicode: eeb29d 
+['\uea71', 'Matthan', 'ea71', 'Matã']
+getunicode ea71
+getunicode hex: ea71  unicode: eea9b1 
+['\ued12', 'Matthat', 'ed12', 'Matate']
+getunicode ed12
+getunicode hex: ed12  unicode: eeb492 
+['\ueb04', 'Matthew', 'eb04', 'Mateus']
+getunicode eb04
+getunicode hex: eb04  unicode: eeac84 
+['\ue236', 'mature', 'e236', 'maduro']
+getunicode e236
+getunicode hex: e236  unicode: ee88b6 
+['\uecfa', 'meaning', 'ecfa', 'significado']
+getunicode ecfa
+getunicode hex: ecfa  unicode: eeb3ba 
+['\ue305', 'measure', 'e305', 'medida']
+getunicode e305
+getunicode hex: e305  unicode: ee8c85 
+['\ueb70', 'Media', 'eb70', 'Média']
+getunicode eb70
+getunicode hex: eb70  unicode: eeadb0 
+['\uecfb', 'Megiddo', 'ecfb', 'Megido']
+getunicode ecfb
+getunicode hex: ecfb  unicode: eeb3bb 
+['\uec45', 'Melchi', 'ec45', 'Melqui']
+getunicode ec45
+getunicode hex: ec45  unicode: eeb185 
+['\ued05', 'Melchizedek', 'ed05', 'Melquisedeque']
+getunicode ed05
+getunicode hex: ed05  unicode: eeb485 
+['\uec6a', 'Melea', 'ec6a', 'Meleá']
+getunicode ec6a
+getunicode hex: ec6a  unicode: eeb1aa 
+['\ue174', 'member', 'e174', 'membro']
+getunicode e174
+getunicode hex: e174  unicode: ee85b4 
+['\uec6b', 'Menna', 'ec6b', 'Mená']
+getunicode ec6b
+getunicode hex: ec6b  unicode: eeb1ab 
+['\ue01d', 'mercy', 'e01d', 'misericórdia']
+getunicode e01d
+getunicode hex: e01d  unicode: ee809d 
+['\ueb72', 'Mesopotamia', 'eb72', 'Mesopotâmia']
+getunicode eb72
+getunicode hex: eb72  unicode: eeadb2 
+['\ue22d', 'message', 'e22d', 'mensagem']
+getunicode e22d
+getunicode hex: e22d  unicode: ee88ad 
+['\ue136', 'messenger', 'e136', 'mensageiro']
+getunicode e136
+getunicode hex: e136  unicode: ee84b6 
+['\ueb28', 'metal', 'eb28', 'metal']
+getunicode eb28
+getunicode hex: eb28  unicode: eeaca8 
+['\uec6c', 'Methuselah', 'ec6c', 'Metusalém']
+getunicode ec6c
+getunicode hex: ec6c  unicode: eeb1ac 
+['\uece1', 'Michael_angel', 'ece1', 'Micael']
+getunicode ece1
+getunicode hex: ece1  unicode: eeb3a1 
+['\ueb0f', 'Midian_land', 'eb0f', 'Midiã']
+getunicode eb0f
+getunicode hex: eb0f  unicode: eeac8f 
+['\ueb23', 'Miletus', 'eb23', 'Mileto']
+getunicode eb23
+getunicode hex: eb23  unicode: eeaca3 
+['\ueca3', 'milk', 'eca3', 'leite']
+getunicode eca3
+getunicode hex: eca3  unicode: eeb2a3 
+['\uecd9', 'million', 'ecd9', 'Milhão']
+getunicode ecd9
+getunicode hex: ecd9  unicode: eeb399 
+['\ue06c', 'mind', 'e06c', 'mente']
+getunicode e06c
+getunicode hex: e06c  unicode: ee81ac 
+['\ue095', 'miracle', 'e095', 'milagre']
+getunicode e095
+getunicode hex: e095  unicode: ee8295 
+['\ue385', 'Miriam', 'e385', 'Miriã']
+getunicode e385
+getunicode hex: e385  unicode: ee8e85 
+['\uebe6', 'mirror', 'ebe6', 'espelho']
+getunicode ebe6
+getunicode hex: ebe6  unicode: eeafa6 
+['\ueb21', 'Mitylene', 'eb21', 'Mitilene']
+getunicode eb21
+getunicode hex: eb21  unicode: eeaca1 
+['\ueb26', 'Mnason', 'eb26', 'Mnasom']
+getunicode eb26
+getunicode hex: eb26  unicode: eeaca6 
+['\uea12', 'mock', 'ea12', 'zombar']
+getunicode ea12
+getunicode hex: ea12  unicode: eea892 
+['\uec26', 'Molech', 'ec26', 'Moloque']
+getunicode ec26
+getunicode hex: ec26  unicode: eeb0a6 
+['\ue029', 'money', 'e029', 'dinheiro']
+getunicode e029
+getunicode hex: e029  unicode: ee80a9 
+['\ue34c', 'month', 'e34c', 'mês']
+getunicode e34c
+getunicode hex: e34c  unicode: ee8d8c 
+['\ue272', 'moon', 'e272', 'lua']
+getunicode e272
+getunicode hex: e272  unicode: ee89b2 
+['\ue199', 'more', 'e199', 'mais_tarde']
+getunicode e199
+getunicode hex: e199  unicode: ee8699 
+['\ue163', 'morning', 'e163', 'manhã']
+getunicode e163
+getunicode hex: e163  unicode: ee85a3 
+['\ue35b', 'Moses', 'e35b', 'Moisés']
+getunicode e35b
+getunicode hex: e35b  unicode: ee8d9b 
+['\ue229', 'most', 'e229', 'o_mais']
+getunicode e229
+getunicode hex: e229  unicode: ee88a9 
+['\ue00b', 'mother', 'e00b', 'mãe']
+getunicode e00b
+getunicode hex: e00b  unicode: ee808b 
+['\ue351', 'Mount_of_Olives', 'e351', 'Monte_das_Oliveiras']
+getunicode e351
+getunicode hex: e351  unicode: ee8d91 
+['\ueb5c', 'Mount_Sinai', 'eb5c', 'Monte_Sinai']
+getunicode eb5c
+getunicode hex: eb5c  unicode: eead9c 
+['\uecf5', 'Mount_Zion', 'ecf5', 'Monte_Sião']
+getunicode ecf5
+getunicode hex: ecf5  unicode: eeb3b5 
+['\ue306', 'mountain', 'e306', 'montanha']
+getunicode e306
+getunicode hex: e306  unicode: ee8c86 
+['\ue32f', 'move', 'e32f', 'mover']
+getunicode e32f
+getunicode hex: e32f  unicode: ee8caf 
+['\uea10', 'murderer', 'ea10', 'assassino']
+getunicode ea10
+getunicode hex: ea10  unicode: eea890 
+['\ue039', 'mustard', 'e039', 'mostarda']
+getunicode e039
+getunicode hex: e039  unicode: ee80b9 
+['\ue050', 'mute', 'e050', 'mudo']
+getunicode e050
+getunicode hex: e050  unicode: ee8190 
+['\uec28', 'Myra', 'ec28', 'Mirra']
+getunicode ec28
+getunicode hex: ec28  unicode: eeb0a8 
+['\ue245', 'myrrh', 'e245', 'mirra']
+getunicode e245
+getunicode hex: e245  unicode: ee8985 
+['\ueb4a', 'Mysia', 'eb4a', 'Mísia']
+getunicode eb4a
+getunicode hex: eb4a  unicode: eead8a 
+['\ue18b', 'mystery', 'e18b', 'mistério']
+getunicode e18b
+getunicode hex: e18b  unicode: ee868b 
+['\uec6d', 'Naaman', 'ec6d', 'Naamã']
+getunicode ec6d
+getunicode hex: ec6d  unicode: eeb1ad 
+['\uec4a', 'Naggai', 'ec4a', 'Nagai']
+getunicode ec4a
+getunicode hex: ec4a  unicode: eeb18a 
+['\uec6e', 'Nahor', 'ec6e', 'Naor']
+getunicode ec6e
+getunicode hex: ec6e  unicode: eeb1ae 
+['\uea52', 'Nahshon', 'ea52', 'Naassom']
+getunicode ea52
+getunicode hex: ea52  unicode: eea992 
+['\uec48', 'Nahum', 'ec48', 'Naum']
+getunicode ec48
+getunicode hex: ec48  unicode: eeb188 
+['\uebaa', 'nail', 'ebaa', 'unha']
+getunicode ebaa
+getunicode hex: ebaa  unicode: eeaeaa 
+['\uea48', 'Nain', 'ea48', 'Naim']
+getunicode ea48
+getunicode hex: ea48  unicode: eea988 
+['\ue04f', 'name', 'e04f', 'nome']
+getunicode e04f
+getunicode hex: e04f  unicode: ee818f 
+['\uea40', 'Naphtali', 'ea40', 'Naftali']
+getunicode ea40
+getunicode hex: ea40  unicode: eea980 
+['\uebc9', 'Narcius', 'ebc9', 'Narcius']
+getunicode ebc9
+getunicode hex: ebc9  unicode: eeaf89 
+['\uec6f', 'Nathan', 'ec6f', 'Natã']
+getunicode ec6f
+getunicode hex: ec6f  unicode: eeb1af 
+['\ue34e', 'Nazareth', 'e34e', 'Nazaré']
+getunicode e34e
+getunicode hex: e34e  unicode: ee8d8e 
+['\ue0d3', 'neck', 'e0d3', 'pescoço']
+getunicode e0d3
+getunicode hex: e0d3  unicode: ee8393 
+['\ue078', 'needle', 'e078', 'agulha']
+getunicode e078
+getunicode hex: e078  unicode: ee81b8 
+['\ue173', 'neighbor', 'e173', 'vizinho']
+getunicode e173
+getunicode hex: e173  unicode: ee85b3 
+['\ueb4e', 'Neopolis', 'eb4e', 'Neopolis']
+getunicode eb4e
+getunicode hex: eb4e  unicode: eead8e 
+['\uebca', 'Nereus', 'ebca', 'Nereu']
+getunicode ebca
+getunicode hex: ebca  unicode: eeaf8a 
+['\uec70', 'Neri', 'ec70', 'Neri']
+getunicode ec70
+getunicode hex: ec70  unicode: eeb1b0 
+['\ue307', 'net', 'e307', 'rede']
+getunicode e307
+getunicode hex: e307  unicode: ee8c87 
+['\ue308', 'new', 'e308', 'novo']
+getunicode e308
+getunicode hex: e308  unicode: ee8c88 
+['\ueb55', 'Nicanor', 'eb55', 'Nicanor']
+getunicode eb55
+getunicode hex: eb55  unicode: eead95 
+['\uebab', 'Nicodemus', 'ebab', 'Nicodemos']
+getunicode ebab
+getunicode hex: ebab  unicode: eeaeab 
+['\ueb56', 'Nicolaus', 'eb56', 'Nicolaus']
+getunicode eb56
+getunicode hex: eb56  unicode: eead96 
+['\ued08', 'Nicopolis', 'ed08', 'Nicópolis']
+getunicode ed08
+getunicode hex: ed08  unicode: eeb488 
+['\ue294', 'nine', 'e294', 'nove']
+getunicode e294
+getunicode hex: e294  unicode: ee8a94 
+['\ue0c6', 'Nineveh', 'e0c6', 'Nínive']
+getunicode e0c6
+getunicode hex: e0c6  unicode: ee8386 
+['\ue17c', 'no', 'e17c', 'não']
+getunicode e17c
+getunicode hex: e17c  unicode: ee85bc 
+['\uea43', 'Noah', 'ea43', 'Noé']
+getunicode ea43
+getunicode hex: ea43  unicode: eea983 
+['\uebe9', 'noise', 'ebe9', 'ruído']
+getunicode ebe9
+getunicode hex: ebe9  unicode: eeafa9 
+['\uea74', 'north', 'ea74', 'norte']
+getunicode ea74
+getunicode hex: ea74  unicode: eea9b4 
+['\ue309', 'nose', 'e309', 'nariz']
+getunicode e309
+getunicode hex: e309  unicode: ee8c89 
+['\ue0b7', 'number', 'e0b7', 'número']
+getunicode e0b7
+getunicode hex: e0b7  unicode: ee82b7 
+['\uec3c', 'Nympha', 'ecea', 'Ninfa']
+getunicode ecea
+getunicode hex: ecea  unicode: eeb3aa 
+['\uea56', 'Obed', 'ea56', 'Obede']
+getunicode ea56
+getunicode hex: ea56  unicode: eea996 
+['\ue04e', 'obedience', 'e04e', 'obediência']
+getunicode e04e
+getunicode hex: e04e  unicode: ee818e 
+['\ue14d', 'ocean', 'e14d', 'oceano']
+getunicode e14d
+getunicode hex: e14d  unicode: ee858d 
+['\ue03a', 'offering', 'e03a', 'oferta']
+getunicode e03a
+getunicode hex: e03a  unicode: ee80ba 
+['\ue030', 'oil', 'e030', 'óleo']
+getunicode e030
+getunicode hex: e030  unicode: ee80b0 
+['\ue189', 'old', 'e189', 'velho']
+getunicode e189
+getunicode hex: e189  unicode: ee8689 
+['\ueda1', 'olive', 'eda1', 'oliva']
+getunicode eda1
+getunicode hex: eda1  unicode: eeb6a1 
+['\uebcb', 'Olympus', 'ebcb', 'Olimpo']
+getunicode ebcb
+getunicode hex: ebcb  unicode: eeaf8b 
+['\ue113', 'on', 'e113', 'em']
+getunicode e113
+getunicode hex: e113  unicode: ee8493 
+['\ue28c', 'one', 'e28c', 'um']
+getunicode e28c
+getunicode hex: e28c  unicode: ee8a8c 
+['\uecb8', 'Onesimus', 'ecb8', 'Onésimo']
+getunicode ecb8
+getunicode hex: ecb8  unicode: eeb2b8 
+['\ue18a', 'open', 'e18a', 'aberto']
+getunicode e18a
+getunicode hex: e18a  unicode: ee868a 
+['\ue106', 'or', 'e106', 'ou']
+getunicode e106
+getunicode hex: e106  unicode: ee8486 
+['\ue184', 'other', 'e184', 'outro']
+getunicode e184
+getunicode hex: e184  unicode: ee8684 
+['\ue241', 'out', 'e241', 'for_a']
+getunicode e241
+getunicode hex: e241  unicode: ee8981 
+['\uea49', 'owe', 'ea49', 'dever']
+getunicode ea49
+getunicode hex: ea49  unicode: eea989 
+['\ueced', 'own', 'eced', 'próprio']
+getunicode eced
+getunicode hex: eced  unicode: eeb3ad 
+['\uea85', 'ox', 'ea85', 'boi']
+getunicode ea85
+getunicode hex: ea85  unicode: eeaa85 
+['\ueb6e', 'Pamphylia', 'eb6e', 'Panfília']
+getunicode eb6e
+getunicode hex: eb6e  unicode: eeadae 
+['\ueb9f', 'Paphos', 'eb9f', 'Pafos']
+getunicode eb9f
+getunicode hex: eb9f  unicode: eeae9f 
+['\ue131', 'paralyze', 'e131', 'paralisar']
+getunicode e131
+getunicode hex: e131  unicode: ee84b1 
+['\ueb57', 'Parmenas', 'eb57', 'Pármenas']
+getunicode eb57
+getunicode hex: eb57  unicode: eead97 
+['\ue29b', 'part', 'e29b', 'parte']
+getunicode e29b
+getunicode hex: e29b  unicode: ee8a9b 
+['\ueb0a', 'Parthia', 'eb0a', 'Partos']
+getunicode eb0a
+getunicode hex: eb0a  unicode: eeac8a 
+['\ue10b', 'pass', 'e10b', 'passar']
+getunicode e10b
+getunicode hex: e10b  unicode: ee848b 
+['\uebac', 'passion', 'ebac', 'paixão']
+getunicode ebac
+getunicode hex: ebac  unicode: eeaeac 
+['\ue20d', 'Passover', 'e20d', 'Páscoa']
+getunicode e20d
+getunicode hex: e20d  unicode: ee888d 
+['\ue16d', 'past', 'e16d', 'passado']
+getunicode e16d
+getunicode hex: e16d  unicode: ee85ad 
+['\uecc3', 'pastor', 'ecc3', 'pastor']
+getunicode ecc3
+getunicode hex: ecc3  unicode: eeb383 
+['\uec23', 'Patara', 'ec23', 'Pátara']
+getunicode ec23
+getunicode hex: ec23  unicode: eeb0a3 
+['\ue23c', 'path', 'e23c', 'caminho']
+getunicode e23c
+getunicode hex: e23c  unicode: ee88bc 
+['\uebf4', 'Patmos', 'ebf4', 'Patmos']
+getunicode ebf4
+getunicode hex: ebf4  unicode: eeafb4 
+['\uebcc', 'Patrobas', 'ebcc', 'Pátrobas']
+getunicode ebcc
+getunicode hex: ebcc  unicode: eeaf8c 
+['\ue377', 'Paul', 'e377', 'Paulo']
+getunicode e377
+getunicode hex: e377  unicode: ee8db7 
+['\uebad', 'pavement', 'ebad', 'calçada']
+getunicode ebad
+getunicode hex: ebad  unicode: eeaead 
+['\ue123', 'peace', 'e123', 'paz']
+getunicode e123
+getunicode hex: e123  unicode: ee84a3 
+['\uec71', 'Peleg', 'ec71', 'Pelegue']
+getunicode ec71
+getunicode hex: ec71  unicode: eeb1b1 
+['\ue29c', 'pen', 'e29c', 'caneta']
+getunicode e29c
+getunicode hex: e29c  unicode: ee8a9c 
+['\uec81', 'pentecost', 'ec81', 'pentecostes']
+getunicode ec81
+getunicode hex: ec81  unicode: eeb281 
+['\ue127', 'people', 'e127', 'pessoas']
+getunicode e127
+getunicode hex: e127  unicode: ee84a7 
+['\ue06a', 'perceive', 'e06a', 'perceber']
+getunicode e06a
+getunicode hex: e06a  unicode: ee81aa 
+['\uea4c', 'Perez', 'ea4c', 'Perez']
+getunicode ea4c
+getunicode hex: ea4c  unicode: eea98c 
+['\ueb47', 'Perga', 'eb47', 'Perge']
+getunicode eb47
+getunicode hex: eb47  unicode: eead87 
+['\uebf6', 'Pergamum', 'ebf6', 'Pérgamo']
+getunicode ebf6
+getunicode hex: ebf6  unicode: eeafb6 
+['\ue03e', 'persecute', 'e03e', 'perseguir']
+getunicode e03e
+getunicode hex: e03e  unicode: ee80be 
+['\uebce', 'Persis', 'ebce', 'Pérside']
+getunicode ebce
+getunicode hex: ebce  unicode: eeaf8e 
+['\ue11f', 'person', 'e11f', 'pessoa']
+getunicode e11f
+getunicode hex: e11f  unicode: ee849f 
+['\uec3c', 'Phanuel', 'ec3c', 'Fanuel']
+getunicode ec3c
+getunicode hex: ec3c  unicode: eeb0bc 
+['\uec94', 'Pharaoh', 'ec94', 'Faraó']
+getunicode ec94
+getunicode hex: ec94  unicode: eeb294 
+['\ue383', 'Pharisee', 'e383', 'Fariseu']
+getunicode e383
+getunicode hex: e383  unicode: ee8e83 
+['\uebf8', 'Philadelphia', 'ebf8', 'Filadélfia']
+getunicode ebf8
+getunicode hex: ebf8  unicode: eeafb8 
+['\uecf2', 'Philemon', 'ecf2', 'Filemom']
+getunicode ecf2
+getunicode hex: ecf2  unicode: eeb3b2 
+['\uecac', 'Philetus', 'ecac', 'Fileto']
+getunicode ecac
+getunicode hex: ecac  unicode: eeb2ac 
+['\ue361', 'Philip', 'e361', 'Filipe']
+getunicode e361
+getunicode hex: e361  unicode: ee8da1 
+['\ue347', 'Philippi', 'e347', 'Filipos']
+getunicode e347
+getunicode hex: e347  unicode: ee8d87 
+['\uebcf', 'Philologus', 'ebcf', 'Filólogo']
+getunicode ebcf
+getunicode hex: ebcf  unicode: eeaf8f 
+['\uec04', 'philosopher', 'ec04', 'filósofo']
+getunicode ec04
+getunicode hex: ec04  unicode: eeb084 
+['\uebd1', 'Phlegon', 'ebd1', 'Flegonte']
+getunicode ebd1
+getunicode hex: ebd1  unicode: eeaf91 
+['\uebd2', 'Phoebe', 'ebd2', 'Febe']
+getunicode ebd2
+getunicode hex: ebd2  unicode: eeaf92 
+['\ue343', 'Phoenicia', 'e343', 'Fenícia']
+getunicode e343
+getunicode hex: e343  unicode: ee8d83 
+['\uec29', 'Phoenix', 'ec29', 'Fenice']
+getunicode ec29
+getunicode hex: ec29  unicode: eeb0a9 
+['\ueb76', 'Phrygia', 'eb76', 'Frígia']
+getunicode eb76
+getunicode hex: eb76  unicode: eeadb6 
+['\uecb9', 'Phygelus', 'ecb9', 'Fígelo']
+getunicode ecb9
+getunicode hex: ecb9  unicode: eeb2b9 
+['\ue30a', 'pig', 'e30a', 'porco']
+getunicode e30a
+getunicode hex: e30a  unicode: ee8c8a 
+['\ue0b6', 'pigeon', 'e0b6', 'pomba']
+getunicode e0b6
+getunicode hex: e0b6  unicode: ee82b6 
+['\ue36f', 'Pilate', 'e36f', 'Pilatos']
+getunicode e36f
+getunicode hex: e36f  unicode: ee8daf 
+['\ueca8', 'pillar', 'eca8', 'pilar']
+getunicode eca8
+getunicode hex: eca8  unicode: eeb2a8 
+['\ueb97', 'Pisidia', 'eb97', 'Písida']
+getunicode eb97
+getunicode hex: eb97  unicode: eeae97 
+['\ue06b', 'plan', 'e06b', 'plano']
+getunicode e06b
+getunicode hex: e06b  unicode: ee81ab 
+['\ue244', 'plant', 'e244', 'plantar']
+getunicode e244
+getunicode hex: e244  unicode: ee8984 
+['\ue386', 'plate', 'e386', 'prato']
+getunicode e386
+getunicode hex: e386  unicode: ee8e86 
+['\uec72', 'plow', 'ec72', 'arado']
+getunicode ec72
+getunicode hex: ec72  unicode: eeb1b2 
+['\ueb75', 'Pontus', 'eb75', 'Ponto']
+getunicode eb75
+getunicode hex: eb75  unicode: eeadb5 
+['\uea3a', 'poor', 'ea3a', 'pobre']
+getunicode ea3a
+getunicode hex: ea3a  unicode: eea8ba 
+['\ueb5e', 'porch', 'eb5e', 'pórtico']
+getunicode eb5e
+getunicode hex: eb5e  unicode: eead9e 
+['\uec38', 'Porcius', 'ec38', 'Pórcio']
+getunicode ec38
+getunicode hex: ec38  unicode: eeb0b8 
+['\ue098', 'possible', 'e098', 'possível']
+getunicode e098
+getunicode hex: e098  unicode: ee8298 
+['\ue0d6', 'pour', 'e0d6', 'derramar']
+getunicode e0d6
+getunicode hex: e0d6  unicode: ee8396 
+['\ue05e', 'pray', 'e05e', 'orar']
+getunicode e05e
+getunicode hex: e05e  unicode: ee819e 
+['\ue04d', 'preach', 'e04d', 'pregar']
+getunicode e04d
+getunicode hex: e04d  unicode: ee818d 
+['\ue134', 'preacher', 'e134', 'pregador']
+getunicode e134
+getunicode hex: e134  unicode: ee84b4 
+['\uea37', 'precious', 'ea37', 'precioso']
+getunicode ea37
+getunicode hex: ea37  unicode: eea8b7 
+['\ue0a5', 'pregnant', 'e0a5', 'grávido']
+getunicode e0a5
+getunicode hex: e0a5  unicode: ee82a5 
+['\ue091', 'prepare', 'e091', 'preparar']
+getunicode e091
+getunicode hex: e091  unicode: ee8291 
+['\ue228', 'press', 'e228', 'pressão']
+getunicode e228
+getunicode hex: e228  unicode: ee88a8 
+['\ue094', 'pretend', 'e094', 'fingir']
+getunicode e094
+getunicode hex: e094  unicode: ee8294 
+['\ueb14', 'prevail', 'eb14', 'prevalecer']
+getunicode eb14
+getunicode hex: eb14  unicode: eeac94 
+['\ue03b', 'priest', 'e03b', 'sacerdote']
+getunicode e03b
+getunicode hex: e03b  unicode: ee80bb 
+['\ueb61', 'prince', 'eb61', 'principe']
+getunicode eb61
+getunicode hex: eb61  unicode: eeada1 
+['\ueb18', 'Priscilla', 'eb18', 'Priscila']
+getunicode eb18
+getunicode hex: eb18  unicode: eeac98 
+['\ue172', 'prison', 'e172', 'cárcere']
+getunicode e172
+getunicode hex: e172  unicode: ee85b2 
+['\ue145', 'prisoner', 'e145', 'preso']
+getunicode e145
+getunicode hex: e145  unicode: ee8585 
+['\ueb53', 'Prochorus', 'eb53', 'Prócoro']
+getunicode eb53
+getunicode hex: eb53  unicode: eead93 
+['\ue035', 'profit', 'e035', 'lucro']
+getunicode e035
+getunicode hex: e035  unicode: ee80b5 
+['\ue37a', 'promise', 'e37a', 'pormessa']
+getunicode e37a
+getunicode hex: e37a  unicode: ee8dba 
+['\ue23b', 'prophesy', 'e23b', 'profetizar']
+getunicode e23b
+getunicode hex: e23b  unicode: ee88bb 
+['\ue135', 'prophet', 'e135', 'profeta']
+getunicode e135
+getunicode hex: e135  unicode: ee84b5 
+['\uec73', 'proverb', 'ec73', 'provérbio']
+getunicode ec73
+getunicode hex: ec73  unicode: eeb1b3 
+['\ue0e2', 'Psalm', 'e0e2', 'salmo']
+getunicode e0e2
+getunicode hex: e0e2  unicode: ee83a2 
+['\uec08', 'Ptolemais', 'ec08', 'Ptolemaida']
+getunicode ec08
+getunicode hex: ec08  unicode: eeb088 
+['\uec1a', 'Publius', 'ec1a', 'Públio']
+getunicode ec1a
+getunicode hex: ec1a  unicode: eeb09a 
+['\uecba', 'Pudens', 'ecba', 'Prudente']
+getunicode ecba
+getunicode hex: ecba  unicode: eeb2ba 
+['\ue286', 'purple', 'e286', 'púpura']
+getunicode e286
+getunicode hex: e286  unicode: ee8a86 
+['\ue07e', 'put', 'e07e', 'pôr']
+getunicode e07e
+getunicode hex: e07e  unicode: ee81be 
+['\uec1e', 'Puteoli', 'ec1e', 'Putéoli']
+getunicode ec1e
+getunicode hex: ec1e  unicode: eeb09e 
+['\ueb1c', 'Pyrrhus', 'eb1c', 'Pirro']
+getunicode eb1c
+getunicode hex: eb1c  unicode: eeac9c 
+['\uebd3', 'Quartus', 'ebd3', 'Quarto']
+getunicode ebd3
+getunicode hex: ebd3  unicode: eeaf93 
+['\ueb15', 'queen', 'eb15', 'rainha']
+getunicode eb15
+getunicode hex: eb15  unicode: eeac95 
+['\ue185', 'quiet', 'e185', 'quieto']
+getunicode e185
+getunicode hex: e185  unicode: ee8685 
+['\uec3b', 'Quirinius', 'ec3b', 'Quirino']
+getunicode ec3b
+getunicode hex: ec3b  unicode: eeb0bb 
+['\uea41', 'Rachel', 'ea41', 'Raquel']
+getunicode ea41
+getunicode hex: ea41  unicode: eea981 
+['\uea55', 'Rahab', 'ea55', 'Raabe']
+getunicode ea55
+getunicode hex: ea55  unicode: eea995 
+['\uea3e', 'rain', 'ea3e', 'chuva']
+getunicode ea3e
+getunicode hex: ea3e  unicode: eea8be 
+['\uecdc', 'rainbow', 'ecdc', 'arco_Iris']
+getunicode ecdc
+getunicode hex: ecdc  unicode: eeb39c 
+['\uea50', 'Ram', 'ea50', 'Rão']
+getunicode ea50
+getunicode hex: ea50  unicode: eea990 
+['\uea42', 'Ramah', 'ea42', 'Ramá']
+getunicode ea42
+getunicode hex: ea42  unicode: eea982 
+['\uebd4', 'Rebekah', 'ebd4', 'Rebeca']
+getunicode ebd4
+getunicode hex: ebd4  unicode: eeaf94 
+['\ue060', 'rebuke', 'e060', 'repreender']
+getunicode e060
+getunicode hex: e060  unicode: ee81a0 
+['\ue026', 'reconcile', 'e026', 'conciliar']
+getunicode e026
+getunicode hex: e026  unicode: ee80a6 
+['\ue287', 'red', 'e287', 'vermelho']
+getunicode e287
+getunicode hex: e287  unicode: ee8a87 
+['\ue02c', 'redeem', 'e02c', 'redimir']
+getunicode e02c
+getunicode hex: e02c  unicode: ee80ac 
+['\uea26', 'reed', 'ea26', 'junco']
+getunicode ea26
+getunicode hex: ea26  unicode: eea8a6 
+['\uea5a', 'Rehoboam', 'ea5a', 'Roboão']
+getunicode ea5a
+getunicode hex: ea5a  unicode: eea99a 
+['\uec33', 'religion', 'ec33', 'religião']
+getunicode ec33
+getunicode hex: ec33  unicode: eeb0b3 
+['\ue83b', 'remain', 'e83b', 'permanecer']
+getunicode e83b
+getunicode hex: e83b  unicode: eea0bb 
+['\ue0d8', 'remember', 'e0d8', 'lembrar']
+getunicode e0d8
+getunicode hex: e0d8  unicode: ee8398 
+['\ue320', 'repent', 'e320', 'Arrepender-se']
+getunicode e320
+getunicode hex: e320  unicode: ee8ca0 
+['\ue214', 'rescue', 'e214', 'resgatar']
+getunicode e214
+getunicode hex: e214  unicode: ee8894 
+['\ue237', 'result', 'e237', 'resultado']
+getunicode e237
+getunicode hex: e237  unicode: ee88b7 
+['\ue329', 'resurrect', 'e329', 'ressucitar']
+getunicode e329
+getunicode hex: e329  unicode: ee8ca9 
+['\uec74', 'Reu', 'ec74', 'Reú']
+getunicode ec74
+getunicode hex: ec74  unicode: eeb1b4 
+['\uecc0', 'Reuben', 'ecc0', 'Rúben']
+getunicode ecc0
+getunicode hex: ecc0  unicode: eeb380 
+['\ue02d', 'reward', 'e02d', 'recompensa']
+getunicode e02d
+getunicode hex: e02d  unicode: ee80ad 
+['\uec1d', 'Rhegium', 'ec1d', 'Régio']
+getunicode ec1d
+getunicode hex: ec1d  unicode: eeb09d 
+['\uec75', 'Rhesa', 'ec75', 'Resa']
+getunicode ec75
+getunicode hex: ec75  unicode: eeb1b5 
+['\ueb92', 'Rhoda', 'eb92', 'Rode']
+getunicode eb92
+getunicode hex: eb92  unicode: eeae92 
+['\ueb25', 'Rhodes', 'eb25', 'Rodes']
+getunicode eb25
+getunicode hex: eb25  unicode: eeaca5 
+['\ue0f3', 'right', 'e0f3', 'reto']
+getunicode e0f3
+getunicode hex: e0f3  unicode: ee83b3 
+['\ued10', 'right_time', 'ed10', 'tempo_certo']
+getunicode ed10
+getunicode hex: ed10  unicode: eeb490 
+['\ue090', 'righteous', 'e090', 'justo']
+getunicode e090
+getunicode hex: e090  unicode: ee8290 
+['\uebdf', 'ring', 'ebdf', 'anel']
+getunicode ebdf
+getunicode hex: ebdf  unicode: eeaf9f 
+['\ue30b', 'river', 'e30b', 'rio']
+getunicode e30b
+getunicode hex: e30b  unicode: ee8c8b 
+['\ue0e9', 'robber', 'e0e9', 'ladrão']
+getunicode e0e9
+getunicode hex: e0e9  unicode: ee83a9 
+['\ue26a', 'rock', 'e26a', 'rocha']
+getunicode e26a
+getunicode hex: e26a  unicode: ee89aa 
+['\ueb16', 'Rome', 'eb16', 'Roma']
+getunicode eb16
+getunicode hex: eb16  unicode: eeac96 
+['\ueb06', 'room', 'eb06', 'quarto']
+getunicode eb06
+getunicode hex: eb06  unicode: eeac86 
+['\ue25d', 'rooster', 'e25d', 'galo']
+getunicode e25d
+getunicode hex: e25d  unicode: ee899d 
+['\ue15c', 'root', 'e15c', 'raiz']
+getunicode e15c
+getunicode hex: e15c  unicode: ee859c 
+['\uec99', 'rough', 'ec99', 'rude']
+getunicode ec99
+getunicode hex: ec99  unicode: eeb299 
+['\ue36e', 'Rufus', 'e36e', 'Rufo']
+getunicode e36e
+getunicode hex: e36e  unicode: ee8dae 
+['\ue258', 'run', 'e258', 'corre']
+getunicode e258
+getunicode hex: e258  unicode: ee8998 
+['\uea57', 'Ruth', 'ea57', 'Rute']
+getunicode ea57
+getunicode hex: ea57  unicode: eea997 
+['\ue160', 'Sabbath', 'e160', 'sábado']
+getunicode e160
+getunicode hex: e160  unicode: ee85a0 
+['\ue0b5', 'sacrifice', 'e0b5', 'sacrifício']
+getunicode e0b5
+getunicode hex: e0b5  unicode: ee82b5 
+['\uea03', 'Sadducee', 'ea03', 'Saduceus']
+getunicode ea03
+getunicode hex: ea03  unicode: eea883 
+['\ue267', 'sail', 'e267', 'vela']
+getunicode e267
+getunicode hex: e267  unicode: ee89a7 
+['\uebe1', 'Salamis', 'ebe1', 'Salamina']
+getunicode ebe1
+getunicode hex: ebe1  unicode: eeafa1 
+['\uec76', 'Salathiel', 'ec76', 'Salatiel']
+getunicode ec76
+getunicode hex: ec76  unicode: eeb1b6 
+['\uebae', 'Salim', 'ebae', 'Salim']
+getunicode ebae
+getunicode hex: ebae  unicode: eeaeae 
+['\uea53', 'Salmon', 'ea53', 'Salmom']
+getunicode ea53
+getunicode hex: ea53  unicode: eea993 
+['\uec15', 'Salmone', 'ec15', 'Salmona']
+getunicode ec15
+getunicode hex: ec15  unicode: eeb095 
+['\ue379', 'Salome', 'e379', 'Salomé']
+getunicode e379
+getunicode hex: e379  unicode: ee8db9 
+['\ue046', 'salt', 'e046', 'sal']
+getunicode e046
+getunicode hex: e046  unicode: ee8186 
+['\ueb80', 'salvation', 'eb80', 'salvação']
+getunicode eb80
+getunicode hex: eb80  unicode: eeae80 
+['\uea83', 'Samaria', 'ea83', 'Samaria']
+getunicode ea83
+getunicode hex: ea83  unicode: eeaa83 
+['\uea7b', 'Samaritan', 'ea7b', 'Samaritana']
+getunicode ea7b
+getunicode hex: ea7b  unicode: eea9bb 
+['\uec25', 'Samos', 'ec25', 'Samos']
+getunicode ec25
+getunicode hex: ec25  unicode: eeb0a5 
+['\ueb4c', 'Samothrace', 'eb4c', 'Samotrácia']
+getunicode eb4c
+getunicode hex: eb4c  unicode: eead8c 
+['\ued06', 'Samson', 'ed06', 'Sansão']
+getunicode ed06
+getunicode hex: ed06  unicode: eeb486 
+['\ueb8e', 'Samuel', 'eb8e', 'Samuel']
+getunicode eb8e
+getunicode hex: eb8e  unicode: eeae8e 
+['\ueb01', 'sanctuary', 'eb01', 'santuário']
+getunicode eb01
+getunicode hex: eb01  unicode: eeac81 
+['\uecfd', 'sand', 'ecfd', 'areia']
+getunicode ecfd
+getunicode hex: ecfd  unicode: eeb3bd 
+['\ueb66', 'Sapphira', 'eb66', 'Safira']
+getunicode eb66
+getunicode hex: eb66  unicode: eeada6 
+['\uebd5', 'Sarah', 'ebd5', 'Sara']
+getunicode ebd5
+getunicode hex: ebd5  unicode: eeaf95 
+['\uebf7', 'Sardis', 'ebf7', 'Sardes']
+getunicode ebf7
+getunicode hex: ebf7  unicode: eeafb7 
+['\ueb54', 'Saul', 'eb54', 'Saul']
+getunicode eb54
+getunicode hex: eb54  unicode: eead94 
+['\uec85', 'savior', 'ec85', 'salvador']
+getunicode ec85
+getunicode hex: ec85  unicode: eeb285 
+['\uea34', 'scatter', 'ea34', 'dispersar']
+getunicode ea34
+getunicode hex: ea34  unicode: eea8b4 
+['\ueb19', 'Sceva', 'eb19', 'Ceva']
+getunicode eb19
+getunicode hex: eb19  unicode: eeac99 
+['\uec77', 'scorpion', 'ec77', 'escorpião']
+getunicode ec77
+getunicode hex: ec77  unicode: eeb1b7 
+['\ueceb', 'Scythia', 'eceb', 'Cita']
+getunicode eceb
+getunicode hex: eceb  unicode: eeb3ab 
+['\ue350', 'Sea_of_Galilee', 'e350', 'Mar_da_Galileia']
+getunicode e350
+getunicode hex: e350  unicode: ee8d90 
+['\ueb0c', 'Sea_of_Reeds', 'eb0c', 'Mar_de_Vermelho']
+getunicode eb0c
+getunicode hex: eb0c  unicode: eeac8c 
+['\uebaf', 'Sea_of_Tiberias', 'ebaf', 'Tiberíades']
+getunicode ebaf
+getunicode hex: ebaf  unicode: eeaeaf 
+['\ue221', 'seal', 'e221', 'selo']
+getunicode e221
+getunicode hex: e221  unicode: ee88a1 
+['\ue074', 'search', 'e074', 'procurar']
+getunicode e074
+getunicode hex: e074  unicode: ee81b4 
+['\ue186', 'secret', 'e186', 'secredo']
+getunicode e186
+getunicode hex: e186  unicode: ee8686 
+['\ueb1d', 'Secundus', 'eb1d', 'Secundo']
+getunicode eb1d
+getunicode hex: eb1d  unicode: eeac9d 
+['\ue27a', 'seed', 'e27a', 'semear']
+getunicode e27a
+getunicode hex: e27a  unicode: ee89ba 
+['\ueb42', 'Seleucia', 'eb42', 'Selêucia']
+getunicode eb42
+getunicode hex: eb42  unicode: eead82 
+['\uea95', 'self', 'ea95', 'mesmo']
+getunicode ea95
+getunicode hex: ea95  unicode: eeaa95 
+['\ue32b', 'sell', 'e32b', 'vender']
+getunicode e32b
+getunicode hex: e32b  unicode: ee8cab 
+['\uec9e', 'Semien', 'ec9e', 'Not_found']
+getunicode ec9e
+getunicode hex: ec9e  unicode: eeb29e 
+['\ue075', 'send', 'e075', 'enviar']
+getunicode e075
+getunicode hex: e075  unicode: ee81b5 
+['\ueb45', 'Sergius', 'eb45', 'Sérgio']
+getunicode eb45
+getunicode hex: eb45  unicode: eead85 
+['\uec78', 'Serug', 'ec78', 'Serugue']
+getunicode ec78
+getunicode hex: ec78  unicode: eeb1b8 
+['\ue12d', 'servant', 'e12d', 'servo']
+getunicode e12d
+getunicode hex: e12d  unicode: ee84ad 
+['\ue08e', 'serve', 'e08e', 'servir']
+getunicode e08e
+getunicode hex: e08e  unicode: ee828e 
+['\uec79', 'Seth', 'ec79', 'Sete']
+getunicode ec79
+getunicode hex: ec79  unicode: eeb1b9 
+['\ue292', 'seven', 'e292', 'sete']
+getunicode e292
+getunicode hex: e292  unicode: ee8a92 
+['\ue077', 'sew', 'e077', 'costurar']
+getunicode e077
+getunicode hex: e077  unicode: ee81b7 
+['\uea87', 'sex', 'ea87', 'sexo']
+getunicode ea87
+getunicode hex: ea87  unicode: eeaa87 
+['\ue079', 'shade', 'e079', 'sombra']
+getunicode e079
+getunicode hex: e079  unicode: ee81b9 
+['\ue27d', 'shake', 'e27d', 'agitar']
+getunicode e27d
+getunicode hex: e27d  unicode: ee89bd 
+['\ue07a', 'share', 'e07a', 'compartilhar']
+getunicode e07a
+getunicode hex: e07a  unicode: ee81ba 
+['\uec2b', 'Sharon', 'ec2b', 'Sarom']
+getunicode ec2b
+getunicode hex: ec2b  unicode: eeb0ab 
+['\uebf3', 'sharp', 'ebf3', 'afiado']
+getunicode ebf3
+getunicode hex: ebf3  unicode: eeafb3 
+['\ueb27', 'shave', 'eb27', 'barbear']
+getunicode eb27
+getunicode hex: eb27  unicode: eeaca7 
+['\uea68', 'Shealtiel', 'ea68', 'Sealtiel']
+getunicode ea68
+getunicode hex: ea68  unicode: eea9a8 
+['\uec95', 'Shechem_city', 'ec95', 'Siquém']
+getunicode ec95
+getunicode hex: ec95  unicode: eeb295 
+['\ue270', 'sheep', 'e270', 'ovelha']
+getunicode e270
+getunicode hex: e270  unicode: ee89b0 
+['\uec7a', 'Shelah', 'ec7a', 'Selá']
+getunicode ec7a
+getunicode hex: ec7a  unicode: eeb1ba 
+['\uec7b', 'Shem', 'ec7b', 'Sem']
+getunicode ec7b
+getunicode hex: ec7b  unicode: eeb1bb 
+['\ue0c9', 'Sheol', 'e0c9', 'Inferno']
+getunicode e0c9
+getunicode hex: e0c9  unicode: ee8389 
+['\ue271', 'shepherd', 'e271', 'pastor']
+getunicode e271
+getunicode hex: e271  unicode: ee89b1 
+['\ue388', 'shield', 'e388', 'escudo']
+getunicode e388
+getunicode hex: e388  unicode: ee8e88 
+['\ue12e', 'shoe', 'e12e', 'sapato']
+getunicode e12e
+getunicode hex: e12e  unicode: ee84ae 
+['\ue149', 'shout', 'e149', 'gritar']
+getunicode e149
+getunicode hex: e149  unicode: ee8589 
+['\ue10d', 'side', 'e10d', 'lado']
+getunicode e10d
+getunicode hex: e10d  unicode: ee848d 
+['\ue33c', 'Sidon_city', 'e33c', 'Sidom']
+getunicode e33c
+getunicode hex: e33c  unicode: ee8cbc 
+['\ue047', 'sigh', 'e047', 'suspiro']
+getunicode e047
+getunicode hex: e047  unicode: ee8187 
+['\ue0a9', 'sign', 'e0a9', 'sinal']
+getunicode e0a9
+getunicode hex: e0a9  unicode: ee82a9 
+['\ueb41', 'Silas', 'eb41', 'Silas']
+getunicode eb41
+getunicode hex: eb41  unicode: eead81 
+['\uebb1', 'Siloam_city', 'ebb1', 'Siloé']
+getunicode ebb1
+getunicode hex: ebb1  unicode: eeaeb1 
+['\ueca9', 'Silvanus', 'eca9', 'Silvano']
+getunicode eca9
+getunicode hex: eca9  unicode: eeb2a9 
+['\ueb2b', 'silver', 'eb2b', 'prata']
+getunicode eb2b
+getunicode hex: eb2b  unicode: eeacab 
+['\uea47', 'Simeon', 'ea47', 'Simeão']
+getunicode ea47
+getunicode hex: ea47  unicode: eea987 
+['\uea92', 'Simon_Jesus_Brother', 'ea92', 'Simão_irmão_de_Jesus']
+getunicode ea92
+getunicode hex: ea92  unicode: eeaa92 
+['\ue37c', 'Simon_of_Cyrene', 'e37c', 'Simão_de_Cirene']
+getunicode e37c
+getunicode hex: e37c  unicode: ee8dbc 
+['\ue364', 'Simon_the_Canaanite', 'e364', 'Simão_o_Zelote']
+getunicode e364
+getunicode hex: e364  unicode: ee8da4 
+['\ue0f8', 'Simon_the_Leper', 'e0f8', 'Simão_o_Leproso']
+getunicode e0f8
+getunicode hex: e0f8  unicode: ee83b8 
+['\ue151', 'sinner', 'e151', 'pecador']
+getunicode e151
+getunicode hex: e151  unicode: ee8591 
+['\ue00e', 'sister', 'e00e', 'irmã']
+getunicode e00e
+getunicode hex: e00e  unicode: ee808e 
+['\ue00f', 'sisters', 'e00f', 'irmãs']
+getunicode e00f
+getunicode hex: e00f  unicode: ee808f 
+['\ue291', 'six', 'e291', 'seis']
+getunicode e291
+getunicode hex: e291  unicode: ee8a91 
+['\ue20f', 'skull', 'e20f', 'crânio']
+getunicode e20f
+getunicode hex: e20f  unicode: ee888f 
+['\uec8b', 'sky', 'ec8b', 'céu']
+getunicode ec8b
+getunicode hex: ec8b  unicode: eeb28b 
+['\ue10e', 'slave', 'e10e', 'escravo']
+getunicode e10e
+getunicode hex: e10e  unicode: ee848e 
+['\ue19c', 'slow', 'e19c', 'lento']
+getunicode e19c
+getunicode hex: e19c  unicode: ee869c 
+['\ue32e', 'smaller', 'e32e', 'menor']
+getunicode e32e
+getunicode hex: e32e  unicode: ee8cae 
+['\uec03', 'smoke', 'ec03', 'fumaça']
+getunicode ec03
+getunicode hex: ec03  unicode: eeb083 
+['\uec9a', 'smooth', 'ec9a', 'suave']
+getunicode ec9a
+getunicode hex: ec9a  unicode: eeb29a 
+['\uebf5', 'Smyrna', 'ebf5', 'Esmirna']
+getunicode ebf5
+getunicode hex: ebf5  unicode: eeafb5 
+['\ue30c', 'snake', 'e30c', 'serpente']
+getunicode e30c
+getunicode hex: e30c  unicode: ee8c8c 
+['\uebfb', 'snow', 'ebfb', 'neve']
+getunicode ebfb
+getunicode hex: ebfb  unicode: eeafbb 
+['\uea8e', 'Sodom', 'ea8e', 'Sodoma']
+getunicode ea8e
+getunicode hex: ea8e  unicode: eeaa8e 
+['\ue268', 'soft', 'e268', 'suave']
+getunicode e268
+getunicode hex: e268  unicode: ee89a8 
+['\ue12f', 'soldier', 'e12f', 'soldado']
+getunicode e12f
+getunicode hex: e12f  unicode: ee84af 
+['\uea32', 'Solomon', 'ea32', 'Salomão']
+getunicode ea32
+getunicode hex: ea32  unicode: eea8b2 
+['\ue004', 'son', 'e004', 'filho']
+getunicode e004
+getunicode hex: e004  unicode: ee8084 
+['\ue352', 'Son_of_Man', 'e352', 'Filho_do_Homem']
+getunicode e352
+getunicode hex: e352  unicode: ee8d92 
+['\ue005', 'sons', 'e005', 'filhos']
+getunicode e005
+getunicode hex: e005  unicode: ee8085 
+['\uec20', 'Sopater', 'ec20', 'Sópatro']
+getunicode ec20
+getunicode hex: ec20  unicode: eeb0a0 
+['\uec8c', 'sorcery', 'ec8c', 'feitiçaria']
+getunicode ec8c
+getunicode hex: ec8c  unicode: eeb28c 
+['\ueb3c', 'Sosthenes', 'eb3c', 'Sóstenes']
+getunicode eb3c
+getunicode hex: eb3c  unicode: eeacbc 
+['\ue10f', 'soul', 'e10f', 'alma']
+getunicode e10f
+getunicode hex: e10f  unicode: ee848f 
+['\uea31', 'south', 'ea31', 'sul']
+getunicode ea31
+getunicode hex: ea31  unicode: eea8b1 
+['\ue07d', 'sow', 'e07d', 'semear']
+getunicode e07d
+getunicode hex: e07d  unicode: ee81bd 
+['\uebd6', 'Spain', 'ebd6', 'Espanha']
+getunicode ebd6
+getunicode hex: ebd6  unicode: eeaf96 
+['\uecfe', 'spice', 'ecfe', 'apimentar']
+getunicode ecfe
+getunicode hex: ecfe  unicode: eeb3be 
+['\ue187', 'spirit', 'e187', 'espírito']
+getunicode e187
+getunicode hex: e187  unicode: ee8687 
+['\ue048', 'spit', 'e048', 'cuspir']
+getunicode e048
+getunicode hex: e048  unicode: ee8188 
+['\uea18', 'sponge', 'ea18', 'esponja']
+getunicode ea18
+getunicode hex: ea18  unicode: eea898 
+['\ued07', 'spy', 'ed07', 'espião']
+getunicode ed07
+getunicode hex: ed07  unicode: eeb487 
+['\uebd7', 'Stachys', 'ebd7', 'Estáquis']
+getunicode ebd7
+getunicode hex: ebd7  unicode: eeaf97 
+['\ue14c', 'staff', 'e14c', 'pessoal']
+getunicode e14c
+getunicode hex: e14c  unicode: ee858c 
+['\ue32c', 'stand', 'e32c', 'ficar_de_pé']
+getunicode e32c
+getunicode hex: e32c  unicode: ee8cac 
+['\ue0c3', 'star', 'e0c3', 'estrela']
+getunicode e0c3
+getunicode hex: e0c3  unicode: ee8383 
+['\ue07b', 'steal', 'e07b', 'roubar']
+getunicode e07b
+getunicode hex: e07b  unicode: ee81bb 
+['\uea01', 'stem', 'ea01', 'haste']
+getunicode ea01
+getunicode hex: ea01  unicode: eea881 
+['\uebea', 'Stephanas', 'ebea', 'Estéfanas']
+getunicode ebea
+getunicode hex: ebea  unicode: eeafaa 
+['\ueb6b', 'Stephen', 'eb6b', 'Estêvão']
+getunicode eb6b
+getunicode hex: eb6b  unicode: eeadab 
+['\ue266', 'stern', 'e266', 'severo']
+getunicode e266
+getunicode hex: e266  unicode: ee89a6 
+['\ue07c', 'stewardship', 'e07c', 'mordomia']
+getunicode e07c
+getunicode hex: e07c  unicode: ee81bc 
+['\ue398', 'stick', 'e398', 'vara']
+getunicode e398
+getunicode hex: e398  unicode: ee8e98 
+['\uec06', 'Stoic', 'ec06', 'estóico']
+getunicode ec06
+getunicode hex: ec06  unicode: eeb086 
+['\ue0c8', 'stomach', 'e0c8', 'estômago']
+getunicode e0c8
+getunicode hex: e0c8  unicode: ee8388 
+['\ue073', 'stop', 'e073', 'parar']
+getunicode e073
+getunicode hex: e073  unicode: ee81b3 
+['\uec43', 'storehouse', 'ec43', 'armazém']
+getunicode ec43
+getunicode hex: ec43  unicode: eeb183 
+['\ue27c', 'storm', 'e27c', 'tempestade']
+getunicode e27c
+getunicode hex: e27c  unicode: ee89bc 
+['\ue313', 'straight', 'e313', 'direito']
+getunicode e313
+getunicode hex: e313  unicode: ee8c93 
+['\ue069', 'stranger', 'e069', 'desconhecido']
+getunicode e069
+getunicode hex: e069  unicode: ee81a9 
+['\ueb33', 'strangled', 'eb33', 'estrangulado']
+getunicode eb33
+getunicode hex: eb33  unicode: eeacb3 
+['\ue31c', 'stretch', 'e31c', 'esticar']
+getunicode e31c
+getunicode hex: e31c  unicode: ee8c9c 
+['\uecc7', 'string', 'ecc7', 'corda']
+getunicode ecc7
+getunicode hex: ecc7  unicode: eeb387 
+['\ue08a', 'strong', 'e08a', 'forte']
+getunicode e08a
+getunicode hex: e08a  unicode: ee828a 
+['\ue257', 'stumble', 'e257', 'tropeçar']
+getunicode e257
+getunicode hex: e257  unicode: ee8997 
+['\uea27', 'stumbling_block', 'ea27', 'predra_de_tropeço']
+getunicode ea27
+getunicode hex: ea27  unicode: eea8a7 
+['\ue222', 'suffer', 'e222', 'sofrer']
+getunicode e222
+getunicode hex: e222  unicode: ee88a2 
+['\ue0c4', 'summer', 'e0c4', 'verão']
+getunicode e0c4
+getunicode hex: e0c4  unicode: ee8384 
+['\ue161', 'sundown', 'e161', 'pôr_do_sol']
+getunicode e161
+getunicode hex: e161  unicode: ee85a1 
+['\uec7c', 'Susanna', 'ec7c', 'Suzana']
+getunicode ec7c
+getunicode hex: ec7c  unicode: eeb1bc 
+['\ue30d', 'sweet', 'e30d', 'doce']
+getunicode e30d
+getunicode hex: e30d  unicode: ee8c8d 
+['\ue282', 'sword', 'e282', 'espada']
+getunicode e282
+getunicode hex: e282  unicode: ee8a82 
+['\ue0b9', 'synagogue', 'e0b9', 'sinagoga']
+getunicode e0b9
+getunicode hex: e0b9  unicode: ee82b9 
+['\uece6', 'Syntyche', 'ece6', 'Síntique']
+getunicode ece6
+getunicode hex: ece6  unicode: eeb3a6 
+['\uec1c', 'Syracuse', 'ec1c', 'Siracusa']
+getunicode ec1c
+getunicode hex: ec1c  unicode: eeb09c 
+['\ue342', 'Syria', 'e342', 'Síria']
+getunicode e342
+getunicode hex: e342  unicode: ee8d82 
+['\ueb32', 'tabernacle', 'eb32', 'tabernáculo']
+getunicode eb32
+getunicode hex: eb32  unicode: eeacb2 
+['\ue280', 'table', 'e280', 'mesa']
+getunicode e280
+getunicode hex: e280  unicode: ee8a80 
+['\uecd6', 'tail', 'ecd6', 'cauda']
+getunicode ecd6
+getunicode hex: ecd6  unicode: eeb396 
+['\uea4e', 'Tamar', 'ea4e', 'Tamar']
+getunicode ea4e
+getunicode hex: ea4e  unicode: eea98e 
+['\uec30', 'Tarsus', 'ec30', 'Tarso']
+getunicode ec30
+getunicode hex: ec30  unicode: eeb0b0 
+['\uea07', 'taste', 'ea07', 'provar']
+getunicode ea07
+getunicode hex: ea07  unicode: eea887 
+['\ue02b', 'tax', 'e02b', 'imposto']
+getunicode e02b
+getunicode hex: e02b  unicode: ee80ab 
+['\ue12a', 'tax_collector', 'e12a', 'coletor_de_imposto']
+getunicode e12a
+getunicode hex: e12a  unicode: ee84aa 
+['\ue04c', 'teach', 'e04c', 'ensinar']
+getunicode e04c
+getunicode hex: e04c  unicode: ee818c 
+['\ue12b', 'teacher', 'e12b', 'professor']
+getunicode e12b
+getunicode hex: e12b  unicode: ee84ab 
+['\ue0b1', 'teeth', 'e0b1', 'dente']
+getunicode e0b1
+getunicode hex: e0b1  unicode: ee82b1 
+['\ue03d', 'temple', 'e03d', 'templo']
+getunicode e03d
+getunicode hex: e03d  unicode: ee80bd 
+['\ue183', 'tempt', 'e183', 'tentado']
+getunicode e183
+getunicode hex: e183  unicode: ee8683 
+['\ue295', 'ten', 'e295', 'dez']
+getunicode e295
+getunicode hex: e295  unicode: ee8a95 
+['\uec7d', 'Terah_man', 'ec7d', 'Tera']
+getunicode ec7d
+getunicode hex: ec7d  unicode: eeb1bd 
+['\uebee', 'Tertius', 'ebee', 'Tércio']
+getunicode ebee
+getunicode hex: ebee  unicode: eeafae 
+['\ueb9b', 'Tertullus', 'eb9b', 'Tértulo']
+getunicode eb9b
+getunicode hex: eb9b  unicode: eeae9b 
+['\uec21', 'test', 'ec21', 'teste']
+getunicode ec21
+getunicode hex: ec21  unicode: eeb0a1 
+['\ue22e', 'testimony', 'e22e', 'testemunho']
+getunicode e22e
+getunicode hex: e22e  unicode: ee88ae 
+['\ue37b', 'Thaddaeus', 'e37b', 'Tadeu']
+getunicode e37b
+getunicode hex: e37b  unicode: ee8dbb 
+['\ue125', 'them', 'e125', 'eles']
+getunicode e125
+getunicode hex: e125  unicode: ee84a5 
+['\ueb67', 'Theophilus', 'eb67', 'Teófilo']
+getunicode eb67
+getunicode hex: eb67  unicode: eeada7 
+['\ueb12', 'Thessalonica', 'eb12', 'Tessalônica']
+getunicode eb12
+getunicode hex: eb12  unicode: eeac92 
+['\ueb71', 'Theudas', 'eb71', 'Teudas']
+getunicode eb71
+getunicode hex: eb71  unicode: eeadb1 
+['\ued0d', 'thigh', 'ed0d', 'coxa']
+getunicode ed0d
+getunicode hex: ed0d  unicode: eeb48d 
+['\ue105', 'thing', 'e105', 'coisa']
+getunicode e105
+getunicode hex: e105  unicode: ee8485 
+['\ueccf', 'thirst', 'eccf', 'sede']
+getunicode eccf
+getunicode hex: eccf  unicode: eeb38f 
+['\ue226', 'this', 'e226', 'esta']
+getunicode e226
+getunicode hex: e226  unicode: ee88a6 
+['\ue363', 'Thomas', 'e363', 'Tomé']
+getunicode e363
+getunicode hex: e363  unicode: ee8da3 
+['\ue27b', 'thorn', 'e27b', 'espinho']
+getunicode e27b
+getunicode hex: e27b  unicode: ee89bb 
+['\ue296', 'thousand', 'e296', 'mil']
+getunicode e296
+getunicode hex: e296  unicode: ee8a96 
+['\ue28e', 'three', 'e28e', 'três']
+getunicode e28e
+getunicode hex: e28e  unicode: ee8a8e 
+['\uea39', 'threshing', 'ea39', 'debulha']
+getunicode ea39
+getunicode hex: ea39  unicode: eea8b9 
+['\uec42', 'threshing_floor', 'ec42', 'eira']
+getunicode ec42
+getunicode hex: ec42  unicode: eeb182 
+['\uec84', 'throne', 'ec84', 'trono']
+getunicode ec84
+getunicode hex: ec84  unicode: eeb284 
+['\ue327', 'throw', 'e327', 'lançar']
+getunicode e327
+getunicode hex: e327  unicode: ee8ca7 
+['\ue044', 'thunder', 'e044', 'trovão']
+getunicode e044
+getunicode hex: e044  unicode: ee8184 
+['\ueb52', 'Thyatira', 'eb52', 'Tiatira']
+getunicode eb52
+getunicode hex: eb52  unicode: eead92 
+['\uebb0', 'Tiberias_city', 'ebb0', 'Tiberíades']
+getunicode ebb0
+getunicode hex: ebb0  unicode: eeaeb0 
+['\uec3d', 'Tiberius_man', 'ec3d', 'Tibério']
+getunicode ec3d
+getunicode hex: ec3d  unicode: eeb0bd 
+['\ue36c', 'Timaeus', 'e36c', 'Timeu']
+getunicode e36c
+getunicode hex: e36c  unicode: ee8dac 
+['\ue16a', 'time', 'e16a', 'tempo']
+getunicode e16a
+getunicode hex: e16a  unicode: ee85aa 
+['\uec96', 'Timon', 'ec96', 'Timão']
+getunicode ec96
+getunicode hex: ec96  unicode: eeb296 
+['\uec02', 'Timothy', 'ec02', 'Timóteo']
+getunicode ec02
+getunicode hex: ec02  unicode: eeb082 
+['\ued0f', 'tithe', 'ed0f', 'dízimo']
+getunicode ed0f
+getunicode hex: ed0f  unicode: eeb48f 
+['\ueb38', 'Titus', 'eb38', 'Tito']
+getunicode eb38
+getunicode hex: eb38  unicode: eeacb8 
+['\ue045', 'tongue', 'e045', 'língua']
+getunicode e045
+getunicode hex: e045  unicode: ee8185 
+['\ueb34', 'tool', 'eb34', 'ferramenta']
+getunicode eb34
+getunicode hex: eb34  unicode: eeacb4 
+['\ue10c', 'touch', 'e10c', 'tocar']
+getunicode e10c
+getunicode hex: e10c  unicode: ee848c 
+['\ue30f', 'tower', 'e30f', 'torre']
+getunicode e30f
+getunicode hex: e30f  unicode: ee8c8f 
+['\uec3f', 'Trachonitis', 'ec3f', 'Traconites']
+getunicode ec3f
+getunicode hex: ec3f  unicode: eeb0bf 
+['\ue31f', 'transfiguration', 'e31f', 'transfiguração']
+getunicode e31f
+getunicode hex: e31f  unicode: ee8c9f 
+['\uea81', 'tribe', 'ea81', 'tribu']
+getunicode ea81
+getunicode hex: ea81  unicode: eeaa81 
+['\uec0b', 'Troas', 'ec0b', 'Trôade']
+getunicode ec0b
+getunicode hex: ec0b  unicode: eeb08b 
+['\ueb1e', 'Trophimus', 'eb1e', 'Trófimo']
+getunicode eb1e
+getunicode hex: eb1e  unicode: eeac9e 
+['\ue333', 'trouble', 'e333', 'problema']
+getunicode e333
+getunicode hex: e333  unicode: ee8cb3 
+['\ue09c', 'true', 'e09c', 'verdadeiro']
+getunicode e09c
+getunicode hex: e09c  unicode: ee829c 
+['\uea79', 'trumpet', 'ea79', 'trompete']
+getunicode ea79
+getunicode hex: ea79  unicode: eea9b9 
+['\ue023', 'trust', 'e023', 'confiar_em']
+getunicode e023
+getunicode hex: e023  unicode: ee80a3 
+['\ueb94', 'try', 'eb94', 'experimentar']
+getunicode eb94
+getunicode hex: eb94  unicode: eeae94 
+['\uebd8', 'Tryphaena', 'ebd8', 'Trifena']
+getunicode ebd8
+getunicode hex: ebd8  unicode: eeaf98 
+['\uebd9', 'Tryphosa', 'ebd9', 'Trifosa']
+getunicode ebd9
+getunicode hex: ebd9  unicode: eeaf99 
+['\uec1b', 'twin', 'ec1b', 'gêmeo']
+getunicode ec1b
+getunicode hex: ec1b  unicode: eeb09b 
+['\ue28d', 'two', 'e28d', 'dois']
+getunicode e28d
+getunicode hex: e28d  unicode: ee8a8d 
+['\uecbb', 'Tychicus', 'ecbb', 'Tíquico']
+getunicode ecbb
+getunicode hex: ecbb  unicode: eeb2bb 
+['\ueb3f', 'Tyrannus', 'eb3f', 'Tirano']
+getunicode eb3f
+getunicode hex: eb3f  unicode: eeacbf 
+['\ue33b', 'Tyre', 'e33b', 'Tiro']
+getunicode e33b
+getunicode hex: e33b  unicode: ee8cbb 
+['\ue10a', 'under', 'e10a', 'debaixo']
+getunicode e10a
+getunicode hex: e10a  unicode: ee848a 
+['\ue063', 'understand', 'e063', 'entender']
+getunicode e063
+getunicode hex: e063  unicode: ee81a3 
+['\ue297', 'unity', 'e297', 'unidade']
+getunicode e297
+getunicode hex: e297  unicode: ee8a97 
+['\ue043', 'unleavened', 'e043', 'não_levedado']
+getunicode e043
+getunicode hex: e043  unicode: ee8183 
+['\ue37f', 'untie', 'e37f', 'desatar']
+getunicode e37f
+getunicode hex: e37f  unicode: ee8dbf 
+['\ue16c', 'until', 'e16c', 'até']
+getunicode e16c
+getunicode hex: e16c  unicode: ee85ac 
+['\ue315', 'up', 'e315', 'acima']
+getunicode e315
+getunicode hex: e315  unicode: ee8c95 
+['\uebda', 'Urbanus', 'ebda', 'Urbano']
+getunicode ebda
+getunicode hex: ebda  unicode: eeaf9a 
+['\uea46', 'Uriah', 'ea46', 'Urias']
+getunicode ea46
+getunicode hex: ea46  unicode: eea986 
+['\ue167', 'us', 'e167', 'nos']
+getunicode e167
+getunicode hex: e167  unicode: ee85a7 
+['\ue08d', 'use', 'e08d', 'usar']
+getunicode e08d
+getunicode hex: e08d  unicode: ee828d 
+['\uea5f', 'Uzziah', 'ea5f', 'Uzias']
+getunicode ea5f
+getunicode hex: ea5f  unicode: eea99f 
+['\ueba7', 'valley', 'eba7', 'vale']
+getunicode eba7
+getunicode hex: eba7  unicode: eeaea7 
+['\ue09b', 'value', 'e09b', 'valor']
+getunicode e09b
+getunicode hex: e09b  unicode: ee829b 
+['\ue0b4', 'vendor', 'e0b4', 'vendedor']
+getunicode e0b4
+getunicode hex: e0b4  unicode: ee82b4 
+['\ue211', 'very', 'e211', 'muito']
+getunicode e211
+getunicode hex: e211  unicode: ee8891 
+['\ue19a', 'village', 'e19a', 'vila']
+getunicode e19a
+getunicode hex: e19a  unicode: ee869a 
+['\uec91', 'vine', 'ec91', 'vinho']
+getunicode ec91
+getunicode hex: ec91  unicode: eeb291 
+['\ue27f', 'vineyard', 'e27f', 'vinhedo']
+getunicode e27f
+getunicode hex: e27f  unicode: ee89bf 
+['\uea7e', 'virgin', 'ea7e', 'virgem']
+getunicode ea7e
+getunicode hex: ea7e  unicode: eea9be 
+['\ue042', 'voice', 'e042', 'voz']
+getunicode e042
+getunicode hex: e042  unicode: ee8182 
+['\ue391', 'waist', 'e391', 'cintura']
+getunicode e391
+getunicode hex: e391  unicode: ee8e91 
+['\uea11', 'wait', 'ea11', 'esperar']
+getunicode ea11
+getunicode hex: ea11  unicode: eea891 
+['\ue256', 'walk', 'e256', 'caminhar']
+getunicode e256
+getunicode hex: e256  unicode: ee8996 
+['\ue288', 'wall', 'e288', 'parede']
+getunicode e288
+getunicode hex: e288  unicode: ee8a88 
+['\ue08b', 'wash', 'e08b', 'lavar']
+getunicode e08b
+getunicode hex: e08b  unicode: ee828b 
+['\ue0a8', 'watchman', 'e0a8', 'guarda']
+getunicode e0a8
+getunicode hex: e0a8  unicode: ee82a8 
+['\ue23a', 'watchtower', 'e23a', 'atalaia']
+getunicode e23a
+getunicode hex: e23a  unicode: ee88ba 
+['\ue247', 'water', 'e247', 'água']
+getunicode e247
+getunicode hex: e247  unicode: ee8987 
+['\ue328', 'wave', 'e328', 'onda']
+getunicode e328
+getunicode hex: e328  unicode: ee8ca8 
+['\uea24', 'weak', 'ea24', 'fraco']
+getunicode ea24
+getunicode hex: ea24  unicode: eea8a4 
+['\uebfe', 'weary', 'ebfe', 'cansado']
+getunicode ebfe
+getunicode hex: ebfe  unicode: eeafbe 
+['\ue011', 'wedding', 'e011', 'casamento']
+getunicode e011
+getunicode hex: e011  unicode: ee8091 
+['\uebb2', 'week', 'ebb2', 'semana']
+getunicode ebb2
+getunicode hex: ebb2  unicode: eeaeb2 
+['\ue0e6', 'weigh', 'e0e6', 'pesar']
+getunicode e0e6
+getunicode hex: e0e6  unicode: ee83a6 
+['\uebb3', 'well', 'ebb3', 'bem']
+getunicode ebb3
+getunicode hex: ebb3  unicode: eeaeb3 
+['\uea89', 'west', 'ea89', 'oeste']
+getunicode ea89
+getunicode hex: ea89  unicode: eeaa89 
+['\ue109', 'what', 'e109', 'o_que']
+getunicode e109
+getunicode hex: e109  unicode: ee8489 
+['\ue15a', 'where', 'e15a', 'onde']
+getunicode e15a
+getunicode hex: e15a  unicode: ee859a 
+['\ue310', 'whip', 'e310', 'chicote']
+getunicode e310
+getunicode hex: e310  unicode: ee8c90 
+['\ue285', 'white', 'e285', 'branco']
+getunicode e285
+getunicode hex: e285  unicode: ee8a85 
+['\ue1a1', 'who', 'e1a1', 'quem']
+getunicode e1a1
+getunicode hex: e1a1  unicode: ee86a1 
+['\ue067', 'why', 'e067', 'porque']
+getunicode e067
+getunicode hex: e067  unicode: ee81a7 
+['\uecc4', 'wide', 'ecc4', 'amplo']
+getunicode ecc4
+getunicode hex: ecc4  unicode: eeb384 
+['\ue016', 'widow', 'e016', 'viúva']
+getunicode e016
+getunicode hex: e016  unicode: ee8096 
+['\ue014', 'wife', 'e014', 'esposa']
+getunicode e014
+getunicode hex: e014  unicode: ee8094 
+['\ue17e', 'wild', 'e17e', 'selvagem']
+getunicode e17e
+getunicode hex: e17e  unicode: ee85be 
+['\ue220', 'wind', 'e220', 'vento']
+getunicode e220
+getunicode hex: e220  unicode: ee88a0 
+['\ue311', 'window', 'e311', 'janela']
+getunicode e311
+getunicode hex: e311  unicode: ee8c91 
+['\ue275', 'wine', 'e275', 'vinho']
+getunicode e275
+getunicode hex: e275  unicode: ee89b5 
+['\ueb7d', 'wing', 'eb7d', 'asa']
+getunicode eb7d
+getunicode hex: eb7d  unicode: eeadbd 
+['\uec41', 'winnowing_fork', 'ec41', 'garfo_de_tração']
+getunicode ec41
+getunicode hex: ec41  unicode: eeb181 
+['\ue16b', 'winter', 'e16b', 'inverno']
+getunicode e16b
+getunicode hex: e16b  unicode: ee85ab 
+['\ue064', 'wisdom', 'e064', 'sabedoria']
+getunicode e064
+getunicode hex: e064  unicode: ee81a4 
+['\ue24c', 'with', 'e24c', 'com']
+getunicode e24c
+getunicode hex: e24c  unicode: ee898c 
+['\ue008', 'woman', 'e008', 'mulher']
+getunicode e008
+getunicode hex: e008  unicode: ee8088 
+['\uebfa', 'wool', 'ebfa', 'lã']
+getunicode ebfa
+getunicode hex: ebfa  unicode: eeafba 
+['\uebb4', 'word', 'ebb4', 'palavra']
+getunicode ebb4
+getunicode hex: ebb4  unicode: eeaeb4 
+['\uebb8', 'Word', 'ebb8', 'Palavra']
+getunicode ebb8
+getunicode hex: ebb8  unicode: eeaeb8 
+['\ue129', 'world', 'e129', 'mundo']
+getunicode e129
+getunicode hex: e129  unicode: ee84a9 
+['\uea06', 'worm', 'ea06', 'minhoca']
+getunicode ea06
+getunicode hex: ea06  unicode: eea886 
+['\uecd3', 'Wormwood', 'ecd3', 'absinto']
+getunicode ecd3
+getunicode hex: ecd3  unicode: eeb393 
+['\ue182', 'worse', 'e182', 'pior']
+getunicode e182
+getunicode hex: e182  unicode: ee8682 
+['\uea19', 'wrap', 'ea19', 'envolver']
+getunicode ea19
+getunicode hex: ea19  unicode: eea899 
+['\ue02a', 'wrath_of_God', 'e02a', 'ira_de_Deus']
+getunicode e02a
+getunicode hex: e02a  unicode: ee80aa 
+['\uea02', 'wrong', 'ea02', 'errado']
+getunicode ea02
+getunicode hex: ea02  unicode: eea882 
+['\ue0c7', 'Yahweh', 'e0c7', 'Yahweh_Jeová']
+getunicode e0c7
+getunicode hex: e0c7  unicode: ee8387 
+['\ue15e', 'year', 'e15e', 'ano']
+getunicode e15e
+getunicode hex: e15e  unicode: ee859e 
+['\uecdb', 'yellow', 'ecdb', 'amarelo']
+getunicode ecdb
+getunicode hex: ecdb  unicode: eeb39b 
+['\ueb09', 'yoke', 'eb09', 'jugo']
+getunicode eb09
+getunicode hex: eb09  unicode: eeac89 
+['\ue314', 'you', 'e314', 'você']
+getunicode e314
+getunicode hex: e314  unicode: ee8c94 
+['\ue0f1', 'young', 'e0f1', 'jovem']
+getunicode e0f1
+getunicode hex: e0f1  unicode: ee83b1 
+['\uec7e', 'Zacchaeus', 'ec7e', 'Zaqueu']
+getunicode ec7e
+getunicode hex: ec7e  unicode: eeb1be 
+['\uea6d', 'Zadok', 'ea6d', 'Zadoque']
+getunicode ea6d
+getunicode hex: ea6d  unicode: eea9ad 
+['\uec7f', 'Zarephath', 'ec7f', 'Sarepta']
+getunicode ec7f
+getunicode hex: ec7f  unicode: eeb1bf 
+['\ue359', 'Zebedee', 'e359', 'Zebedeu']
+getunicode e359
+getunicode hex: e359  unicode: ee8d99 
+['\uea3f', 'Zebulun', 'ea3f', 'Zebulom']
+getunicode ea3f
+getunicode hex: ea3f  unicode: eea8bf 
+['\uea98', 'Zechariah', 'ea98', 'Zacarias']
+getunicode ea98
+getunicode hex: ea98  unicode: eeaa98 
+['\ued09', 'Zenas', 'ed09', 'Zenas']
+getunicode ed09
+getunicode hex: ed09  unicode: eeb489 
+['\uea4d', 'Zerah', 'ea4d', 'Zera']
+getunicode ea4d
+getunicode hex: ea4d  unicode: eea98d 
+['\ue28b', 'zero', 'e28b', 'zero']
+getunicode e28b
+getunicode hex: e28b  unicode: ee8a8b 
+['\uea69', 'Zerubbabel', 'ea69', 'Zorobabel']
+getunicode ea69
+getunicode hex: ea69  unicode: eea9a9 
+['\ueb2d', 'Zeus', 'eb2d', 'Júpiter']
+getunicode eb2d
+getunicode hex: eb2d  unicode: eeacad 
+['\ue37e', 'period', 'e37e', 'period']
+getunicode e37e
+getunicode hex: e37e  unicode: ee8dbe 
+['\ue390', 'pos', 'e390', 'pos']
+getunicode e390
+getunicode hex: e390  unicode: ee8e90 
+['\ued11', 'pn', 'ed11', 'pn']
+getunicode ed11
+getunicode hex: ed11  unicode: eeb491 
