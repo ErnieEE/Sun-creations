@@ -1,0 +1,28 @@
+{
+    "filePath": "dist/",
+    "version": "76",
+    "alias": "EN",
+    "language": "English",
+    "sfdFile": "SUN7_6.sfd",
+    "kmnFile": "SUN7_6.kmn",
+    "trlangFile": "D:/Documents/WA-SUN/Scripts/Temp/Translators Dictionary Sun 7_22 on 8_9_2019_fixed.ods",
+    "ttf": "times.ttf",
+    "pwFile": "dist/pw76_EN.csv",
+    "langFile": "dist/pw76_EN.csv",
+    "backFont": "dist/SUNBF76_EN",
+    "kmncsv": "dist/kmn76_EN.csv",
+    "back2doc": "dist/back76.txt",
+    "compactFile": "dist/compact76_EN.ods",
+    "enColumns": {
+        "index_font": 0,
+        "index_name": 1,
+        "index_unicode": 2
+    },
+    "langColumns": {
+        "index_font": 0,
+        "index_name": 1,
+        "index_langName": 1,
+        "index_unicode": 2
+    },
+    "eFilter": ""
+}
