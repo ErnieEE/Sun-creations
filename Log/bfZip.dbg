@@ -1,0 +1,31 @@
+2020-12-11 14:29:20,006   INFO    bfZip:120 - version v.1.4.1
+2020-12-11 14:29:20,006   INFO    bfZip:11 - createFileList
+2020-12-11 14:29:20,006   INFO    bfZip:37 - copy /y D:\Documents\WA-SUN\Scripts\SFU_7_8_1210\Input\sun7_8_1210.sfd  D:\Documents\WA-SUN\Scripts\SFU_7_8_1210\dist
+2020-12-11 14:29:20,054   INFO    bfZip:72 - f sun7_8_1210.sfd
+2020-12-11 14:29:20,054   INFO    bfZip:72 - f sun7_8_1210.kmn
+2020-12-11 14:29:20,054   INFO    bfZip:72 - f pw7_8_1210_EN.ods
+2020-12-11 14:29:20,054   INFO    bfZip:72 - f pw7_8_1210_EN.csv
+2020-12-11 14:29:20,054   INFO    bfZip:72 - f kmn7_8_1210_EN.ods
+2020-12-11 14:29:20,054   INFO    bfZip:72 - f kmn7_8_1210_EN.csv
+2020-12-11 14:29:20,054   INFO    bfZip:72 - f SUNBF7_8_1210_EN.sfd
+2020-12-11 14:29:20,054   INFO    bfZip:72 - f SUNBF7_8_1210_EN.ttf
+2020-12-11 14:29:20,054   INFO    bfZip:72 - f SUNBF7_8_1210_EN.woff
+2020-12-11 14:29:20,054   INFO    bfZip:72 - f compact7_8_1210_EN.ods
+2020-12-11 14:29:20,054   INFO    bfZip:72 - f back7_8_1210_EN.txt
+2020-12-11 14:29:20,054   INFO    bfZip:72 - f readMe.csv
+2020-12-11 14:29:20,054   INFO    bfZip:78 - createReadMe readMe.csv
+2020-12-11 14:29:20,054   INFO    bfZip:99 - version v.1.4.1
+2020-12-11 14:29:20,054   INFO    bfZip:104 - Adding file sun7_8_1210.sfd to zip
+2020-12-11 14:29:20,119   INFO    bfZip:104 - Adding file sun7_8_1210.kmn to zip
+2020-12-11 14:29:20,134   INFO    bfZip:104 - Adding file pw7_8_1210_EN.ods to zip
+2020-12-11 14:29:20,134   INFO    bfZip:104 - Adding file pw7_8_1210_EN.csv to zip
+2020-12-11 14:29:20,134   INFO    bfZip:104 - Adding file kmn7_8_1210_EN.ods to zip
+2020-12-11 14:29:20,134   INFO    bfZip:104 - Adding file kmn7_8_1210_EN.csv to zip
+2020-12-11 14:29:20,150   INFO    bfZip:104 - Adding file SUNBF7_8_1210_EN.sfd to zip
+2020-12-11 14:29:20,290   INFO    bfZip:104 - Adding file SUNBF7_8_1210_EN.ttf to zip
+2020-12-11 14:29:20,306   INFO    bfZip:104 - Adding file SUNBF7_8_1210_EN.woff to zip
+2020-12-11 14:29:20,337   INFO    bfZip:104 - Adding file compact7_8_1210_EN.ods to zip
+2020-12-11 14:29:20,337   INFO    bfZip:104 - Adding file back7_8_1210_EN.txt to zip
+2020-12-11 14:29:20,337   INFO    bfZip:104 - Adding file readMe.csv to zip
+2020-12-11 14:29:20,337   INFO    bfZip:113 - All files zipped successfully!
+2020-12-11 14:29:20,337   INFO    bfZip:151 - Done!  The zipfile file is in dist/SUN7_8_1210_EN.zip

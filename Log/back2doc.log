@@ -1,0 +1,3 @@
+2020-12-11 14:29:11,785   INFO back2doc:40 - version v.1.4.1
+2020-12-11 14:29:11,785   INFO back2doc:20 - read_csv namelist:dist/pw7_8_1210_EN.csv outfile:dist/back7_8_1210_EN.txt
+2020-12-11 14:29:11,926   INFO back2doc:60 - Done!  The backdoc file is in dist/back7_8_1210_EN.txt

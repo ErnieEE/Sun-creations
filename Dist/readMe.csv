@@ -1,0 +1,12 @@
+sun7_8_1210.sfd,SFD file for generating dictionaries
+sun7_8_1210.kmn,KMN file for generating dictionaries
+pw7_8_1210_EN.ods,Primary words dictionary created from sun7_8_1210.sfd
+pw7_8_1210_EN.csv,Primary words dictionary created from sun7_8_1210.sfd
+kmn7_8_1210_EN.ods,Complete dictionary created from sun7_8_1210.kmn
+kmn7_8_1210_EN.csv,Complete dictionary created from sun7_8_1210.kmn
+SUNBF7_8_1210_EN.sfd,Fontforge file created from dist/pw7_8_1210_EN.csv
+SUNBF7_8_1210_EN.ttf,ttf file created from dist/SUNBF7_8_1210_EN.sfd
+SUNBF7_8_1210_EN.woff,woff file created from dist/SUNBF7_8_1210_EN.sfd
+compact7_8_1210_EN.ods,Primary Dictionary in compact form for printing with less paper
+back7_8_1210_EN.txt,All the words printed from the backfont for verification
+readMe.csv,This File

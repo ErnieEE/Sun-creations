@@ -1,0 +1,12 @@
+2020-12-11 14:26:51,066   INFO svg2Font:225 - version v.1.4.1
+2020-12-11 14:26:51,426   INFO svg2Font:220 - ffmetrics ascent= 1420.0 descent= -442.0 xHeight= 916.0
+2020-12-11 14:26:51,426   INFO svg2Font:257 - namelist = , 0
+2020-12-11 14:26:51,426   INFO svg2Font:169 - readlist dist/pw7_8_1210_EN.csv 
+2020-12-11 14:27:12,441   INFO svg2Font:260 - Saving dist/SUNBF7_8_1210_EN.sfd 0
+2020-12-11 14:27:14,722   INFO svg2Font:262 - status = <Font: SUNBF7_8_1210_EN>
+2020-12-11 14:27:14,722   INFO svg2Font:264 - Generating dist/SUNBF7_8_1210_EN.ttf
+2020-12-11 14:28:29,566   INFO svg2Font:267 - status = <Font: SUNBF7_8_1210_EN>
+2020-12-11 14:28:29,566   INFO svg2Font:269 - Generating dist/SUNBF7_8_1210_EN.woff
+2020-12-11 14:29:11,489   INFO svg2Font:272 - status = <Font: SUNBF7_8_1210_EN>
+2020-12-11 14:29:11,489   INFO svg2Font:293 - 
+Done saved font files in dist/SUNBF7_8_1210_EN .ttf |.woff |.sfd

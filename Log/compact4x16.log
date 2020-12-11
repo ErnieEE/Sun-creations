@@ -1,0 +1,60 @@
+2020-12-11 14:29:12,209   INFO compact4x16:187 - version v.1.4.1
+2020-12-11 14:29:12,318   INFO compact4x16:84 - Creating 4 col list length 2918
+2020-12-11 14:29:12,318   INFO compact4x16:89 - processing range 0 - 16
+2020-12-11 14:29:12,334   INFO compact4x16:89 - processing range 64 - 80
+2020-12-11 14:29:12,334   INFO compact4x16:89 - processing range 128 - 144
+2020-12-11 14:29:12,334   INFO compact4x16:89 - processing range 192 - 208
+2020-12-11 14:29:12,334   INFO compact4x16:89 - processing range 256 - 272
+2020-12-11 14:29:12,334   INFO compact4x16:89 - processing range 320 - 336
+2020-12-11 14:29:12,334   INFO compact4x16:89 - processing range 384 - 400
+2020-12-11 14:29:12,334   INFO compact4x16:89 - processing range 448 - 464
+2020-12-11 14:29:12,334   INFO compact4x16:89 - processing range 512 - 528
+2020-12-11 14:29:12,334   INFO compact4x16:89 - processing range 576 - 592
+2020-12-11 14:29:12,334   INFO compact4x16:89 - processing range 640 - 656
+2020-12-11 14:29:12,334   INFO compact4x16:89 - processing range 704 - 720
+2020-12-11 14:29:12,334   INFO compact4x16:89 - processing range 768 - 784
+2020-12-11 14:29:12,334   INFO compact4x16:89 - processing range 832 - 848
+2020-12-11 14:29:12,334   INFO compact4x16:89 - processing range 896 - 912
+2020-12-11 14:29:12,334   INFO compact4x16:89 - processing range 960 - 976
+2020-12-11 14:29:12,349   INFO compact4x16:89 - processing range 1024 - 1040
+2020-12-11 14:29:12,349   INFO compact4x16:89 - processing range 1088 - 1104
+2020-12-11 14:29:12,349   INFO compact4x16:89 - processing range 1152 - 1168
+2020-12-11 14:29:12,349   INFO compact4x16:89 - processing range 1216 - 1232
+2020-12-11 14:29:12,349   INFO compact4x16:89 - processing range 1280 - 1296
+2020-12-11 14:29:12,349   INFO compact4x16:89 - processing range 1344 - 1360
+2020-12-11 14:29:12,349   INFO compact4x16:89 - processing range 1408 - 1424
+2020-12-11 14:29:12,349   INFO compact4x16:89 - processing range 1472 - 1488
+2020-12-11 14:29:12,349   INFO compact4x16:89 - processing range 1536 - 1552
+2020-12-11 14:29:12,349   INFO compact4x16:89 - processing range 1600 - 1616
+2020-12-11 14:29:12,349   INFO compact4x16:89 - processing range 1664 - 1680
+2020-12-11 14:29:12,349   INFO compact4x16:89 - processing range 1728 - 1744
+2020-12-11 14:29:12,349   INFO compact4x16:89 - processing range 1792 - 1808
+2020-12-11 14:29:12,349   INFO compact4x16:89 - processing range 1856 - 1872
+2020-12-11 14:29:12,365   INFO compact4x16:89 - processing range 1920 - 1936
+2020-12-11 14:29:12,365   INFO compact4x16:89 - processing range 1984 - 2000
+2020-12-11 14:29:12,365   INFO compact4x16:89 - processing range 2048 - 2064
+2020-12-11 14:29:12,365   INFO compact4x16:89 - processing range 2112 - 2128
+2020-12-11 14:29:12,365   INFO compact4x16:89 - processing range 2176 - 2192
+2020-12-11 14:29:12,365   INFO compact4x16:89 - processing range 2240 - 2256
+2020-12-11 14:29:12,365   INFO compact4x16:89 - processing range 2304 - 2320
+2020-12-11 14:29:12,365   INFO compact4x16:89 - processing range 2368 - 2384
+2020-12-11 14:29:12,365   INFO compact4x16:89 - processing range 2432 - 2448
+2020-12-11 14:29:12,365   INFO compact4x16:89 - processing range 2496 - 2512
+2020-12-11 14:29:12,365   INFO compact4x16:89 - processing range 2560 - 2576
+2020-12-11 14:29:12,365   INFO compact4x16:89 - processing range 2624 - 2640
+2020-12-11 14:29:12,365   INFO compact4x16:89 - processing range 2688 - 2704
+2020-12-11 14:29:12,365   INFO compact4x16:89 - processing range 2752 - 2768
+2020-12-11 14:29:12,381   INFO compact4x16:89 - processing range 2816 - 2832
+2020-12-11 14:29:12,381   INFO compact4x16:89 - processing range 2880 - 2896
+2020-12-11 14:29:12,381   INFO loadFont:81 - process started ['fontloader.exe', 'SUN7_8_1210.ttf']
+2020-12-11 14:29:12,381   INFO loadFont:84 - process pid 7960
+2020-12-11 14:29:13,381   INFO compact4x16:119 - started lf
+2020-12-11 14:29:13,381   INFO compact4x16:122 - arry2xlsx dist/compact7_8_1210_EN.xlsx
+2020-12-11 14:29:13,615   INFO     util:108 - convert2ods dist/compact7_8_1210_EN.xlsx
+2020-12-11 14:29:15,178   INFO     util:111 - convert2ods status 0
+2020-12-11 14:29:15,178   INFO     util:133 - convert2pdf dist/compact7_8_1210_EN.ods
+2020-12-11 14:29:19,740   INFO     util:136 - convert2pdf status 0
+2020-12-11 14:29:19,740   INFO compact4x16:176 - delete existing file dist/compact7_8_1210_EN.xlsx
+2020-12-11 14:29:19,740   INFO loadFont:87 - stop called
+2020-12-11 14:29:19,740   INFO loadFont:89 - write stdin
+2020-12-11 14:29:19,740   INFO compact4x16:216 - ** done ** files are in dist/compact7_8_1210_EN.pdf
